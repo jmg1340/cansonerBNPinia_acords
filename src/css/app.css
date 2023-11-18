@@ -1,0 +1,25 @@
+/* app global css */
+
+.classTornadaTemaClar {
+	color: #c10015;
+}
+
+.classTornadaTemaFosc {
+	color: #f8c75d;
+}
+
+.classEstrofaTemaClar {
+	color: black;
+}
+
+.classEstrofaTemaFosc {
+	color: white;
+}
+
+.classFonsClar {
+	background-color: white;
+}
+
+.classFonsFosc {
+	background-color: black;
+}
