@@ -24,7 +24,7 @@
               <tr
                 v-for="(info,index) in llistatNadales"
                 :key="`llC-${index}`"
-                @click="MostrarCansoDeLaTaula(info.idCanso, info.idioma)"
+                @click="mostrarCansoDeLaTaula(info.idCanso, info.idioma, info.llibre, info.numero)"
               >
                 <td v-if="info.llibre == 'vermell'" class="bg-red text-white text-center">V</td>
                 <td v-if="info.llibre == 'blau'" class="bg-blue-10 text-white text-center">B</td>
@@ -49,64 +49,58 @@
 </template>
 
 <script>
-import objNadales from "../cansoner/nadales.js"
-export default {
+import { ref, computed, defineComponent } from 'vue';
+import { useRouter, useRoute } from 'vue-router'
+
+import arrNadales from "../cansoner/nadales.js"
+
+export default defineComponent({
   name: "componentBusacarPerText",
 
-  data() {
+  setup () {
+    const router = useRouter()
+    // const $q = useQuasar()
+    // const store = useCansoStore()
+
+    const llistaCansonsTrobades = ref([])
+    const llistatNadales = computed( () => { 
+        console.log("arrNadales", arrNadales)
+        // var arrNadales = nadales;
+        var llistat = [];
+  
+        arrNadales.forEach(function(canso) {
+          var objTemp = {};
+          objTemp.idCanso = canso.id;
+  
+          Object.keys( canso.idiomes).forEach( idioma => {
+  
+            objTemp.idioma = idioma;
+            objTemp.llibre = canso.idiomes[idioma].cansoners[0].nom;
+            objTemp.titol = canso.idiomes[idioma].titol;
+            objTemp.numero = canso.idiomes[idioma].cansoners[0].numero;
+            objTemp.audio = canso.idiomes[idioma].audio;
+            objTemp.estat = canso.idiomes[idioma].estat;
+            
+          })
+          llistat.push(objTemp);
+        });
+   
+        console.log("llistat", llistat)
+        return llistat;
+      }
+    )
+
+    const mostrarCansoDeLaTaula = (id, idioma, cansonerNom, cansonerNumero) => {
+      router.push({ name: "canso", query: { id, idioma, cansonerNom, cansonerNumero } })
+    }    
+
     return {
-      //confirmarIdioma: false,
-      //idiomaConfirmat: null,
-
-      llistaCansonsTrobades: []
-    };
-  },
-
-  computed: {
-    llistatNadales: function() {
-      console.log("objNadales", objNadales)
-      // var objNadales = nadales;
-      var llistat = [];
-
-      Object.keys(objNadales).forEach(function(idNadala) {
-        var objTemp = {};
-        objTemp.idCanso = idNadala;
-
-        Object.keys( objNadales[idNadala]).forEach( idioma => {
-
-          objTemp.idioma = idioma;
-          objTemp.llibre =
-          objNadales[idNadala][idioma].cansoner.nom;
-          objTemp.titol = objNadales[idNadala][idioma].titol;
-          objTemp.numero =
-          objNadales[idNadala][idioma].cansoner.numero;
-          objTemp.audio = objNadales[idNadala][idioma].audio;
-          objTemp.estat = objNadales[idNadala][idioma].estat;
-          
-        })
-        llistat.push(objTemp);
-      });
-
-      // return llistat.sort(function(a, b) {
-      //   return a.numero - b.numero;
-      // });
-
-      console.log("llistat", llistat)
-      return llistat;
-    }
-  },
-
-  methods: {
-    MostrarCansoDeLaTaula: function(idCanso, idioma) {
-      // this.$store.dispatch("modulCansoner/actMostrarCanso", {
-      //   llibre: llibre,
-      //   numero_idioma: numero + "_" + idioma
-      // });
-
-      this.$router.push({ name: "canso", query: { idCanso,  idioma } });
+      llistatNadales,
+      mostrarCansoDeLaTaula
     }
   }
-};
+
+});
 </script>
 
 

@@ -1,9 +1,10 @@
 import { defineStore } from 'pinia';
 import cansonerunic from "../cansoner/cansonerUnic"
+import nadales from "../cansoner/nadales"
 
 export const useCansoStore = defineStore('canso', {
   state: () => ({
-    cansonerUnic: cansonerunic,
+    cansonerUnic: cansonerunic.concat(nadales),
   
     // idCanso: null,
     // idioma: null,

@@ -15,7 +15,7 @@
           active-bg-color="grey-9"
           dense
         >
-          <!-- <q-tab name="nadales" label="NADALES" icon="list" class="borde" v-if="nadalesSiNo"/> -->
+          <q-tab name="nadales" label="NADALES" icon="list" class="borde" v-if="nadalesSiNo"/>
           <q-tab name="numero" label="Numero" icon="search" class="borde" />
           <q-tab name="text" label="Text" icon="search" class="borde" />
           <q-tab name="favorits" class="borde">

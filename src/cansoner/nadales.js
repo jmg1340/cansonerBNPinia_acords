@@ -1,838 +1,1017 @@
-export default {
+export default [
 
-    "3001": {
-        "CAT": {
-            "titol": "Venturosa nit de Nadal",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 1
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Aclarida, beneïda,",
-                        "venturosa nit de Nadal.",
-                        "Pel cel hi havia cants d'alegria,",
-                        "Alegrem-nos, alegrem-nos, cristians."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Aclarida, beneïda,",
-                        "venturosa nit de Nadal.",
-                        "Jesús naixia i ens redimia;",
-                        "Alegrem-nos, alegrem-nos, cristians."
-                    ]
-                }
-            ]
+  {
+    "id": "3001",
+    "idiomes": {
+      "CAT": {
+        "titol": "Venturosa nit de Nadal",
+        "audio": null,
+        "estat": null,
+        "cansoners": [{
+          "nom": "nadales",
+          "numero": 1,
+          "estat": null
         }
-    },
-    "3002": {
-        "CAT": {
-            "titol": "Joia en el mon",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 2
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Joia en el món! Jesus es nat!",
-                        "Oh terra el teu Senyor,",
-                        "rep amb amor i amb humilitat,",
-                        "i canta sa llaor, i canta sa llaor,",
-                        "i canta, i canta sa llaor."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Joia en el món!",
-                        "Amb nostres cants lloem el Salvador.",
-                        "Muntanyes, rius, comes i plans",
-                        "ens facin de ressò, ens facin de ressò,",
-                        "ens facin, ens facin de ressò."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Joia en el món!",
-                        "Des del coval Jesus ens obrirà,",
-                        "del Paradís, l'auri portal,",
-                        "i allò ens acollirà, i allò ens acollirà,",
-                        "i allò, i allò ens acollirà."
-                    ]
-                }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Aclarida, beneïda," },
+              { "text": "venturosa nit de Nadal." },
+              { "text": "Pel cel hi havia cants d'alegria," },
+              { "text": "Alegrem-nos, alegrem-nos, cristians." }
             ]
-        }
-    },
-    "3003": {
-        "CAT": {
-            "titol": "Gloria in excelsis Deo",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 3
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "1.Els àngels allò a la Glòria",
-                        "la nova canten amb goig,",
-                        "ie el ressò de les muntanyes",
-                        "espargeix son cant d'amor."
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "GLO..O..RIA IN EXCELSIS DEO"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "2.Una verge a l'establia",
-                        "ha infantat el Fill diví.",
-                        "Ens ho diu amb alegria",
-                        "aquest cant de mitjanit."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "3.Correm-hi, pastors, correm-hi,",
-                        "a besar-li el front de neu,",
-                        "bo i dansant plenws de la joia d'aquest",
-                        "cant que sona arreu."
-                    ]
-                }
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Aclarida, beneïda," },
+              { "text": "venturosa nit de Nadal." },
+              { "text": "Jesús naixia i ens redimia;" },
+              { "text": "Alegrem-nos, alegrem-nos, cristians." }
             ]
-        }
-    },
-    "3004": {
-        "CAT": {
-            "titol": "Que li darem al noi de la mare",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 4
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "1.Que li darem al noi de la mare?",
-                        "Que li darem que li sàpiga bo?",
-                        "Panses i figues, i nous i olives.",
-                        "Panses i figues, i mel i mató. (2)"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "2. Que li darem al fill de Maria?",
-                        "Que li darem al formós infantó?",
-                        "Li darem panses amb unes balances,",
-                        "li darem figues amb un paneró. (2)"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "3. Ram pa tam tam,",
-                        "que les figues són veredes.",
-                        "Ra pa tam tam, que ja maduraran.",
-                        "Si no madure el dia de Pasqua",
-                        "maduararan en el dia del Ram. (2)"
-                    ]
-                }
-            ]
-        }
-    },
-    "3005": {
-        "CAT": {
-            "titol": "Tot es pel meu Crist",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 5
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Tot és pel meu Crist,",
-                        "amb Ell i en Ell. (2)",
-                        "A Ell la glòria (3) per sempre. Amón."
-                    ]
-                }
-            ]
-        }
-    },
-    "3006": {
-        "CAT": {
-            "titol": "Fidels atanseu-vos",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 6
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "1.Fidels, atanseu-vos triomfant i alegres;",
-                        "veniu-hi, veniu-hi cap a Betlem.",
-                        "On podreu veure nat el Rei dels àngels.",
-                        "Veniu i adorem-lo, veniu i adorem-lo,",
-                        "veniu i adorem Jesús Salvador."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "2. Deixant les ramades els pastors",
-                        "anaren, humils, al pessebre,",
-                        "cridats pel cel.",
-                        "Ara nosaltres a bon anem-hi.",
-                        "Veniu i adorem-lo..."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "3. Del Pare celeste, l'Esplendor eterna,",
-                        "velada en la blanca carn admirarem.",
-                        "Déu, infant tendre",
-                        "i amb bolquers que el faixen.",
-                        "Veniu i adorem-lo..."
-                    ]
-                }
-            ]
-        }
-    },
-    "3007": {
-        "CAT": {
-            "titol": "Santa nit",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 7
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "1. Santa nit, plàcida nit;",
-                        "els pastors han sentit:",
-                        "l'al·leluia que els àngels cantant,",
-                        "en el món han estat escampant:",
-                        "'El Messies és nat. El Messies és nat'"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "2. Santa nit, plàcida nit;",
-                        "ja esta tot adormit.",
-                        "Vetlla sols en la cambra bressant dolça",
-                        "Mare que al Nen va cantant.",
-                        "'Dorm en pau i repòs.",
-                        "Domr en pau i repòs'."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "3. Santa nit, plàcida nit:",
-                        "el Jesús tan petit, és el Déu,",
-                        "ser suprem podreós,",
-                        "en humil petitesa reclòs per l'home",
-                        "redimir, per l'home redimir."
-                    ]
-                }
-            ]
-        }
-    },
-    "3008": {
-        "CAT": {
-            "titol": "Les dotze van tocant",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 8
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Les dotze van tocant,",
-                        "ja és nat el Déu infant, fill de Maria,",
-                        "ja és nat (ja és nat) el Déu (el Déu)",
-                        "infant fill de Maria, fill de Maria."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "El cel és estrellat, el món és tot glaçat:",
-                        "neva i venteja. (2)"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "La mare i el fillet estan mig morts de fred,",
-                        "Josep tremola (2)"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Per això van tots cantant:",
-                        "'Ja és nat el Déu infant,",
-                        "fill de Maria' (2)"
-                    ]
-                }
-            ]
-        }
-    },
-    "3009": {
-        "CAT": {
-            "titol": "Sant Josep i la mare de Deu",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 9
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Sant Josep i la Mare de Déu",
-                        "feren companyia bona;",
-                        "partieren de Natzaret",
-                        "matinet a la bon hora"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "Dom, doromdom,",
-                        "la Mare canta i el Fillet dorm."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "No han trobat posada enblloc",
-                        "perquè els veien passa pobres;",
-                        "se'n van a un barraconet",
-                        "fet de jonc i fet de boga."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Replendent és com un sol",
-                        "i brillant com una aurora;",
-                        "és petit i és exierit",
-                        "i flairós com una rosa."
-                    ]
-                }
-            ]
-        }
-    },
-    "3010": {
-        "CAT": {
-            "titol": "Jo canto i m'alegro quan Jesús es nat",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 10
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Al mati jo em llevo i me'n vaig a la font,",
-                        "em rento la cara i a fora la son;",
-                        "el reic no ho pot fer perquè no és llevat."
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "Jo canto i m'alegro quan Jesús és nat."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Jo tinc una jupa tota de vellut,",
-                        "no és llarga ni curta, i vavo tot just;",
-                        "ai, pobre de mi, se m'ha esparracat!"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "Jo canto i m'alegro..."
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "Jo canto i m'alegro quan Jesús és nat."
-                    ]
-                }
-            ]
-        }
-    },
-    "3011": {
-        "CAT": {
-            "titol": "La pastora Caterina",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 11
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "El ric surt de casa ben elegant,",
-                        "amb sabata baixa ie le coll ben planxat;",
-                        "de coll com aquell no n'heu vist mai cap.",
-                        "La pastora Caterina",
-                        "Per presnent li va donar",
-                        "Tres taronges de la Xina",
-                        "I el pessebre va enramar"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "Ara pastors anem junts",
-                        "Cap al portal, que n'és nat",
-                        "un infant com una estrella",
-                        "que a mi ja em té el cor robat.",
-                        "Anton liro-liro-liro Anton liro-liro-la",
-                        "Jesús al pessebre anem-hi a adorar."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Oh, bons pastors, jo diria",
-                        "que en el portal de Betlem",
-                        "prop de Jesús i Maria",
-                        "a dalt del cel ja siguem."
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "Ara pastors..."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Sant Josep per la muntanuya",
-                        "enramat porta el burret.",
-                        "També la verge Maria",
-                        "abraça bé el seu Fillet."
-                    ]
-                }
-            ]
-        }
-    },
-    "3012": {
-        "CAT": {
-            "titol": "No dringuen mai les campanes",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 12
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "1.No dringuen mai les campanes",
-                        "com per Nadal tan suaus,",
-                        "És com si fossin dels àngels",
-                        "cantics d'amor i de pau."
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "d cançó de la nit de Nadal (2)",
-                        "Soni alegre llur clang, clang,",
-                        "ompli de joia l'espai."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "2.Quan les campanes tritllegen",
-                        "baixa del Cel Déu Infant,",
-                        "'Glòria a Déu a l'Empiri',",
-                        "sembla que vagin cantant"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "3.Mars i muntanyes exultin,",
-                        "amb el tritlleig esclatant,",
-                        "que les campanes joioses, ",
-                        "duguin als homes la pau."
-                    ]
-                }
-            ]
-        }
-    },
-    "3013": {
-        "CAT": {
-            "titol": "El vint-i-cinc de desembre",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 13
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "El vint-i-cinc de desembre",
-                        "FUM, FUM, FUM (2)",
-                        "ha nascut un minyonet",
-                        "ros i blanquet, ros i blanquet;",
-                        "fill de la Verge Maria,",
-                        "Es nat en una establia,",
-                        "FUM, FUM, FUM."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Aqui dalt de la muntanya,",
-                        "FUM, FUM, FUM (2)",
-                        "si n'hi ha dos pasturets",
-                        "abrigadets, abrigadets,",
-                        "amb la pell i la samarra,",
-                        "mengen ous i botifarra",
-                        "FUM, FUM , FUM."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Qui dirà més gran mentida?",
-                        "FUM, FUM, FUM (2)",
-                        "ja respon el majoral,",
-                        "amb gran cabal, amb gran cabal,",
-                        "jo faré deu mil camades",
-                        "amb un salt totes plegades",
-                        "FUM, FUM, FUM."
-                    ]
-                }
-            ]
-        }
-    },
-    "3014": {
-        "CAT": {
-            "titol": "Mans, mans, mans a les mans",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 14
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Mans, mans, mans a les mans",
-                        "Deixem les tristeses, diexem els afanys,",
-                        "posem tot seguit les mans a les mans",
-                        "i això reviurem un amor d'infant",
-                        "que compartirem amb tots els germans."
-                    ]
-                }
-            ]
-        }
-    },
-    "3015": {
-        "CAT": {
-            "titol": "Desembre congelat",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 15
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "El desembre congelat confós es retira;",
-                        "Abril de flors coronat,",
-                        "tot el món admira.",
-                        "Quan en un jardí d'amor",
-                        "niex una divina flor.",
-                        "D'una ro, ro, ro, d'una sa, sa, sa",
-                        "D'una ro, d'una sa",
-                        "d'una rosa bella fecunda i ponzella."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Arribaren els tres Reis",
-                        "amb gran alegria,",
-                        "Adorant al Rei del Cel",
-                        "en una establia;",
-                        "Oferint-li tres presents",
-                        "que són or, mirra i encens",
-                        "A la Ma..., a la re... A la Mare Pia,",
-                        "la Verge Maria."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Amb contentament i amor",
-                        "celebrem el dia",
-                        "en el que el diví Senyor",
-                        "neix amb alegria.",
-                        "Si no tenim més tresor,",
-                        "oferim-li el nostre cor,",
-                        "que és la fi, fi, fi, és la ne, ne, ne",
-                        "que és la fi, és la ne",
-                        "que és la gran finesa de nostra probresa."
-                    ]
-                }
-            ]
-        }
-    },
-    "3016": {
-        "CAT": {
-            "titol": "A Betlem me'n vull anar",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 16
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "1. A Betlem m'en vull anar (2)",
-                        "vols venir tu rabadà? (2)"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "VULL ESMORTZAR!"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "2. A Betlem esmortzarem (2)",
-                        "i a Jesús adorarem (2)"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "I AMB NEU I ANEM?"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "3. Per la neu que al camí hi ha (2)",
-                        "la calor ja la fondrà (2)"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "OI, LA QUE FA...!"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "4. Tu les teies portaràs (2)",
-                        "i el camí il·luminaràs (2)"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "NO HO FARÉ PAS."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "5. Alça't, doncs, encén el foc (2)",
-                        "i no aneim a poc a poc (2)"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "MASSA QUE EM MOC..."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "6. Que no saps que aquesta nit (2)",
-                        "Ha nascut Déu infinit (2)"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "QUI T'HO HA DIT?"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "7. Doncs un àngel que volant (2)",
-                        "ens ho anava anunciant (2)"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "NO SERÀ TANT!"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "8. Cantaràs una cançó (2)",
-                        "davant Déu fet infantó (2)"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "TOT SOL?... NO, NO!"
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "9. Au, avant, i no badem (2)",
-                        "que ja és hora que marxem (2)"
-                    ]
-                },
-                {
-                    "tipus": "tornada",
-                    "paragraf": [
-                        "CAP A BETLEM!!!"
-                    ]
-                }
-            ]
-        }
-    },
-    "3017": {
-        "CAT": {
-            "titol": "La flor mes bella",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 17
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "La flor més bella es bada en el roser sagrat;",
-                        "poncella desitjada, miracle somniat...",
-                        "La rosa que ha florit, l'hivern amorosia",
-                        "al punt de mitjanit."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "És flor de profecia amb flarire d'antigor;",
-                        "la Verge en la collia, la mare del Senyor.",
-                        "Desembre beneït, has vist la primavera ",
-                        "avui a mitjanit."
-                    ]
-                },
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "La divinal promesa en Ella s'ha encarnat.",
-                        "D'aquella rosa encesa ens hem enamorat.",
-                        "I ja no ens acp al pit el goig del gran misteri",
-                        "d'aquesta mitjanit."
-                    ]
-                }
-            ]
-        }
-    },
-    "3018": {
-        "CAT": {
-            "titol": "Encen una llum",
-            "audio": null,
-            "estat": null,
-            "cansoner": {
-                "nom": "nadales",
-                "numero": 18
-            },
-            "lletra": [
-                {
-                    "tipus": "estrofa",
-                    "paragraf": [
-                        "Encen una llum, diexa-la brillar,",
-                        "La llum de Jesús",
-                        "que el món esta il·luminant.",
-                        "No la pots apagar,",
-                        "no te'n pots amagar;",
-                        "Davant la necessitat, encén una llum",
-                        "i el món brillarà"
-                    ]
-                }
-            ]
-        }
+          }
+        ]
+      }
     }
-}
+  },
+  {
+    "id": "3002",
+    "idiomes": {
+      "CAT": {
+        "titol": "Joia en el mon",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 2,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Joia en el món! Jesus es nat!" },
+              { "text": "Oh terra el teu Senyor," },
+              { "text": "rep amb amor i amb humilitat," },
+              { "text": "i canta sa llaor, i canta sa llaor," },
+              { "text": "i canta, i canta sa llaor." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Joia en el món!" },
+              { "text": "Amb nostres cants lloem el Salvador." },
+              { "text": "Muntanyes, rius, comes i plans" },
+              { "text": "ens facin de ressò, ens facin de ressò," },
+              { "text": "ens facin, ens facin de ressò." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Joia en el món!" },
+              { "text": "Des del coval Jesus ens obrirà," },
+              { "text": "del Paradís, l'auri portal," },
+              { "text": "i allò ens acollirà, i allò ens acollirà," },
+              { "text": "i allò, i allò ens acollirà." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3003",
+    "idiomes": {
+      "CAT": {
+        "titol": "Gloria in excelsis Deo",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 3,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "1.Els àngels allò a la Glòria" },
+              { "text": "la nova canten amb goig," },
+              { "text": "ie el ressò de les muntanyes" },
+              { "text": "espargeix son cant d'amor." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "GLO..O..RIA IN EXCELSIS DEO" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "2.Una verge a l'establia" },
+              { "text": "ha infantat el Fill diví." },
+              { "text": "Ens ho diu amb alegria" },
+              { "text": "aquest cant de mitjanit." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "3.Correm-hi, pastors, correm-hi," },
+              { "text": "a besar-li el front de neu," },
+              { "text": "bo i dansant plenws de la joia d'aquest" },
+              { "text": "cant que sona arreu." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3004",
+    "idiomes": {
+      "CAT": {
+        "titol": "Que li darem al noi de la mare",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 4,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "1.Que li darem al noi de la mare?" },
+              { "text": "Que li darem que li sàpiga bo?" },
+              { "text": "Panses i figues, i nous i olives." },
+              { "text": "Panses i figues, i mel i mató. (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "2. Que li darem al fill de Maria?" },
+              { "text": "Que li darem al formós infantó?" },
+              { "text": "Li darem panses amb unes balances," },
+              { "text": "li darem figues amb un paneró. (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "3. Ram pa tam tam," },
+              { "text": "que les figues són veredes." },
+              { "text": "Ra pa tam tam, que ja maduraran." },
+              { "text": "Si no madure el dia de Pasqua" },
+              { "text": "maduararan en el dia del Ram. (2)" }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3005",
+    "idiomes": {
+      "CAT": {
+        "titol": "Tot es pel meu Crist",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 5,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Tot és pel meu Crist," },
+              { "text": "amb Ell i en Ell. (2)" },
+              { "text": "A Ell la glòria (3) per sempre. Amón." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3006",
+    "idiomes": {
+      "CAT": {
+        "titol": "Fidels atanseu-vos",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 6,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "1.Fidels, atanseu-vos triomfant i alegres;" },
+              { "text": "veniu-hi, veniu-hi cap a Betlem." },
+              { "text": "On podreu veure nat el Rei dels àngels." },
+              { "text": "Veniu i adorem-lo, veniu i adorem-lo," },
+              { "text": "veniu i adorem Jesús Salvador." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "2. Deixant les ramades els pastors" },
+              { "text": "anaren, humils, al pessebre," },
+              { "text": "cridats pel cel." },
+              { "text": "Ara nosaltres a bon anem-hi." },
+              { "text": "Veniu i adorem-lo..." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "3. Del Pare celeste, l'Esplendor eterna," },
+              { "text": "velada en la blanca carn admirarem." },
+              { "text": "Déu, infant tendre" },
+              { "text": "i amb bolquers que el faixen." },
+              { "text": "Veniu i adorem-lo..." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3007",
+    "idiomes": {
+      "CAT": {
+        "titol": "Santa nit",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 7,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "1. Santa nit, plàcida nit;" },
+              { "text": "els pastors han sentit:" },
+              { "text": "l'al·leluia que els àngels cantant," },
+              { "text": "en el món han estat escampant:" },
+              { "text": "'El Messies és nat. El Messies és nat'" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "2. Santa nit, plàcida nit;" },
+              { "text": "ja esta tot adormit." },
+              { "text": "Vetlla sols en la cambra bressant dolça" },
+              { "text": "Mare que al Nen va cantant." },
+              { "text": "'Dorm en pau i repòs." },
+              { "text": "Domr en pau i repòs'." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "3. Santa nit, plàcida nit:" },
+              { "text": "el Jesús tan petit, és el Déu," },
+              { "text": "ser suprem podreós," },
+              { "text": "en humil petitesa reclòs per l'home" },
+              { "text": "redimir, per l'home redimir." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3008",
+    "idiomes": {
+      "CAT": {
+        "titol": "Les dotze van tocant",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 8,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Les dotze van tocant," },
+              { "text": "ja és nat el Déu infant, fill de Maria," },
+              { "text": "ja és nat (ja és nat) el Déu (el Déu)" },
+              { "text": "infant fill de Maria, fill de Maria." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "El cel és estrellat, el món és tot glaçat:" },
+              { "text": "neva i venteja. (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "La mare i el fillet estan mig morts de fred," },
+              { "text": "Josep tremola (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Per això van tots cantant:" },
+              { "text": "'Ja és nat el Déu infant," },
+              { "text": "fill de Maria' (2)" }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3009",
+    "idiomes": {
+      "CAT": {
+        "titol": "Sant Josep i la mare de Deu",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 9,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Sant Josep i la Mare de Déu" },
+              { "text": "feren companyia bona;" },
+              { "text": "partieren de Natzaret" },
+              { "text": "matinet a la bon hora" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "Dom, doromdom," },
+              { "text": "la Mare canta i el Fillet dorm." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "No han trobat posada enblloc" },
+              { "text": "perquè els veien passa pobres;" },
+              { "text": "se'n van a un barraconet" },
+              { "text": "fet de jonc i fet de boga." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Replendent és com un sol" },
+              { "text": "i brillant com una aurora;" },
+              { "text": "és petit i és exierit" },
+              { "text": "i flairós com una rosa." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3010",
+    "idiomes": {
+      "CAT": {
+        "titol": "Jo canto i m'alegro quan Jesús es nat",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 10,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Al mati jo em llevo i me'n vaig a la font," },
+              { "text": "em rento la cara i a fora la son;" },
+              { "text": "el reic no ho pot fer perquè no és llevat." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "Jo canto i m'alegro quan Jesús és nat." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Jo tinc una jupa tota de vellut," },
+              { "text": "no és llarga ni curta, i vavo tot just;" },
+              { "text": "ai, pobre de mi, se m'ha esparracat!" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "Jo canto i m'alegro..." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "Jo canto i m'alegro quan Jesús és nat." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3011",
+    "idiomes": {
+      "CAT": {
+        "titol": "La pastora Caterina",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 11,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "El ric surt de casa ben elegant," },
+              { "text": "amb sabata baixa ie le coll ben planxat;" },
+              { "text": "de coll com aquell no n'heu vist mai cap." },
+              { "text": "La pastora Caterina" },
+              { "text": "Per presnent li va donar" },
+              { "text": "Tres taronges de la Xina" },
+              { "text": "I el pessebre va enramar" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "Ara pastors anem junts" },
+              { "text": "Cap al portal, que n'és nat" },
+              { "text": "un infant com una estrella" },
+              { "text": "que a mi ja em té el cor robat." },
+              { "text": "Anton liro-liro-liro Anton liro-liro-la" },
+              { "text": "Jesús al pessebre anem-hi a adorar." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Oh, bons pastors, jo diria" },
+              { "text": "que en el portal de Betlem" },
+              { "text": "prop de Jesús i Maria" },
+              { "text": "a dalt del cel ja siguem." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "Ara pastors..." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Sant Josep per la muntanuya" },
+              { "text": "enramat porta el burret." },
+              { "text": "També la verge Maria" },
+              { "text": "abraça bé el seu Fillet." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3012",
+    "idiomes": {
+      "CAT": {
+        "titol": "No dringuen mai les campanes",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 12,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "1.No dringuen mai les campanes" },
+              { "text": "com per Nadal tan suaus," },
+              { "text": "És com si fossin dels àngels" },
+              { "text": "cantics d'amor i de pau." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "d cançó de la nit de Nadal (2)" },
+              { "text": "Soni alegre llur clang, clang," },
+              { "text": "ompli de joia l'espai." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "2.Quan les campanes tritllegen" },
+              { "text": "baixa del Cel Déu Infant," },
+              { "text": "'Glòria a Déu a l'Empiri'," },
+              { "text": "sembla que vagin cantant" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "3.Mars i muntanyes exultin," },
+              { "text": "amb el tritlleig esclatant," },
+              { "text": "que les campanes joioses, " },
+              { "text": "duguin als homes la pau." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3013",
+    "idiomes": {
+      "CAT": {
+        "titol": "El vint-i-cinc de desembre",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 13,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "El vint-i-cinc de desembre" },
+              { "text": "FUM, FUM, FUM (2)" },
+              { "text": "ha nascut un minyonet" },
+              { "text": "ros i blanquet, ros i blanquet;" },
+              { "text": "fill de la Verge Maria," },
+              { "text": "Es nat en una establia," },
+              { "text": "FUM, FUM, FUM." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Aqui dalt de la muntanya," },
+              { "text": "FUM, FUM, FUM (2)" },
+              { "text": "si n'hi ha dos pasturets" },
+              { "text": "abrigadets, abrigadets," },
+              { "text": "amb la pell i la samarra," },
+              { "text": "mengen ous i botifarra" },
+              { "text": "FUM, FUM , FUM." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Qui dirà més gran mentida?" },
+              { "text": "FUM, FUM, FUM (2)" },
+              { "text": "ja respon el majoral," },
+              { "text": "amb gran cabal, amb gran cabal," },
+              { "text": "jo faré deu mil camades" },
+              { "text": "amb un salt totes plegades" },
+              { "text": "FUM, FUM, FUM." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3014",
+    "idiomes": {
+      "CAT": {
+        "titol": "Mans, mans, mans a les mans",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 14,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Mans, mans, mans a les mans" },
+              { "text": "Deixem les tristeses, diexem els afanys," },
+              { "text": "posem tot seguit les mans a les mans" },
+              { "text": "i això reviurem un amor d'infant" },
+              { "text": "que compartirem amb tots els germans." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3015",
+    "idiomes": {
+      "CAT": {
+        "titol": "Desembre congelat",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 15,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "El desembre congelat confós es retira;" },
+              { "text": "Abril de flors coronat," },
+              { "text": "tot el món admira." },
+              { "text": "Quan en un jardí d'amor" },
+              { "text": "niex una divina flor." },
+              { "text": "D'una ro, ro, ro, d'una sa, sa, sa" },
+              { "text": "D'una ro, d'una sa" },
+              { "text": "d'una rosa bella fecunda i ponzella." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Arribaren els tres Reis" },
+              { "text": "amb gran alegria," },
+              { "text": "Adorant al Rei del Cel" },
+              { "text": "en una establia;" },
+              { "text": "Oferint-li tres presents" },
+              { "text": "que són or, mirra i encens" },
+              { "text": "A la Ma..., a la re... A la Mare Pia," },
+              { "text": "la Verge Maria." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Amb contentament i amor" },
+              { "text": "celebrem el dia" },
+              { "text": "en el que el diví Senyor" },
+              { "text": "neix amb alegria." },
+              { "text": "Si no tenim més tresor," },
+              { "text": "oferim-li el nostre cor," },
+              { "text": "que és la fi, fi, fi, és la ne, ne, ne" },
+              { "text": "que és la fi, és la ne" },
+              { "text": "que és la gran finesa de nostra probresa." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3016",
+    "idiomes": {
+      "CAT": {
+        "titol": "A Betlem me'n vull anar",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 16,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "1. A Betlem m'en vull anar (2)" },
+              { "text": "vols venir tu rabadà? (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "VULL ESMORTZAR!" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "2. A Betlem esmortzarem (2)" },
+              { "text": "i a Jesús adorarem (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "I AMB NEU I ANEM?" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "3. Per la neu que al camí hi ha (2)" },
+              { "text": "la calor ja la fondrà (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "OI, LA QUE FA...!" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "4. Tu les teies portaràs (2)" },
+              { "text": "i el camí il·luminaràs (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "NO HO FARÉ PAS." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "5. Alça't, doncs, encén el foc (2)" },
+              { "text": "i no aneim a poc a poc (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "MASSA QUE EM MOC..." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "6. Que no saps que aquesta nit (2)" },
+              { "text": "Ha nascut Déu infinit (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "QUI T'HO HA DIT?" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "7. Doncs un àngel que volant (2)" },
+              { "text": "ens ho anava anunciant (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "NO SERÀ TANT!" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "8. Cantaràs una cançó (2)" },
+              { "text": "davant Déu fet infantó (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "TOT SOL?... NO, NO!" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "9. Au, avant, i no badem (2)" },
+              { "text": "que ja és hora que marxem (2)" }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "tornada",
+            "paragraf": [
+              { "text": "CAP A BETLEM!!!" }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3017",
+    "idiomes": {
+      "CAT": {
+        "titol": "La flor mes bella",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 17,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "La flor més bella es bada en el roser sagrat;" },
+              { "text": "poncella desitjada, miracle somniat..." },
+              { "text": "La rosa que ha florit, l'hivern amorosia" },
+              { "text": "al punt de mitjanit." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "És flor de profecia amb flarire d'antigor;" },
+              { "text": "la Verge en la collia, la mare del Senyor." },
+              { "text": "Desembre beneït, has vist la primavera " },
+              { "text": "avui a mitjanit." }
+            ]
+          },
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "La divinal promesa en Ella s'ha encarnat." },
+              { "text": "D'aquella rosa encesa ens hem enamorat." },
+              { "text": "I ja no ens acp al pit el goig del gran misteri" },
+              { "text": "d'aquesta mitjanit." }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "3018",
+    "idiomes": {
+      "CAT": {
+        "titol": "Encen una llum",
+        "audio": null,
+        "estat": null,
+        "cansoners": [
+          {
+            "nom": "nadales",
+            "numero": 18,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "visibleAlsMusics": true,
+            "tipus": "estrofa",
+            "paragraf": [
+              { "text": "Encen una llum, diexa-la brillar," },
+              { "text": "La llum de Jesús" },
+              { "text": "que el món esta il·luminant." },
+              { "text": "No la pots apagar," },
+              { "text": "no te'n pots amagar;" },
+              { "text": "Davant la necessitat, encén una llum" },
+              { "text": "i el món brillarà" }
+            ]
+          }
+        ]
+      }
+    }
+  },
+
+
+]
