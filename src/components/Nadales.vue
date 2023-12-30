@@ -3,7 +3,9 @@
     <div class="col-sm-11 col-xs-12">
       <div class="col items-center">
         <div class="col q-mx-sm text-caption">
-          <div class="col">Nadales:</div>
+          <div class="col text-center">
+            <q-chip class="glossy" color="orange" text-color="white" dense>Disponibles del 15 de desembre al 6 de gener.</q-chip>
+          </div>
         </div>
 
         <div class="col justify-center">
@@ -17,6 +19,7 @@
                     <q-icon name="volume_up" class="col" />
                   </div>
                 </th>
+                <th class="text-center thNumero"><q-icon name="music_note"/></th>
                 <th class="text-center thNumero">#</th>
               </tr>
             </thead>
@@ -37,6 +40,9 @@
 
                 <td class="text-center">
                   <q-icon name="volume_up" v-if="info.audio" />
+                </td>
+                <td class="text-center">
+                  <q-icon name="music_note" v-if="info.acords" />
                 </td>
                 <td class="text-center">{{info.numero}}</td>
               </tr>
@@ -78,7 +84,10 @@ export default defineComponent({
             objTemp.llibre = canso.idiomes[idioma].cansoners[0].nom;
             objTemp.titol = canso.idiomes[idioma].titol;
             objTemp.numero = canso.idiomes[idioma].cansoners[0].numero;
-            objTemp.audio = canso.idiomes[idioma].audio;
+            objTemp.acords = canso.idiomes[idioma].lletra.some( estrofa => {
+              return estrofa.paragraf.some( ( linia ) => linia.hasOwnProperty('acordsASobre') ) 
+            })
+            objTemp.audio = canso.idiomes[idioma].hasOwnProperty('audio') && canso.idiomes[idioma].audio !== null
             objTemp.estat = canso.idiomes[idioma].estat;
             
           })

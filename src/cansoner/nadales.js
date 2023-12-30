@@ -197,34 +197,6 @@ export default [
     }
   },
   {
-    "id": "3005",
-    "idiomes": {
-      "CAT": {
-        "titol": "Tot es pel meu Crist",
-        "audio": null,
-        "estat": null,
-        "cansoners": [
-          {
-            "nom": "nadales",
-            "numero": 5,
-            "estat": null
-          }
-        ],
-        "lletra": [
-          {
-            "visibleAlsMusics": true,
-            "tipus": "estrofa",
-            "paragraf": [
-              { "text": "Tot és pel meu Crist," },
-              { "text": "amb Ell i en Ell. (2)" },
-              { "text": "A Ell la glòria (3) per sempre. Amón." }
-            ]
-          }
-        ]
-      }
-    }
-  },
-  {
     "id": "3006",
     "idiomes": {
       "CAT": {
@@ -685,13 +657,14 @@ export default [
       }
     }
   },
+
+
   {
     "id": "3014",
     "idiomes": {
-      "CAT": {
-        "titol": "Mans, mans, mans a les mans",
+      "ES": {
+        "titol": "La mula",
         "audio": null,
-        "estat": null,
         "cansoners": [
           {
             "nom": "nadales",
@@ -701,20 +674,478 @@ export default [
         ],
         "lletra": [
           {
-            "visibleAlsMusics": true,
             "tipus": "estrofa",
+            "visibleAlsMusics": true,
             "paragraf": [
-              { "text": "Mans, mans, mans a les mans" },
-              { "text": "Deixem les tristeses, diexem els afanys," },
-              { "text": "posem tot seguit les mans a les mans" },
-              { "text": "i això reviurem un amor d'infant" },
-              { "text": "que compartirem amb tots els germans." }
+              {
+                "text": "\"Tengo que andar con cuidado\", piensa la mula,",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 1
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 34
+                  },
+                  {
+                    "nota": "rem",
+                    "pos": 42
+                  }
+                ]
+              },
+              {
+                "text": "\"pues llevo sobre mí a María y al Niño,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 36
+                  }
+                ]
+              },
+              {
+                "text": "aún no sé como es, mas pronto nacerá,",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 34
+                  }
+                ]
+              },
+              {
+                "text": "debo darme prisa y encontrar un lugar.\"",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 34
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "San José va preocupado, pues hace frío,",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 6
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 27
+                  },
+                  {
+                    "nota": "rem",
+                    "pos": 35
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "la noche es muy oscura y va a nacer el Niño.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 16
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 40
+                  }
+                ]
+              },
+              {
+                "text": "María le consuela y le dice a José:",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 12
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 32
+                  }
+                ]
+              },
+              {
+                "text": "\"Verás como esta noche estaremos los tres.\"",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 37
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 48
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 51
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "\"¡Qué suerte tengo!\", piensa la mula,",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 32
+                  }
+                ]
+              },
+              {
+                "text": "\"voy a correr, voy a correr,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 23
+                  }
+                ]
+              },
+              {
+                "text": "conozco un sitio donde quizá",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 26
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 13
+                  }
+                ]
+              },
+              {
+                "text": "pueda nacer.\"",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 15
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "\"Corred pastores, id preparando,",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 25
+                  }
+                ]
+              },
+              {
+                "text": "aquel lugar, aquel lugar,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "pedid ayuda dentro de nada van a llegar,",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 36
+                  },
+                  {
+                    "nota": "(",
+                    "pos": 42
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 44
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 47
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 49
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Tengo que darle mi aliento, piensa la mula,",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 1
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 34
+                  },
+                  {
+                    "nota": "rem",
+                    "pos": 42
+                  }
+                ]
+              },
+              {
+                "text": "Mientras con la mirada, no lo deja un momento.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "DO",
+                    "pos": 44
+                  }
+                ]
+              },
+              {
+                "text": "Es un niño precioso (lara, lala)",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 19
+                  }
+                ]
+              },
+              {
+                "text": "Nunca vi cosa igual (lara, lala)",
+                "acordsASobre": [
+                  {
+                    "nota": "lam",
+                    "pos": 18
+                  }
+                ]
+              },
+              {
+                "text": "Que milagro tan grande, en tan pobre portal.",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 41
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "\"¡Qué suerte tengo!\", piensa la mula,",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 13
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 32
+                  }
+                ]
+              },
+              {
+                "text": "Voy a correr, voy a correr,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "Conozco un sitio donde quizás pueda nacer.",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 26
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 40
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 45
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 48
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Corred pastores, id preparando,",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 26
+                  }
+                ]
+              },
+              {
+                "text": "Aquel lugar, aquel lugar,",
+                "acordsASobre": [
+                  {
+                    "nota": "DO",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "Pedid ayuda dentro de nada van a llegar.",
+                "acordsASobre": [
+                  {
+                    "nota": "rem",
+                    "pos": 10
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 23
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 36
+                  },
+                  {
+                    "nota": "(",
+                    "pos": 42
+                  },
+                  {
+                    "nota": "lam",
+                    "pos": 44
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 47
+                  },
+                  {
+                    "nota": ")",
+                    "pos": 49
+                  }
+                ]
+              }
             ]
           }
         ]
-      }
+      }    
     }
   },
+
+
+  
   {
     "id": "3015",
     "idiomes": {
@@ -935,7 +1366,7 @@ export default [
     "id": "3017",
     "idiomes": {
       "CAT": {
-        "titol": "La flor mes bella",
+        "titol": "La flor més bella",
         "audio": null,
         "estat": null,
         "cansoners": [
@@ -983,10 +1414,9 @@ export default [
   {
     "id": "3018",
     "idiomes": {
-      "CAT": {
-        "titol": "Encen una llum",
+      "ES": {
+        "titol": "Dijiste sí",
         "audio": null,
-        "estat": null,
         "cansoners": [
           {
             "nom": "nadales",
@@ -996,16 +1426,495 @@ export default [
         ],
         "lletra": [
           {
+            "tipus": "anotacio",
             "visibleAlsMusics": true,
-            "tipus": "estrofa",
             "paragraf": [
-              { "text": "Encen una llum, diexa-la brillar," },
-              { "text": "La llum de Jesús" },
-              { "text": "que el món esta il·luminant." },
-              { "text": "No la pots apagar," },
-              { "text": "no te'n pots amagar;" },
-              { "text": "Davant la necessitat, encén una llum" },
-              { "text": "i el món brillarà" }
+              {
+                "text": "[Cejilla 2º traste]"
+              },
+              {
+                "text": "Intro: Re, Sol, La"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Dijiste Sí y la tierra estallo de alegria",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 7
+                  },
+                  {
+                    "nota": "SOL",
+                    "pos": 32
+                  }
+                ]
+              },
+              {
+                "text": "Dijiste Sí y en tu vientre latia divina, la Salvacion.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "RE",
+                    "pos": 33
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 47
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Hágase en mí,de corazón, la voluntad de mi Señor.",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 8
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "FA#",
+                    "pos": 29
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 32
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 43
+                  }
+                ]
+              },
+              {
+                "text": "Que se cumplan en mí cada día los sueños de Dios.",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 44
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "María,las tinieblas se harán mediodía",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 29
+                  }
+                ]
+              },
+              {
+                "text": "a una sola palabra que digas,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "en tus labios alumbra ya el Sol.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 26
+                  }
+                ]
+              },
+              {
+                "text": "María, la doncella que Dios prometía,",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 28
+                  }
+                ]
+              },
+              {
+                "text": "un volcán de ternura divina,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 21
+                  }
+                ]
+              },
+              {
+                "text": "primavera de un Dios Redentor.",
+                "acordsASobre": [
+                  {
+                    "nota": "mim",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 21
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Gabriel tembló,conmovido con tanta belleza",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 34
+                  }
+                ]
+              },
+              {
+                "text": "Madre de Dios, cuélame en tu mirada de amor de la Anunciación.",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 11
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 38
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 54
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 56
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Hágase en mí,de corazón, la voluntad de mi Señor.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "sol",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 34
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 41
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 44
+                  }
+                ]
+              },
+              {
+                "text": "que se cumplan en mí cada día los sueños de Dios.",
+                "acordsASobre": [
+                  {
+                    "nota": "FA#",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 43
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 45
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "María, las tinieblas se harán mediodía",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 30
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 33
+                  }
+                ]
+              },
+              {
+                "text": "a una sola palabra que digas,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "en tus labios alumbra ya el Sol.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 27
+                  }
+                ]
+              },
+              {
+                "text": "María, la doncella que Dios prometía,",
+                "acordsASobre": [
+                  {
+                    "nota": "RE",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "sim",
+                    "pos": 28
+                  }
+                ]
+              },
+              {
+                "text": "un volcán de ternura divina,",
+                "acordsASobre": [
+                  {
+                    "nota": "SOL",
+                    "pos": 21
+                  }
+                ]
+              },
+              {
+                "text": "primavera de un Dios Redentor.",
+                "acordsASobre": [
+                  {
+                    "nota": "mim",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "LA",
+                    "pos": 21
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Hágase en mí,de corazón, la voluntad de mi Señor.",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 9
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 19
+                  },
+                  {
+                    "nota": "sol",
+                    "pos": 31
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 34
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 41
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 44
+                  }
+                ]
+              },
+              {
+                "text": "que se cumplan en mí cada día los sueños de Dios.",
+                "acordsASobre": [
+                  {
+                    "nota": "FA#",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 43
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 45
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "María, las tinieblas se harán mediodía",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 30
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 33
+                  }
+                ]
+              },
+              {
+                "text": "a una sola palabra que digas,",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 22
+                  }
+                ]
+              },
+              {
+                "text": "en tus labios alumbra ya el Sol.",
+                "acordsASobre": [
+                  {
+                    "nota": "SI",
+                    "pos": 24
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 26
+                  }
+                ]
+              },
+              {
+                "text": "María, la doncella que Dios prometía,",
+                "acordsASobre": [
+                  {
+                    "nota": "MI",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "do#",
+                    "pos": 28
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 31
+                  }
+                ]
+              },
+              {
+                "text": "un volcán de ternura divina,",
+                "acordsASobre": [
+                  {
+                    "nota": "LA",
+                    "pos": 20
+                  }
+                ]
+              },
+              {
+                "text": "primavera de un Dios Redentor.",
+                "acordsASobre": [
+                  {
+                    "nota": "fa#",
+                    "pos": 0
+                  },
+                  {
+                    "nota": "m",
+                    "pos": 3
+                  },
+                  {
+                    "nota": "SI",
+                    "pos": 15
+                  },
+                  {
+                    "nota": "7",
+                    "pos": 17
+                  },
+                  {
+                    "nota": "MI",
+                    "pos": 22
+                  }
+                ]
+              }
             ]
           }
         ]

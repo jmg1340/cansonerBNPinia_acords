@@ -134,7 +134,7 @@
     <!-- FOOTER -->
     <q-footer elevated model="!opcions.amagaReproductor" class="bg-yellow-3">
       <!-- REPRODUCTOR MULTIMEDIA -->
-      <q-media-player type="audio" background-color="black" radius=".5rem" dense :sources="canso.idiomes[tabIdioma].audio"
+      <q-media-player type="audio" background-color="black" radius="0rem" dense :sources="canso.idiomes[tabIdioma].audio"
         v-if="canso.idiomes[tabIdioma].audio && !opcions.amagaReproductor" class="q-m">
       </q-media-player>
     </q-footer>
