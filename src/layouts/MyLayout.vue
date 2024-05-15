@@ -19,6 +19,7 @@
         <q-img
           src="~assets/512.png"
           style="width: 48px"
+          @dblclick='$router.push({ name: "negre" })'
         ></q-img>
 
         <q-toolbar-title>
@@ -138,7 +139,7 @@
 <script>
 import { defineComponent, ref, onMounted, onUnmounted } from 'vue';
 // import { useCansoStore } from '../stores/example-store'
-import { useQuasar } from 'quasar'
+import { AppFullscreen } from 'quasar'
 import { useRouter, useRoute } from 'vue-router'
 
 
@@ -158,6 +159,8 @@ export default defineComponent({
       })
 
       document.addEventListener("keydown", funcEventNegre)
+      
+      AppFullscreen.request()
     })
 
     onUnmounted(() => {
