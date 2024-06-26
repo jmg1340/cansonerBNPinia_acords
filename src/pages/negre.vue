@@ -6,6 +6,7 @@
         <!-- <div class="column"> -->
           <div class="col-auto">
             <svg
+            @dblclick="imatgeJesus = !imatgeJesus"
             class="flip animated"
             xmlns:dc="http://purl.org/dc/elements/1.1/"
             xmlns:cc="http://creativecommons.org/ns#"
@@ -232,7 +233,7 @@
           </div>
 
           <div class="col text-center">
-            <img v-if="imatgeJesus" class="borde2" src="~assets/Jesus.png" style="heigth: 100vh"/>
+            <img v-if="imatgeJesus" class="borde2" src="~assets/Jesus3_gif2.gif" style="height: 95vh"/>
             <!-- <img v-if="imatgeJesus" class="borde2" src="~assets/JesusUlls.gif" style="heigth: 100vh"/> -->
           </div>
 

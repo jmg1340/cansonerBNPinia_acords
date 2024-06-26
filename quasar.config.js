@@ -103,7 +103,8 @@ module.exports = configure(function (ctx) {
         'Notify',
         'Dialog',
         'LocalStorage',
-        'SessionStorage'
+        'SessionStorage',
+        'AppFullscreen'
       ]
     },
 
