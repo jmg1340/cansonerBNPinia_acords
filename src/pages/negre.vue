@@ -308,10 +308,14 @@ export default defineComponent({
 
 
     onMounted(() => {
+      if ($q.sessionStorage.getItem("imatgePaginaNegre"))
+        imatgeJesus.value = $q.sessionStorage.getItem("imatgePaginaNegre");
+
       document.addEventListener("keydown", funcEventNegre)
     })
 
     onUnmounted(() => {
+      $q.sessionStorage.set("imatgePaginaNegre", imatgeJesus.value);
       document.removeEventListener("keydown", funcEventNegre)
     })
 
