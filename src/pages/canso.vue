@@ -17,7 +17,7 @@
             <div class="col block ">
               <q-chip :color="(cansoner == 'Vermell') ? 'red-8' : (cansoner == 'Blau') ? 'blue-8' : 'grey-8'"
                 text-color="white" style="font-size: 12px">
-                <q-avatar color="black" text-color="white text-bold">
+                <q-avatar color="black" size="md" text-color="white text-bold">
                   {{ numero }}
                 </q-avatar>
                 llibre {{ cansoner }}
@@ -58,10 +58,10 @@
 
         <!-- BOTO OPCIONS i TORNAR -->
         <div class="col text-right q-mt-xs">
-          <q-btn color="grey-8" dense size="sm" rounded @click="mostrarOpcionsCanso" icon="settings" aria-label="Opcions"
+          <q-btn color="grey-8" dense size="md" rounded @click="mostrarOpcionsCanso" icon="settings" aria-label="Opcions"
             class="q-mr-sm" />
 
-          <q-btn color="brown-7" label="Tornar" size="sm" no-caps rounded push @click="tornarAlBuscador" class="q-mr-xs">
+          <q-btn color="brown-7" label="Tornar" size="md" no-caps rounded push @click="tornarAlBuscador" class="q-mr-xs">
           </q-btn>
         </div>
 

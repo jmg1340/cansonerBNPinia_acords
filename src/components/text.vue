@@ -71,7 +71,7 @@
 
 
       <q-markup-table
-
+        id="taulaResultats"
         dense
         bordered
         class="q-mx-sm"
@@ -315,7 +315,10 @@ export default defineComponent({
 
 
 
-<style>
+<style lang="css" scoped>
+
+
+
 
   .q-table--dense .q-table th:first-child, .q-table--dense .q-table td:first-child {
       padding: 0x;
@@ -355,4 +358,14 @@ export default defineComponent({
   .borde {
     border: 1px solid black;
   }
+
+
+
+  @media (min-width: 500px) {
+    #taulaResultats td, #taulaResultats th{
+      font-size: 18px;
+    }
+  }
+
+
 </style>

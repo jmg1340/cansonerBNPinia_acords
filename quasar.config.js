@@ -79,6 +79,17 @@ module.exports = configure(function (ctx) {
     devServer: {
       server: {
         type: 'http'
+
+        // type: 'https',
+        // options: {
+        //   // Use ABSOLUTE paths or path.join(__dirname, 'root/relative/path')
+        //   key: "/home/jordi/projectes/quasar/cansonerBNPinia_acords/live_server-https/localhost.key",
+        //   // pfx: "/path/to/server.pfx",
+        //   cert: "/home/jordi/projectes/quasar/cansonerBNPinia_acords/live_server-https/localhost.pem",
+        //   // ca: "/path/to/ca.pem",
+        //   passphrase: 'localhost' // do you need it?
+        // }        
+        
       },
       port: 8080,
       open: true // opens browser window automatically
@@ -153,7 +164,7 @@ module.exports = configure(function (ctx) {
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
-        theme_color: '#027be3',
+        theme_color: '#000000',
         icons: [
           {
             'src': 'icons/icon-128x128.png',
