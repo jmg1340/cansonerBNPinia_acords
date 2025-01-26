@@ -109,9 +109,9 @@ export default [
             "visibleAlsMusics": true,
             "tipus": "estrofa",
             "paragraf": [
-              { "text": "1.Els àngels allò a la Glòria" },
+              { "text": "1.Els àngels allà a la Glòria" },
               { "text": "la nova canten amb goig," },
-              { "text": "ie el ressò de les muntanyes" },
+              { "text": "i el ressò de les muntanyes" },
               { "text": "espargeix son cant d'amor." }
             ]
           },
@@ -302,8 +302,8 @@ export default [
             "paragraf": [
               { "text": "2. Santa nit, plàcida nit;" },
               { "text": "ja esta tot adormit." },
-              { "text": "Vetlla sols en la cambra bressant dolça" },
-              { "text": "Mare que al Nen va cantant." },
+              { "text": "Vetlla sols en la cambra bressant" },
+              { "text": "dolça Mare que al Nen va cantant." },
               { "text": "'Dorm en pau i repòs." },
               { "text": "'Dorm en pau i repòs'." }
             ]

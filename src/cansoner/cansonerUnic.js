@@ -41242,7 +41242,43 @@ export default [
             ]
           }
         ]
+      },
+      "CAT": {
+        "titol": "Sóc jo, conec la teva vida",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Blau",
+            "numero": 296,
+            "estat": 'nova'
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Sóc jo, conec la teva vida,"},
+              {"text": "amb aigua viva et sadollaré."},
+              {"text": "Sóc jo, que et busco a tu,"},
+              {"text": "et parlaré dins del teu cor"},
+              {"text": "Ja cap mal t'ensorrarà"},
+              {"text": "i de mi mai més no tindràs por."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Si jo escric en tu la meva llei,"},
+              {"text": "el meu cor s'unirà al teu cor"},
+              {"text": "i m'adoraràs"},
+              {"text": "en Esperit i en Veritat."}
+            ]
+          }
+        ]
       }
+    
     }
   },
   {
@@ -85019,7 +85055,7 @@ export default [
           {
             "nom": "Vermell",
             "numero": 500,
-            "estat": null
+            "estat": 'nova'
           }
         ],
         "lletra": [
@@ -85027,10 +85063,56 @@ export default [
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Digues com els estimo,"},
-              {"text": "digues quan els estimo,"},
-              {"text": "si estan allunyats de mi,"},
-              {"text": "digues que sóc aquí"}
+              {"text": "Quan jo et crido, vens a mi"},
+              {"text": "a consolar el meu dolor"},
+              {"text": "tota pena se’n va per fi"},
+              {"text": "i restes al meu cor."},
+              {"text": "Quan tu el món vas contemplar en aquella foscor"},
+              {"text": "Em mirares i tristament vas voler comentar:"}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Digues com els estimo, digues quant que els estimo"},
+              {"text": "si estan allunyats de mi, digues que soc aquí."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "“Quan a la creu vaig ser penjat"},
+              {"text": "I la sang jo vessava"},
+              {"text": "Per a tots Vida vaig donar"},
+              {"text": "Ja ningú patirà”."}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {"text": "Digues com els estimo, digues quant que els estimo"},
+              {"text": "si estan allunyats de mi, digues que soc aquí."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "I jo sempre recordaré"},
+              {"text": "El moment que et vaig rebre"},
+              {"text": "Ara puc dir que el Cel he vist"},
+              {"text": "Tinc el teu Esperit."}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {"text": "Digues com els estimo, digues quant que els estimo"},
+              {"text": "si estan allunyats de mi, digues que soc aquí."}
             ]
           }
         ]
@@ -93462,7 +93544,7 @@ export default [
     "id": 766,
     "idiomes": {
       "ES": {
-        "titol": "Pupurri lloança",
+        "titol": "Pupurri 1",
         "audio": [
           {
             "src": "https://cansonsbn.bonanova.cat/Vermell/V572.mp3",
@@ -95631,7 +95713,7 @@ export default [
     "id": 790,
     "idiomes": {
       "CAT": {
-        "titol": "Pupurri animació",
+        "titol": "Pupurri 2",
         "audio": null,
         "cansoners": [
           {
@@ -98907,5 +98989,287 @@ export default [
         ]
       }
     }
-  }            
+  },
+  {
+    "id": 814,
+    "idiomes": {
+      "CAT": {
+        "titol": "Pupurri 3",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 620,
+            "estat": 'nova'
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "(HOMES)"},
+              {"text": "Rei de reis i Senyor de Senyors. Al·leluia. (x2)"},
+              {"text": "."},
+              {"text": "(DONES)"},
+              {"text": "Jesús, príncep de la pau. Al·leluia. (x2)"},
+              {"text": "."},
+              {"text": "(DONES) Al·leluia, Al·leluia _____ (HOMES) Hei! ___ (x2)"},
+              {"text": "."},
+              {"text": "(TOTS)"},
+              {"text": "Glòria a Déu Pare,"},
+              {"text": "Glòria a Déu Fill,"},
+              {"text": "Glòria a l’Esperit,"},
+              {"text": "sigui beneït."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Yo celebraré delante del Señor,"},
+              {"text": "cantaré un canto nuevo. (2)"},
+              {"text": "."},
+              {"text": "Yo le alabaré"},
+              {"text": "porque Él ha hecho grandes cosas. (2)"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Alçat radiant, que ja apunta l’albada,"},
+              {"text": "ve fulgent la glòria de Déu."},
+              {"text": "Au, aixeca els ulls mira ben enllà,"},
+              {"text": "ja pots eixamplar el teu cor ben ple de goig."},
+              {"text": "Heus aquí els teus fills que retornen vers tu,"},
+              {"text": "porten al costat les teves filles."},
+              {"text": "."},
+              {"text": "Jerusalem, Jerusalem,"},
+              {"text": "treu-te el vestit de la tristesa."},
+              {"text": "Jerusalem, Jerusalem,"},
+              {"text": "canta i dansa pel teu Déu."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Pueblo de Dios, pueblo de Dios,"},
+              {"text": "Cantad con alegría a nuestro Salvador. (2)"},
+              {"text": "Cada mañana te buscaré"},
+              {"text": "y a cada instante te adoraré. (2)"},
+              {"text": "."},
+              {"text": "¡Oh, oh, oh, Señor!"},
+              {"text": "te alabo con el alma y con el corazón. (2)"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Quan l’Esperit de Déu es mou en mi"},
+              {"text": "jo canto com el rei David. (x2)"},
+              {"text": "Jo canto, jo canto, jo canto"},
+              {"text": "com el rei David. (x2)"},
+              {"text": "."},
+              {"text": "Quan l’Esperit de Déu es mou en mi"},
+              {"text": "jo danso com el rei David. (x2)"},
+              {"text": "Jo danso, jo danso, jo danso"},
+              {"text": "com el rei David. (x2)"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Maravilloso, maravilloso,"},
+              {"text": "maravilloso es el Señor. (2)"},
+              {"text": " ."},
+              {"text": "Nadie puede ser tan maravilloso (2)"},
+              {"text": "Nadie puede ser como tú Yahvéh."},
+              {"text": "Alabaré, Alabaré, Alabaré"},
+              {"text": "el gran nombre de Yahvéh. (2)"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Glòria a Déu! Glòria a Déu! Glòria al Pare! (2)"},
+              {"text": "A Ell li sia la glòria. (2)"},
+              {"text": "Al·leluia! Amén! (2)"},
+              {"text": "."},
+              {"text": "Glòria a Déu! Glòria a Déu! Glòria al Fill! (2)"},
+              {"text": "A Ell li sia la glòria. (2)"},
+              {"text": "Al·leluia! Amén! (2)"},
+              {"text": "."},
+              {"text": "Glòria a Déu! Glòria a Déu! Glòria a l’Esperit! (2)"},
+              {"text": "A Ell li sia la glòria. (2)"},
+              {"text": "Al·leluia! Amén! (4)"}
+            ]
+          }
+        ]
+      }    
+    }
+  },      
+  {
+    "id": 815,
+    "idiomes": {
+      "CAT": {
+        "titol": "Pupurri 4",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 621,
+            "estat": 'nova'
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Muchos hermanos aquí, juntos en el caminar,"},
+              {"text": "queremos sacar fuerzas de donde no hay,"},
+              {"text": "buscamos una luz mayor."},
+              {"text": "."},
+              {"text": "[Compartir las luchas, la vida de ayer,"},
+              {"text": "cantar a la gracia de hoy,"},
+              {"text": "un sol que mañana saldrá..."},
+              {"text": "ya que Tú estás aquí.]  (x2)"},
+              {"text": "."},
+              {"text": "Vamos ya a comenzar entre alegría e ilusión"},
+              {"text": "de ver nuestra vida que nace a la luz"},
+              {"text": "la luz de mi amigo Jesús."},
+              {"text": "."},
+              {"text": "[Compartir las luchas, la vida de ayer,"},
+              {"text": "cantar a la gracia de hoy,"},
+              {"text": "un sol que mañana saldrá..."},
+              {"text": "ya que Tú estás aquí.]  (x2)"},
+              {"text": "."},
+              {"text": "Canta, baila y verás dentro de mi corazón"},
+              {"text": "hay ganas de ver y de resucitar"},
+              {"text": "hay gozo para el caminar."},
+              {"text": "."},
+              {"text": "[Compartir las luchas, la vida de ayer,"},
+              {"text": "cantar a la gracia de hoy,"},
+              {"text": "un sol que mañana saldrá..."},
+              {"text": "ya que Tú estás aquí.]  (x2)"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Estem tots de festa amb Jesús, al Cel junts volem anar,"},
+              {"text": "estem al voltant d’aquesta taula i és Crist el qui ens servirà."},
+              {"text": "[Poderós és nostre Déu.] (x4)"},
+              {"text": "."},
+              {"text": "Ell salva, guareix, poderós és nostre Déu;"},
+              {"text": "bateja, perdona, poderós és nostre Déu."},
+              {"text": "[Poderós és nostre Déu.] (x4)"},
+              {"text": "."},
+              {"text": "El Pare, el Fill, poderós és nostre Déu;"},
+              {"text": "Esperit d’amor, poderós és nostre Déu."},
+              {"text": "[Poderós és nostre Déu.] (x4)"},
+              {"text": "."},
+              {"text": "(final)"},
+              {"text": "Poderós! Poderós! Poderós! Poderós és nostre Déu!"},
+              {"text": "[Poderós és nostre Déu.] (x4)"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "[Anem a beneir el Senyor,"},
+              {"text": "nosaltres els fills de Déu.] (x2)"},
+              {"text": "."},
+              {"text": "1. [Les mans ben enlaire, aclamem el Senyor;"},
+              {"text": "glòria a Crist, Senyor nostre Salvador.] (x2)"},
+              {"text": "[Anem a beneir el Senyor,"},
+              {"text": "nosaltres els fills de Déu.] (x2)"},
+              {"text": "."},
+              {"text": "2. [Tanquem els ulls nostres, pensem sols en Ell"},
+              {"text": "i diem-li que som els seus servents.] (x2)"},
+              {"text": "[Anem a beneir el Senyor,"},
+              {"text": "nosaltres els fills de Déu.] (x2)"},
+              {"text": "."},
+              {"text": "3. [Obrim tots el cor i cantem al Senyor,"},
+              {"text": "glòria a Crist, Senyor nostre Salvador.] (x2)"},
+              {"text": "[Anem a beneir el Senyor,"},
+              {"text": "nosaltres els fills de Déu.] (x2)"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Para que comprendas que Él te ama"},
+              {"text": "sólo necesitas tener fe,"},
+              {"text": "para que te sientas hijo suyo"},
+              {"text": "sólo necesitas creer en Él."},
+              {"text": "."},
+              {"text": "Alégrate, alégrate,"},
+              {"text": "alégrate conmigo que el Señor nos eligió."},
+              {"text": "Canta de gozo alábale,"},
+              {"text": "alégrate conmigo que el Señor"},
+              {"text": "en ti y en mí puso su amor,"},
+              {"text": "Alégrate.... de todo corazón."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "En el cielo se oye, en la tierra se canta. (x2)"},
+              {"text": "Vamos todos a alabar al Señor,"},
+              {"text": "con panderos y guitarras. (x2)"},
+              {"text": "Cristo me dijo que luchara otra vez"},
+              {"text": "que luchara otra vez, que luchara otra vez. (x2)"},
+              {"text": "Que no me desesperara, sino que tuviera fe. (x2)"},
+              {"text": "Y yo, y yo, y yo le sigo alabando. (x2)"},
+              {"text": "Nosotros, no, Señor, a ti es a quien toca,"},
+              {"text": "yo cantaré lo que pongas en mi boca."},
+              {"text": "."},
+              {"text": "Lo que pongas, lo que pongas,"},
+              {"text": "lo que pongas en mi boca,"},
+              {"text": "yo cantaré lo que pongas en mi boca. (x2)"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "[Déu és el meu ajut i el meu poder,"},
+              {"text": "Ell és qui m’ha salvat.] (x2)"},
+              {"text": "."},
+              {"text": "1. Es el meu Déu, per tot jo el lloaré."},
+              {"text": "[El Déu dels meus pares, jo l’exalçaré] (x2),"},
+              {"text": "cantaré el Senyor, el seu triomf és gran."},
+              {"text": "[Déu és el meu ajut i el meu poder,"},
+              {"text": "Ell és qui m’ha salvat.] (x2)"},
+              {"text": "."},
+              {"text": "2. Ell va manar el mar que s’aturés"},
+              {"text": "[i un mur es va alçar en ple corrent,] (x2)"},
+              {"text": "les ones van restar quietament."},
+              {"text": "[Déu és el meu ajut i el meu poder,"},
+              {"text": "Ell és qui m’ha salvat.] (x2)"},
+              {"text": "."},
+              {"text": "3. Amb un sol gest la terra els engolí;"},
+              {"text": "[el poble guiàreu fins al lloc promès,] (x2)"},
+              {"text": "vau donar-li sempre el vostre ajut."},
+              {"text": "[Déu és el meu ajut i el meu poder,"},
+              {"text": "Ell és qui m’ha salvat.] (x2)"}
+            ]
+          }
+        ]
+      }
+    }
+  }      
+
+
+
 ];
