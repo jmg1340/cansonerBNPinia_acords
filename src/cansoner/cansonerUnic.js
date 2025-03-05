@@ -12595,7 +12595,7 @@ export default [
                 ]
               },
               {
-                "text": "que te está llamando a tu corazón",
+                "text": "que te está hablando a tu corazón",
                 "acordsASobre": [
                   { "nota": "DO", "pos": 15 },
                   { "nota": "mim", "pos": 21 },
@@ -12651,7 +12651,7 @@ export default [
                 ]
               },
               {
-                "text": "entre tus brazos quiero saber",
+                "text": "entre tus brazos quiero sentir",
                 "acordsASobre": [
                   { "nota": "rem", "pos": 10 },
                   { "nota": "SOL", "pos": 26 },
@@ -55533,15 +55533,14 @@ export default [
                 ]
               },
               {
-                "text": "con júbilo gritad a Él.",
+                "text": "[con júbilo gritad a Él.] (x2)",
                 "acordsASobre": [
-                  { "nota": "SIb", "pos": 4 },
-                  { "nota": "FA", "pos": 11 },
-                  { "nota": "DO", "pos": 20 }
+                  { "nota": "SIb", "pos": 5 },
+                  { "nota": "FA", "pos": 12 },
+                  { "nota": "DO", "pos": 21 }
                 ]
               }
             ],
-            "vegades": 2
           },
           {
             "tipus": "estrofa",
@@ -55563,10 +55562,10 @@ export default [
                 ]
               },
               {
-                "text": "se exalta a nuestro Dios",
+                "text": "[se exalta a nuestro Dios] (x3)",
                 "acordsASobre": [
-                  { "nota": "DO", "pos": 5 },
-                  { "nota": "FA", "pos": 22 }
+                  { "nota": "DO", "pos": 6 },
+                  { "nota": "FA", "pos": 23 }
                 ]
               },
               {
@@ -55576,7 +55575,6 @@ export default [
                 ]
               }
             ],
-            "vegades": 3
           }
         ]
       }
@@ -73103,6 +73101,7 @@ export default [
           {
             "tipus": "tornada",
             "visibleAlsMusics": true,
+            "vegades": 2,
             "paragraf": [
               {
                 "text": "Glòria Déu  (2)  Allà dalt del cel.",
@@ -73130,6 +73129,7 @@ export default [
           {
             "tipus": "tornada",
             "visibleAlsMusics": false,
+            "vegades": 2,
             "paragraf": [
               {"text": "Glòria Déu  (2)  Allà dalt del cel."}
             ]
@@ -73145,6 +73145,7 @@ export default [
           {
             "tipus": "tornada",
             "visibleAlsMusics": false,
+            "vegades": 2,
             "paragraf": [
               {"text": "Glòria Déu  (2)  Allà dalt del cel."}
             ]
@@ -73160,6 +73161,7 @@ export default [
           {
             "tipus": "tornada",
             "visibleAlsMusics": false,
+            "vegades": 2,
             "paragraf": [
               {"text": "Glòria Déu  (2)  Allà dalt del cel."}
             ]
@@ -76074,15 +76076,15 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {
-                "text": "Sant Esperit de Déu vivent,",
+                "text": "[Sant Esperit de Déu vivent,",
                 "acordsASobre": [
-                  { "nota": "RE", "pos": 0 },
-                  { "nota": "7", "pos": 17 },
-                  { "nota": "SOL", "pos": 22 }
+                  { "nota": "RE", "pos": 1 },
+                  { "nota": "7", "pos": 18 },
+                  { "nota": "SOL", "pos": 23 }
                 ]
               },
               {
-                "text": "vine novament.        ",
+                "text": "vine novament.] (x2)",
                 "acordsASobre": [
                   { "nota": "RE", "pos": 0 },
                   { "nota": "LA", "pos": 5 },
@@ -76099,7 +76101,6 @@ export default [
                 ]
               }
             ],
-            "vegades": 2
           },
           {
             "tipus": "estrofa",
@@ -80721,7 +80722,7 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {
-                "text": "Al·leluia, Ell és sant,  //: és sant,",
+                "text": "Al·leluia, Ell és sant,      és sant,",
                 "acordsASobre": [
                   { "nota": "DO", "pos": 6 },
                   { "nota": "G", "pos": 25 },
@@ -80739,14 +80740,13 @@ export default [
                 ]
               },
               {
-                "text": "Digne és el seu nom",
+                "text": "[Digne és el seu nom] (x2)",
                 "acordsASobre": [
-                  { "nota": "la", "pos": 1 },
-                  { "nota": "DO", "pos": 17 }
+                  { "nota": "la", "pos": 2 },
+                  { "nota": "DO", "pos": 18 }
                 ]
               }
-            ],
-            "vegades": 2
+            ]
           },
           {
             "tipus": "estrofa",
@@ -80769,10 +80769,10 @@ export default [
                 ]
               },
               {
-                "text": "Digne és el seu nom",
+                "text": "[Digne és el seu nom] (x2)",
                 "acordsASobre": [
-                  { "nota": "la", "pos": 1 },
-                  { "nota": "DO", "pos": 17 }
+                  { "nota": "la", "pos": 2 },
+                  { "nota": "DO", "pos": 18 }
                 ]
               },
               {
@@ -80783,8 +80783,7 @@ export default [
                   { "nota": "SOL", "pos": 8 }
                 ]
               }
-            ],
-            "vegades": 2
+            ]
           }
         ]
       }
@@ -88547,7 +88546,7 @@ export default [
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "visibleAlsMusics": true,
             "paragraf": [
               {
@@ -88586,7 +88585,16 @@ export default [
               {"text": "Que tu acción me transforme en el ser que tú soñaste."},
               {"text": "Pues sólo tú conoces lo que hay en mi interior."}
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Y que no quede nada, pero nada, nada,"},
+              {"text": "Que no sea sanado totalmente por ti."},
+              {"text": "Cristifícame."}
+            ]
+          },
         ]
       }
     }
@@ -91278,7 +91286,7 @@ export default [
         ],
         "lletra": [
           {
-            "tipus": "estrofa",
+            "tipus": "anotacio",
             "visibleAlsMusics": true,
             "paragraf": [
               {"text": "INTRO: desde el SOL"}
@@ -91336,7 +91344,8 @@ export default [
                   { "nota": "mi", "pos": 14 }
                 ]
               }
-            ]
+            ],
+            "vegades": 2
           },
           {
             "tipus": "estrofa",
@@ -91352,7 +91361,8 @@ export default [
             "paragraf": [
               {"text": "Sus palabras firmes son no te dejes enga- ……. ñar"},
               {"text": "mi Dios  es fiel, siempre fiel."}
-            ]
+            ],
+            "vegades": 2
           },
           {
             "tipus": "estrofa",
