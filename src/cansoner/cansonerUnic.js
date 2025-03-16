@@ -10042,6 +10042,7 @@ export default [
           {
             "tipus": "tornada",
             "visibleAlsMusics": true,
+            "vegades": 2,
             "paragraf": [
               {
                 "text": "Tomado de la mano con Jesús yo voy",
@@ -10060,7 +10061,7 @@ export default [
                 ]
               },
               {
-                "text": "tomado de la mano con Jesús yo voy a donde Él va. (2 )",
+                "text": "tomado de la mano con Jesús yo voy a donde Él va.",
                 "acordsASobre": [
                   { "nota": "sim", "pos": 12 },
                   { "nota": "MI", "pos": 31 },
@@ -10077,15 +10078,15 @@ export default [
               {"text": "deja todo y ven conmigo"},
               {"text": "donde todo es más hermoso y más feliz"}
             ],
-            "vegades": 2
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": 1,
+            "vegades": 2,
             "paragraf": [
               {"text": "Tomado de la mano con Jesús yo voy"},
               {"text": "tomado de la mano con Jesús yo voy"},
-              {"text": "tomado de la mano con Jesús yo voy a donde Él va. (2 )"}
+              {"text": "tomado de la mano con Jesús yo voy a donde Él va."}
             ]
           },
           {
@@ -10094,16 +10095,17 @@ export default [
             "paragraf": [
               {"text": "Yo te llevaré amigo,"},
               {"text": "a un lugar conmigo"},
-              {"text": "donde todo es más hermoso y más feliz.(2)"}
+              {"text": "donde todo es más hermoso y más feliz."}
             ]
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": 1,
+            "vegades": 2,
             "paragraf": [
               {"text": "Tomado de la mano con Jesús yo voy"},
               {"text": "tomado de la mano con Jesús yo voy"},
-              {"text": "tomado de la mano con Jesús yo voy a donde Él va. (2 )"}
+              {"text": "tomado de la mano con Jesús yo voy a donde Él va."}
             ]
           }
         ]
@@ -95270,10 +95272,11 @@ export default [
           {
             "tipus": "tornada",
             "visibleAlsMusics": true,
+            "vegades": 2,
             "paragraf": [
               {"text": "Que puguem cantar la teva glòria,"},
               {"text": "que puguem obrir els nostres cors,"},
-              {"text": "vine Esperit Sant, vine Esperit Sant !! (X2)"}
+              {"text": "vine Esperit Sant, vine Esperit Sant !!"}
             ]
           },
           {
@@ -95291,10 +95294,11 @@ export default [
           {
             "tipus": "tornada",
             "visibleAlsMusics": true,
+            "vegades": 2,
             "paragraf": [
               {"text": "Que puguem cantar la teva glòria,"},
               {"text": "que puguem obrir els nostres cors,"},
-              {"text": "vine Esperit Sant, vine Esperit Sant !! (X2)"}
+              {"text": "vine Esperit Sant, vine Esperit Sant !!"}
             ]
           },
           {
@@ -95312,11 +95316,17 @@ export default [
           {
             "tipus": "tornada",
             "visibleAlsMusics": true,
+            "vegades": 4,
             "paragraf": [
               {"text": "Que puguem cantar la teva glòria,"},
               {"text": "que puguem obrir els nostres cors,"},
-              {"text": "vine Esperit Sant, vine Esperit Sant !! (X4)"},
-              {"text": "---"},
+              {"text": "vine Esperit Sant, vine Esperit Sant !!"},
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
               {"text": "Esperit Sant !!"}
             ]
           }
@@ -99278,7 +99288,57 @@ export default [
         ]
       }
     }
-  }      
+  },
+  {
+    "id": 816,
+    "idiomes": {
+      "ES": {
+        "titol": "Si quieres llegar al cielo, tienes que ser un niño",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 622,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Si quieres llegar al cielo, tienes que ser un niño." },
+              {"text": "Si quieres seguir a Cristo, niégate a ti mismo."},
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Si en el Reino de los Cielos quieres ser el mayor," },
+              {"text": "[como dice la Palabra, sé de todos el servidor] (x2)"},
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "vegades": 3,
+            "paragraf": [
+              {"text": "Es la vida de quien da la vida"},
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Quien da la Vida es Jesús."},
+            ]
+          }
+        ]
+      }
+    }
+  }
+     
 
 
 
