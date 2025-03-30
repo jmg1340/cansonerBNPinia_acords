@@ -51239,7 +51239,7 @@ export default [
                 ]
               },
               {
-                "text": "clamando con una voz: ] ",
+                "text": "clamando con una voz: ] (x2)",
                 "acordsASobre": [
                   { "nota": "RE", "pos": 3 },
                   { "nota": "SI", "pos": 17 },
@@ -51258,7 +51258,6 @@ export default [
                 ]
               }
             ],
-            "vegades": 2
           }
         ]
       }
@@ -57379,7 +57378,113 @@ export default [
             ]
           }
         ]
-      }
+      },
+      "CAT": {
+        "titol": "La terra és plena de la misericòrdia del Senyor.",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 623,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "La terra és plena de la misericòrdia del Senyor.",
+                "acordsASobre": [
+                  { "nota": "mim", "pos": 4 },
+                  { "nota": "RE", "pos": 13 },
+                  { "nota": "mim", "pos": 24 },
+                  { "nota": "mim", "pos": 43 },
+                  { "nota": "RE", "pos": 30 },
+                  { "nota": "RE", "pos": 48 }
+                ]
+              },
+              {
+                "text": "La seva Paraula va crear els Cels i les aigües de la mar.",
+                "acordsASobre": [
+                  { "nota": "mim", "pos": 4 },
+                  { "nota": "RE", "pos": 11 },
+                  { "nota": "mim", "pos": 16 },
+                  { "nota": "RE", "pos": 21 },
+                  { "nota": "RE", "pos": 42 },
+                  { "nota": "DO", "pos": 29 },
+                  { "nota": "7", "pos": 31 },
+                  { "nota": "M", "pos": 32 },
+                  { "nota": "MI", "pos": 53 },
+                  { "nota": "4", "pos": 55 },
+                  { "nota": "MI", "pos": 56 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Aclameu al Senyor",
+                "acordsASobre": [
+                  { "nota": "lam", "pos": 4 },
+                  { "nota": "RE", "pos": 14 }
+                ]
+              },
+              {
+                "text": "amb els instruments;",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 4 },
+                  { "nota": "DO", "pos": 14 }
+                ]
+              },
+              {
+                "text": "aclameu al Senyor",
+                "acordsASobre": [
+                  { "nota": "lam", "pos": 4 },
+                  { "nota": "6", "pos": 7 },
+                  { "nota": "SI", "pos": 12 },
+                  { "nota": "7", "pos": 14 }
+                ]
+              },
+              {
+                "text": "plens de goig.",
+                "acordsASobre": [
+                  { "nota": "mim", "pos": 6 },
+                  { "nota": "MI", "pos": 11 }
+                ]
+              },
+              {
+                "text": "Aclameu al Senyor",
+                "acordsASobre": [
+                  { "nota": "lam", "pos": 4 },
+                  { "nota": "RE", "pos": 14 }
+                ]
+              },
+              {
+                "text": "amb els instruments;",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 4 },
+                  { "nota": "DO", "pos": 14 }
+                ]
+              },
+              {
+                "text": "canteu-li un càntic nou.",
+                "acordsASobre": [
+                  { "nota": "lam", "pos": 2 },
+                  { "nota": "6", "pos": 5 },
+                  { "nota": "SI", "pos": 13 },
+                  { "nota": "7", "pos": 15 },
+                  { "nota": "mim", "pos": 19 }
+                ]
+              }
+            ]
+          }
+        ]
+      }    
     }
   },
   {
