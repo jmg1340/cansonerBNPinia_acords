@@ -57386,7 +57386,7 @@ export default [
           {
             "nom": "Vermell",
             "numero": 623,
-            "estat": null
+            "estat": "nova"
           }
         ],
         "lletra": [
@@ -99062,57 +99062,114 @@ export default [
     "id": 813,
     "idiomes": {
       "ES": {
-        "titol": "Siempre te amaré (Athenas)",
+        "titol": "Te amo ",
         "audio": null,
         "cansoners": [
           {
             "nom": "Vermell",
             "numero": 619,
-            "estat": 'nova'
+            "estat": "nova"
           }
         ],
         "lletra": [
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
-            "vegades": 2,
             "paragraf": [
-              {"text": "Te conozco desde antes que nacieras"},
-              {"text": "se tu historia, conozco tus problemas"},
-              {"text": "vi tus llantos y tus alegrías."},
-              {"text": "y aún así te amo."}
+              {
+                "text": "Te conozco desde antes que nacieras",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 3 },
+                  { "nota": "SOL", "pos": 28 }
+                ]
+              },
+              {
+                "text": "se tu historia, conozco tus problemas",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 7 },
+                  { "nota": "FA", "pos": 33 }
+                ]
+              },
+              {
+                "text": "vi tus llantos y tus alegrías.",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 6 },
+                  { "nota": "SOL", "pos": 21 }
+                ]
+              },
+              {
+                "text": "y aún así te amo.",
+                "acordsASobre": [
+                  { "nota": "FA", "pos": 12 }
+                ]
+              }
             ]
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Te amo, no importa lo que hagas"},
-              {"text": "Te amo, no importa donde vayas"},
-              {"text": "Te amo, no importa lo que digas"},
-              {"text": "por siempre te amo, y siempre te amaré."}
+              {
+                "text": "Te amo, no importa lo que hagas",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 2 },
+                  { "nota": "SOL", "pos": 17 }
+                ]
+              },
+              {
+                "text": "Te amo, no importa donde vayas",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 1 },
+                  { "nota": "FA", "pos": 15 }
+                ]
+              },
+              {
+                "text": "Te amo, no importa lo que digas",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 1 },
+                  { "nota": "SOL", "pos": 17 }
+                ]
+              },
+              {
+                "text": "por siempre te amo, y siempre te amaré.",
+                "acordsASobre": [
+                  { "nota": "FA", "pos": 13 }
+                ]
+              }
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Te conozco desde antes que nacieras"},
-              {"text": "se tu historia, conozco tus problemas"},
-              {"text": "vi tus llantos y tus alegrías."},
-              {"text": "y aún así te amo."}
-            ]
-          },
-          {
-            "tipus": "estrofa",
-            "visibleAlsMusics": true,
-            "paragraf": [
-              {"text": "Nunca temas, siempre estaré"},
-              {"text": "y en mi mano yo te sostendré"}
+              {
+                "text": "Nunca temas, siempre estaré",
+                "acordsASobre": [
+                  { "nota": "MI", "pos": 0 },
+                  { "nota": "7", "pos": 2 },
+                  { "nota": "-", "pos": 3 },
+                  { "nota": "la", "pos": 4 },
+                  { "nota": "SOL", "pos": 14 },
+                  { "nota": "FA", "pos": 23 },
+                  { "nota": "SOL", "pos": 28 },
+                  { "nota": "MI", "pos": 32 },
+                  { "nota": "7", "pos": 34 }
+                ]
+              },
+              {
+                "text": "y en mi mano yo te sostendré",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 0 },
+                  { "nota": "SOL", "pos": 13 },
+                  { "nota": "FA", "pos": 24 },
+                  { "nota": "SOL", "pos": 29 }
+                ]
+              }
             ]
           }
         ]
       }
+    
     }
   },
   {
@@ -99442,9 +99499,773 @@ export default [
         ]
       }
     }
-  }
-     
-
-
+  },
+  {
+    "id": 817,
+    "idiomes": {
+      "ES": {
+        "titol": "Yo te alabo a Tí",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 624,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Me entrego a Ti, con todo mi ser,",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "SOL", "pos": 11 },
+                  { "nota": "la", "pos": 25 }
+                ]
+              },
+              {
+                "text": "En tus manos Señor, de nuevo hoy",
+                "acordsASobre": [
+                  { "nota": "mi", "pos": 2 },
+                  { "nota": "FA", "pos": 7 },
+                  { "nota": "SOL", "pos": 10 },
+                  { "nota": "DO", "pos": 15 }
+                ]
+              },
+              {
+                "text": "Mi mundo está sostenido por Ti",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "SOL", "pos": 5 },
+                  { "nota": "la", "pos": 11 }
+                ]
+              },
+              {
+                "text": "Tuyo soy, por siempre.",
+                "acordsASobre": [
+                  { "nota": "mi", "pos": 0 },
+                  { "nota": "FA", "pos": 4 },
+                  { "nota": "SOL", "pos": 7 },
+                  { "nota": "re", "pos": 11 },
+                  { "nota": "SOL", "pos": 14 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Creo en ti Señor, Jesús",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 4 },
+                  { "nota": "SOL", "pos": 7 },
+                  { "nota": "FA", "pos": 11 }
+                ]
+              },
+              {
+                "text": "Te pertenezco a Ti, Jesús,",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 4 },
+                  { "nota": "SOL", "pos": 7 },
+                  { "nota": "FA", "pos": 11 }
+                ]
+              },
+              {
+                "text": "La razón de mi vivir,",
+                "acordsASobre": [
+                  { "nota": "re", "pos": 6 }
+                ]
+              },
+              {
+                "text": "Señor te canto a Ti",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 5 }
+                ]
+              },
+              {
+                "text": "Tal como soy",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 3 },
+                  { "nota": "SOL", "pos": 7 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Sí triste estoy o alegre voy",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "SOL", "pos": 8 },
+                  { "nota": "la", "pos": 13 }
+                ]
+              },
+              {
+                "text": "te seguiré, confío en ti.",
+                "acordsASobre": [
+                  { "nota": "mi", "pos": 1 },
+                  { "nota": "FA", "pos": 4 },
+                  { "nota": "SOL", "pos": 8 },
+                  { "nota": "DO", "pos": 13 }
+                ]
+              },
+              {
+                "text": "Caminaré…tras tus pasos Señor,",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "SOL", "pos": 4 },
+                  { "nota": "la", "pos": 10 }
+                ]
+              },
+              {
+                "text": "Contigo iré, por siempre.",
+                "acordsASobre": [
+                  { "nota": "mi", "pos": 0 },
+                  { "nota": "FA", "pos": 4 },
+                  { "nota": "SOL", "pos": 7 },
+                  { "nota": "re", "pos": 11 },
+                  { "nota": "SOL", "pos": 14 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "[Creo en ti Señor, Jesús",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 5 },
+                  { "nota": "SOL", "pos": 8 },
+                  { "nota": "FA", "pos": 13 }
+                ]
+              },
+              {
+                "text": "Te pertenezco a Ti, Jesús,",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 4 },
+                  { "nota": "SOL", "pos": 7 },
+                  { "nota": "FA", "pos": 11 }
+                ]
+              },
+              {
+                "text": "La razón de mi vivir,",
+                "acordsASobre": [
+                  { "nota": "re", "pos": 6 }
+                ]
+              },
+              {
+                "text": "Señor te canto a Ti ] (x2)",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 5 }
+                ]
+              },
+              {
+                "text": "Tal como soy",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 3 },
+                  { "nota": "DO", "pos": 7 },
+                  { "nota": "9", "pos": 9 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Yo te alabo",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "DO", "pos": 5 },
+                  { "nota": "9", "pos": 7 }
+                ]
+              },
+              {
+                "text": "Yo te alabo a Ti   (repetir varias veces)",
+                "acordsASobre": [
+                  { "nota": "FA", "pos": 0 },
+                  { "nota": "SOL", "pos": 6 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Yo confío en ti, Señor, Jesús"
+              },
+              {
+                "text": "Te pertenezco a Ti, Jesús,"
+              },
+              {
+                "text": "La razón de mi vivir,"
+              },
+              {
+                "text": "Señor te canto a Ti"
+              },
+              {
+                "text": "Tal como soy"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 818,
+    "idiomes": {
+      "ES": {
+        "titol": "Resucitados (Kenosis)",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 625,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Enséñame a abrazar",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 0 },
+                  { "nota": "FA", "pos": 6 }
+                ]
+              },
+              {
+                "text": "Mi cruz, Señor",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 1 },
+                  { "nota": "SOL", "pos": 8 }
+                ]
+              },
+              {
+                "text": "A no escandalizarme",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 1 }
+                ]
+              },
+              {
+                "text": "De todas mis heridas",
+                "acordsASobre": [
+                  { "nota": "FA", "pos": 1 }
+                ]
+              },
+              {
+                "text": "Así me has hecho tú",
+                "acordsASobre": [
+                  { "nota": "Do", "pos": 1 }
+                ]
+              },
+              {
+                "text": "Así me amas, mi Dios",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 1 }
+                ]
+              },
+              {
+                "text": "Enséñame a abrazar",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 1 },
+                  { "nota": "FA", "pos": 7 }
+                ]
+              },
+              {
+                "text": "Tu voluntad, Señor",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 1 },
+                  { "nota": "SOL", "pos": 9 }
+                ]
+              },
+              {
+                "text": "Si no puedo apartar",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 1 }
+                ]
+              },
+              {
+                "text": "El cáliz de mi realidad",
+                "acordsASobre": [
+                  { "nota": "FA", "pos": 1 }
+                ]
+              },
+              {
+                "text": "Renuncio a mi plan",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 1 }
+                ]
+              },
+              {
+                "text": "Acojo tu verdad",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 1 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Quiero ser, ser lavado",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 3 },
+                  { "nota": "FA", "pos": 11 }
+                ]
+              },
+              {
+                "text": "Ser curado, y quiero",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 }
+                ]
+              },
+              {
+                "text": "Morir a mí mismo",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "anotacio",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "la - Fa -Do -Sol"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Enséñame a abrazar",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 1 },
+                  { "nota": "FA", "pos": 6 }
+                ]
+              },
+              {
+                "text": "Mi condición, Señor",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 1 },
+                  { "nota": "SOL", "pos": 10 }
+                ]
+              },
+              {
+                "text": "No puedo dar la talla",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 1 }
+                ]
+              },
+              {
+                "text": "No soy suficiente",
+                "acordsASobre": [
+                  { "nota": "FA", "pos": 1 }
+                ]
+              },
+              {
+                "text": "Quiero dejar de hacer",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 1 }
+                ]
+              },
+              {
+                "text": "Para dejarme amar (por ti)",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 1 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Quiero ser, ser lavado"
+              },
+              {
+                "text": "Ser curado, y quiero"
+              },
+              {
+                "text": "Morir a mí mismo"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Y quiero estar arrodillado",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 7 },
+                  { "nota": "FA", "pos": 14 }
+                ]
+              },
+              {
+                "text": "Quiero vaciarme",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 }
+                ]
+              },
+              {
+                "text": "Y, en el fondo, siento",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 1 }
+                ]
+              },
+              {
+                "text": "Que no soy valorado",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 6 }
+                ]
+              },
+              {
+                "text": "Estoy herido",
+                "acordsASobre": [
+                  { "nota": "FA", "pos": 5 }
+                ]
+              },
+              {
+                "text": "Soy rechazado",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 5 }
+                ]
+              },
+              {
+                "text": "Soy pecado",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 2 }
+                ]
+              },
+              {
+                "text": "Pero, soy amado",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 6 }
+                ]
+              },
+              {
+                "text": "Soy aceptado",
+                "acordsASobre": [
+                  { "nota": "FA", "pos": 4 }
+                ]
+              },
+              {
+                "text": "Soy rescatado",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 5 }
+                ]
+              },
+              {
+                "text": "No soy esclavo",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 4 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Quiero ser, ser lavado"
+              },
+              {
+                "text": "Ser curado, y quiero"
+              },
+              {
+                "text": "Morir a mí mismo"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Y quiero estar arrodillado",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 6 },
+                  { "nota": "FA", "pos": 14 }
+                ]
+              },
+              {
+                "text": "Quiero vaciarme",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 }
+                ]
+              },
+              {
+                "text": "Quiero vivir como",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 }
+                ]
+              },
+              {
+                "text": "Resucitado, resucitado",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 2 },
+                  { "nota": "FA", "pos": 11 }
+                ]
+              },
+              {
+                "text": "Resucitado, resucitado",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 2 },
+                  { "nota": "SOL", "pos": 13 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Quiero ser, ser lavado"
+              },
+              {
+                "text": "Ser curado, y quiero"
+              },
+              {
+                "text": "Morir a mí mismo"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Y quiero estar arrodillado",
+                "acordsASobre": [
+                  { "nota": "la", "pos": 7 },
+                  { "nota": "FA", "pos": 14 }
+                ]
+              },
+              {
+                "text": "Quiero vaciarme",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 }
+                ]
+              },
+              {
+                "text": "Quiero vivir como",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 }
+                ]
+              },
+              {
+                "text": "Resucitado"
+              }
+            ]
+          },
+          {
+            "tipus": "anotacio",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "la -Fa -Do-Sol- Do"
+              }
+            ]
+          }
+        ]
+      }    
+    }
+  },
+  {
+    "id": 819,
+    "idiomes": {
+      "ES": {
+        "titol": "Yeshua 2",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 626,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Mi orgullo me sacó del jardín",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 4 },
+                  { "nota": "SI", "pos": 16 },
+                  { "nota": "7", "pos": 18 }
+                ]
+              },
+              {
+                "text": "Su humildad puso el jardín en mí",
+                "acordsASobre": [
+                  { "nota": "do#", "pos": 5 },
+                  { "nota": "m", "pos": 8 },
+                  { "nota": "sol#", "pos": 22 },
+                  { "nota": "m", "pos": 26 }
+                ]
+              },
+              {
+                "text": "Y si vendiera todo lo que tengo",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 6 },
+                  { "nota": "SI", "pos": 22 },
+                  { "nota": "7", "pos": 24 }
+                ]
+              },
+              {
+                "text": "A cambio de su amor, yo fallaría",
+                "acordsASobre": [
+                  { "nota": "do#", "pos": 15 },
+                  { "nota": "m", "pos": 18 },
+                  { "nota": "sol#", "pos": 28 },
+                  { "nota": "m", "pos": 32 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Porque su amor no se compra",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 6 }
+                ]
+              },
+              {
+                "text": "Ni se merece",
+                "acordsASobre": [
+                  { "nota": "SI", "pos": 1 },
+                  { "nota": "7", "pos": 3 }
+                ]
+              },
+              {
+                "text": "Su amor es un regalo",
+                "acordsASobre": [
+                  { "nota": "do#", "pos": 1 },
+                  { "nota": "m", "pos": 4 }
+                ]
+              },
+              {
+                "text": "De gracia se recibe",
+                "acordsASobre": [
+                  { "nota": "sol#", "pos": 3 },
+                  { "nota": "m", "pos": 7 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Quiero conocer a Jesús",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 2 },
+                  { "nota": "SI", "pos": 15 },
+                  { "nota": "7", "pos": 17 }
+                ]
+              },
+              {
+                "text": "Quiero conocer a Jesús",
+                "acordsASobre": [
+                  { "nota": "do#", "pos": 2 },
+                  { "nota": "m", "pos": 5 },
+                  { "nota": "sol#", "pos": 17 },
+                  { "nota": "m", "pos": 21 }
+                ]
+              },
+              {
+                "text": "Quiero conocer a Jesús",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 2 },
+                  { "nota": "SI", "pos": 15 },
+                  { "nota": "7", "pos": 17 }
+                ]
+              },
+              {
+                "text": "Quiero conocer a Jesús",
+                "acordsASobre": [
+                  { "nota": "do#", "pos": 2 },
+                  { "nota": "m", "pos": 5 },
+                  { "nota": "sol#", "pos": 17 },
+                  { "nota": "m", "pos": 21 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "vegades": 4,
+            "paragraf": [
+              {
+                "text": "Yeshua ah, ah, ah, ah, ah,ah,ah,ah",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 1 },
+                  { "nota": "do#", "pos": 18 },
+                  { "nota": "m", "pos": 21 },
+                  { "nota": "sol#", "pos": 29 },
+                  { "nota": "m", "pos": 33 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Mi amado es el más bello",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 4 },
+                  { "nota": "do#", "pos": 15 },
+                  { "nota": "m", "pos": 18 }
+                ]
+              },
+              {
+                "text": "Entre millares de millares",
+                "acordsASobre": [
+                  { "nota": "MI", "pos": 5 },
+                  { "nota": "SI", "pos": 18 },
+                  { "nota": "7", "pos": 20 }
+                ]
+              }
+            ]
+          }
+        ]
+      }    
+    }
+  },
 
 ];
