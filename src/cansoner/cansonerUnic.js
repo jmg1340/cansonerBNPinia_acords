@@ -98818,74 +98818,170 @@ export default [
     "id": 811,
     "idiomes": {
       "ES": {
-        "titol": "Yeshua",
+        "titol": "Yeshua 2",
         "audio": null,
         "cansoners": [
           {
             "nom": "Vermell",
-            "numero": 617,
-            "estat": 'nova'
+            "numero": 626,
+            "estat": "nova"
           }
         ],
         "lletra": [
           {
-            "tipus": "tornada",
+            "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "YESHUA…"}
+              {
+                "text": "Mi orgullo me sacó del jardín",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 4 },
+                  { "nota": "SI", "pos": 16 },
+                  { "nota": "7", "pos": 18 }
+                ]
+              },
+              {
+                "text": "Su humildad puso el jardín en mí",
+                "acordsASobre": [
+                  { "nota": "do#", "pos": 5 },
+                  { "nota": "m", "pos": 8 },
+                  { "nota": "sol#", "pos": 22 },
+                  { "nota": "m", "pos": 26 }
+                ]
+              },
+              {
+                "text": "Y si vendiera todo lo que tengo",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 6 },
+                  { "nota": "SI", "pos": 22 },
+                  { "nota": "7", "pos": 24 }
+                ]
+              },
+              {
+                "text": "A cambio de su amor, yo fallaría",
+                "acordsASobre": [
+                  { "nota": "do#", "pos": 15 },
+                  { "nota": "m", "pos": 18 },
+                  { "nota": "sol#", "pos": 28 },
+                  { "nota": "m", "pos": 32 }
+                ]
+              }
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Quiero conocer a Jesús"},
-              {"text": "Quiero conocer a Jesús"},
-              {"text": "Quiero conocer a Jesús"},
-              {"text": "Quiero conocer a Jesús"}
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "visibleAlsMusics": true,
-            "paragraf": [
-              {"text": "YESHUA…"}
+              {
+                "text": "Porque su amor no se compra",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 6 }
+                ]
+              },
+              {
+                "text": "Ni se merece",
+                "acordsASobre": [
+                  { "nota": "SI", "pos": 1 },
+                  { "nota": "7", "pos": 3 }
+                ]
+              },
+              {
+                "text": "Su amor es un regalo",
+                "acordsASobre": [
+                  { "nota": "do#", "pos": 1 },
+                  { "nota": "m", "pos": 4 }
+                ]
+              },
+              {
+                "text": "De gracia se recibe",
+                "acordsASobre": [
+                  { "nota": "sol#", "pos": 3 },
+                  { "nota": "m", "pos": 7 }
+                ]
+              }
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Mi amado es el más bello"},
-              {"text": "Entre millares y millares"},
-              {"text": "Mi amado es el más bello"},
-              {"text": "Entre millares y millares"}
+              {
+                "text": "Quiero conocer a Jesús",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 2 },
+                  { "nota": "SI", "pos": 15 },
+                  { "nota": "7", "pos": 17 }
+                ]
+              },
+              {
+                "text": "Quiero conocer a Jesús",
+                "acordsASobre": [
+                  { "nota": "do#", "pos": 2 },
+                  { "nota": "m", "pos": 5 },
+                  { "nota": "sol#", "pos": 17 },
+                  { "nota": "m", "pos": 21 }
+                ]
+              },
+              {
+                "text": "Quiero conocer a Jesús",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 2 },
+                  { "nota": "SI", "pos": 15 },
+                  { "nota": "7", "pos": 17 }
+                ]
+              },
+              {
+                "text": "Quiero conocer a Jesús",
+                "acordsASobre": [
+                  { "nota": "do#", "pos": 2 },
+                  { "nota": "m", "pos": 5 },
+                  { "nota": "sol#", "pos": 17 },
+                  { "nota": "m", "pos": 21 }
+                ]
+              }
             ]
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": true,
+            "vegades": 4,
             "paragraf": [
-              {"text": "YESHUA….."}
+              {
+                "text": "Yeshua ah, ah, ah, ah, ah,ah,ah,ah",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 1 },
+                  { "nota": "do#", "pos": 18 },
+                  { "nota": "m", "pos": 21 },
+                  { "nota": "sol#", "pos": 29 },
+                  { "nota": "m", "pos": 33 }
+                ]
+              }
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Nuestro Dios reinará"},
-              {"text": "por siempre tú reinarás"}
-            ]
-          },
-          {
-            "tipus": "tornada",
-            "visibleAlsMusics": true,
-            "paragraf": [
-              {"text": "YESHUA…"}
+              {
+                "text": "Mi amado es el más bello",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 4 },
+                  { "nota": "do#", "pos": 15 },
+                  { "nota": "m", "pos": 18 }
+                ]
+              },
+              {
+                "text": "Entre millares de millares",
+                "acordsASobre": [
+                  { "nota": "MI", "pos": 5 },
+                  { "nota": "SI", "pos": 18 },
+                  { "nota": "7", "pos": 20 }
+                ]
+              }
             ]
           }
         ]
-      }
+      }    
     }
   },
   {
@@ -100101,7 +100197,7 @@ export default [
     "id": 819,
     "idiomes": {
       "ES": {
-        "titol": "Yeshua 2",
+        "titol": "Queda't amb nosaltres (Aplec de l'Esperit)",
         "audio": null,
         "cansoners": [
           {
@@ -100116,37 +100212,25 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {
-                "text": "Mi orgullo me sacó del jardín",
+                "text": "Pels camins d'aquesta vida",
                 "acordsASobre": [
-                  { "nota": "LA", "pos": 4 },
-                  { "nota": "SI", "pos": 16 },
-                  { "nota": "7", "pos": 18 }
+                  { "nota": "DO", "pos": 7 },
+                  { "nota": "SOL", "pos": 22 }
                 ]
               },
               {
-                "text": "Su humildad puso el jardín en mí",
+                "text": "Sense veure-ho del tot clar,",
                 "acordsASobre": [
-                  { "nota": "do#", "pos": 5 },
-                  { "nota": "m", "pos": 8 },
-                  { "nota": "sol#", "pos": 22 },
-                  { "nota": "m", "pos": 26 }
+                  { "nota": "FA", "pos": 7 },
+                  { "nota": "DO", "pos": 24 }
                 ]
               },
               {
-                "text": "Y si vendiera todo lo que tengo",
+                "text": "Amb el pas feixuc i força capficat;",
                 "acordsASobre": [
-                  { "nota": "LA", "pos": 6 },
-                  { "nota": "SI", "pos": 22 },
-                  { "nota": "7", "pos": 24 }
-                ]
-              },
-              {
-                "text": "A cambio de su amor, yo fallaría",
-                "acordsASobre": [
-                  { "nota": "do#", "pos": 15 },
-                  { "nota": "m", "pos": 18 },
-                  { "nota": "sol#", "pos": 28 },
-                  { "nota": "m", "pos": 32 }
+                  { "nota": "lam", "pos": 7 },
+                  { "nota": "FA", "pos": 21 },
+                  { "nota": "SOL", "pos": 32 }
                 ]
               }
             ]
@@ -100156,70 +100240,40 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {
-                "text": "Porque su amor no se compra",
-                "acordsASobre": [
-                  { "nota": "LA", "pos": 6 }
-                ]
+                "text": "Has sortit al nostre encontre"
               },
               {
-                "text": "Ni se merece",
-                "acordsASobre": [
-                  { "nota": "SI", "pos": 1 },
-                  { "nota": "7", "pos": 3 }
-                ]
+                "text": "T'has posat a caminar,"
               },
               {
-                "text": "Su amor es un regalo",
-                "acordsASobre": [
-                  { "nota": "do#", "pos": 1 },
-                  { "nota": "m", "pos": 4 }
-                ]
-              },
-              {
-                "text": "De gracia se recibe",
-                "acordsASobre": [
-                  { "nota": "sol#", "pos": 3 },
-                  { "nota": "m", "pos": 7 }
-                ]
+                "text": "I per la nostra conversa has preguntat"
               }
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "visibleAlsMusics": true,
             "paragraf": [
               {
-                "text": "Quiero conocer a Jesús",
+                "text": "Ens expliques l'Escriptura",
                 "acordsASobre": [
-                  { "nota": "LA", "pos": 2 },
-                  { "nota": "SI", "pos": 15 },
-                  { "nota": "7", "pos": 17 }
+                  { "nota": "lam", "pos": 7 },
+                  { "nota": "SOL", "pos": 22 }
                 ]
               },
               {
-                "text": "Quiero conocer a Jesús",
+                "text": "Com ningú ho ho ha fet mai,",
                 "acordsASobre": [
-                  { "nota": "do#", "pos": 2 },
-                  { "nota": "m", "pos": 5 },
-                  { "nota": "sol#", "pos": 17 },
-                  { "nota": "m", "pos": 21 }
+                  { "nota": "FA", "pos": 6 },
+                  { "nota": "RE", "pos": 24 }
                 ]
               },
               {
-                "text": "Quiero conocer a Jesús",
+                "text": "I et reveles en el gest de partir el pa!",
                 "acordsASobre": [
-                  { "nota": "LA", "pos": 2 },
-                  { "nota": "SI", "pos": 15 },
-                  { "nota": "7", "pos": 17 }
-                ]
-              },
-              {
-                "text": "Quiero conocer a Jesús",
-                "acordsASobre": [
-                  { "nota": "do#", "pos": 2 },
-                  { "nota": "m", "pos": 5 },
-                  { "nota": "sol#", "pos": 17 },
-                  { "nota": "m", "pos": 21 }
+                  { "nota": "lam", "pos": 8 },
+                  { "nota": "FA", "pos": 18 },
+                  { "nota": "SOL", "pos": 38 }
                 ]
               }
             ]
@@ -100227,16 +100281,36 @@ export default [
           {
             "tipus": "tornada",
             "visibleAlsMusics": true,
-            "vegades": 4,
             "paragraf": [
               {
-                "text": "Yeshua ah, ah, ah, ah, ah,ah,ah,ah",
+                "text": "Queda't amb nosaltres",
                 "acordsASobre": [
-                  { "nota": "LA", "pos": 1 },
-                  { "nota": "do#", "pos": 18 },
-                  { "nota": "m", "pos": 21 },
-                  { "nota": "sol#", "pos": 29 },
-                  { "nota": "m", "pos": 33 }
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "SOL", "pos": 3 },
+                  { "nota": "lam", "pos": 16 }
+                ]
+              },
+              {
+                "text": "Que el dia ja comença a declinar!",
+                "acordsASobre": [
+                  { "nota": "FA", "pos": 8 },
+                  { "nota": "SOL", "pos": 30 }
+                ]
+              },
+              {
+                "text": "Queda't amb nosaltres,",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "SOL", "pos": 3 },
+                  { "nota": "lam", "pos": 16 }
+                ]
+              },
+              {
+                "text": "Qui camina amb tu Jesús mai no es perdrà!",
+                "acordsASobre": [
+                  { "nota": "FA", "pos": 7 },
+                  { "nota": "SOL", "pos": 21 },
+                  { "nota": "DO", "pos": 38 }
                 ]
               }
             ]
@@ -100246,25 +100320,130 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {
-                "text": "Mi amado es el más bello",
-                "acordsASobre": [
-                  { "nota": "LA", "pos": 4 },
-                  { "nota": "do#", "pos": 15 },
-                  { "nota": "m", "pos": 18 }
-                ]
+                "text": "Quan arriba l'hora baixa"
               },
               {
-                "text": "Entre millares de millares",
-                "acordsASobre": [
-                  { "nota": "MI", "pos": 5 },
-                  { "nota": "SI", "pos": 18 },
-                  { "nota": "7", "pos": 20 }
-                ]
+                "text": "Tu fas com el que se'n va,"
+              },
+              {
+                "text": "Però nosaltres t'insistim entusiasmats"
               }
             ]
-          }
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Has entrat a casa nostra"
+              },
+              {
+                "text": "T'has deixat acomodar"
+              },
+              {
+                "text": "I et mirem als ulls amb el cor abrusat"
+              }
+            ]
+          },
+
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Ens expliques l'Escriptura",
+              },
+              {
+                "text": "Com ningú ho ho ha fet mai,",
+              },
+              {
+                "text": "I et reveles en el gest de partir el pa!",
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Queda't amb nosaltres",
+              },
+              {
+                "text": "Que el dia ja comença a declinar!",
+              },
+              {
+                "text": "Queda't amb nosaltres,",
+              },
+              {
+                "text": "Qui camina amb tu Jesús mai no es perdrà!",
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Aixequem-nos de la taula"
+              },
+              {
+                "text": "Anema a trobar els germans,"
+              },
+              {
+                "text": "'Realment és ell, Déu l'ha ressuscitat'"
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Aplegats en el teu nom"
+              },
+              {
+                "text": "Tornarem a caminar"
+              },
+              {
+                "text": "Fins que torni ple de glòria i  majestat"
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Ens expliques l'Escriptura",
+              },
+              {
+                "text": "Com ningú ho ho ha fet mai,",
+              },
+              {
+                "text": "I et reveles en el gest de partir el pa!",
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Queda't amb nosaltres",
+              },
+              {
+                "text": "Que el dia ja comença a declinar!",
+              },
+              {
+                "text": "Queda't amb nosaltres,",
+              },
+              {
+                "text": "Qui camina amb tu Jesús mai no es perdrà!",
+              }
+            ]
+          },
         ]
-      }    
+      }
     }
   },
 
