@@ -94166,7 +94166,7 @@ export default [
           {
             "nom": "Vermell",
             "numero": 575,
-            "estat": null
+            "estat": 'nova'
           }
         ],
         "lletra": [
@@ -98823,7 +98823,7 @@ export default [
         "cansoners": [
           {
             "nom": "Vermell",
-            "numero": 626,
+            "numero": 617,
             "estat": "nova"
           }
         ],
