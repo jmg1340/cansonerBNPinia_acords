@@ -324,6 +324,9 @@ export default defineComponent({
 
       document.addEventListener("keydown", funcEventTecles)
 
+      // treiem la barra de desplaçament vertical
+      document.querySelector("html").setAttribute("style", "scrollbar-width: none;")
+
     })
 
 
@@ -333,6 +336,10 @@ export default defineComponent({
 
       $q.localStorage.set("CansonerBN_key_opcions", opcions.value);
       document.removeEventListener("keydown", funcEventTecles)
+
+      // activem la barra de desplaçament vertical
+      document.querySelector("html").setAttribute("style", "scrollbar-width: auto;")
+
     })
 
 

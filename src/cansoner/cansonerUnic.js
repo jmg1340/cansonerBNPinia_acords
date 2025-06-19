@@ -14723,6 +14723,54 @@ export default [
             "vegades": 4
           }
         ]
+      },
+      "CAT": {
+        "titol": "Aclameu el Senyor arreu de la terra",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 628,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Aclameu el Senyor"},
+              {"text": "arreu de la terra,"},
+              {"text": "honoreu el Senyor"},
+              {"text": "amb cants de festa,"},
+              {"text": "entreu davant d'Ell amb alegria,"},
+              {"text": "reconeixeu que el Senyor és Déu."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "És el nostre Creador i som seus,"},
+              {"text": "som el seu poble"},
+              {"text": "i el ramat que Ell pastura,"},
+              {"text": "entreu als seus portals"},
+              {"text": "enaltint-lo"},
+              {"text": "i als seus atris"},
+              {"text": "tot cantant lloances."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Enaltiu i beneïu el seu Nom,"},
+              {"text": "que n'és de bo el Senyor,"},
+              {"text": "perdura eternament el seu amor,"},
+              {"text": "és fidel pels segles dels segles."}
+            ]
+          }
+        ]
       }
     }
   },
@@ -17014,7 +17062,7 @@ export default [
                 ]
               },
               {
-                "text": "escucha mi Rey",
+                "text": "escucha mi voz",
                 "acordsASobre": [
                   { "nota": "SOL", "pos": 2 },
                   { "nota": "RE", "pos": 12 },
@@ -38298,7 +38346,7 @@ export default [
               {"text": "Sin Ti mi vida, nada es,"},
               {"text": "siempre a tu lado quiero caminar"},
               {"text": "soy feliz Tú estás aquí,"},
-              {"text": "llenas mi ser dame tu aliento Señor."}
+              {"text": "llenas mi ser y eres mi aliento, Señor."}
             ]
           },
           {
@@ -38877,13 +38925,14 @@ export default [
                 ]
               },
               {
-                "text": "Vine Pare, som aquí.(2)",
+                "text": "Vine Pare, som aquí.",
                 "acordsASobre": [
                   { "nota": "FA", "pos": 5 },
                   { "nota": "MI", "pos": 15 }
                 ]
               }
-            ]
+            ],
+            "vegades": 2
           }
         ]
       }
@@ -51538,6 +51587,109 @@ export default [
             ]
           }
         ]
+      },
+      "CAT": {
+        "titol": "En presència del meu Sant Senyor",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 627,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "En presència del meu Sant Senyor"},
+              {"text": "jo m’inclino a adorar."},
+              {"text": "Ell coneix què hi ha"},
+              {"text": "en el fons del meu cor"},
+              {"text": "i m’acull amb tot l’amor."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "En presència del meu Sant Senyor,"},
+              {"text": "sóc pobresa davant Déu."},
+              {"text": "La gràcia de Déu renova el meu ser"},
+              {"text": "i en el meu cor tot és pau."}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "I CRIDO SANT, OH SANT,"},
+              {"text": "OH SANT, SENYOR,"},
+              {"text": "ETERN, JUST I FIDEL."},
+              {"text": "SANT, OH SANT, OH SANT, SENYOR"},
+              {"text": "RESPLANDEIXI EL TEU PODER."},
+              {"text": "JO HE CANVIAT"},
+              {"text": "EN PRESÈNCIA DEL MEU SANT SENYOR."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "En presència del meu Sant Senyor."},
+              {"text": "jo l’adoro al seu altar."},
+              {"text": "El seu nom és glòria, honra i poder,"},
+              {"text": "Majestat i Santedat."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "En presència de ta glòria, Déu meu,"},
+              {"text": "jo proclamo el teu poder,"},
+              {"text": "les corones llenço ara davant teu,"},
+              {"text": "davant del tron del meu Rei."}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {"text": "I CRIDO SANT, OH SANT,"},
+              {"text": "OH SANT, SENYOR,"},
+              {"text": "ETERN, JUST I FIDEL."},
+              {"text": "SANT, OH SANT, OH SANT, SENYOR"},
+              {"text": "RESPLANDEIXI EL TEU PODER."},
+              {"text": "JO HE CANVIAT"},
+              {"text": "EN PRESÈNCIA DEL MEU SANT SENYOR."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "En presència del teu immens poder,"},
+              {"text": "digne ets de ser adorat."},
+              {"text": "A l’Anyell la glòria, força i poder,"},
+              {"text": "la justícia és només d’Ell."}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {"text": "I CRIDO SANT, OH SANT,"},
+              {"text": "OH SANT, SENYOR,"},
+              {"text": "ETERN, JUST I FIDEL."},
+              {"text": "SANT, OH SANT, OH SANT, SENYOR"},
+              {"text": "RESPLANDEIXI EL TEU PODER."},
+              {"text": "JO HE CANVIAT"},
+              {"text": "EN PRESÈNCIA DEL MEU SANT SENYOR."}
+            ]
+          }
+        ]
       }
     }
   },
@@ -53040,10 +53192,9 @@ export default [
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Es el amor que yo te doy,"},
+              {"text": "Es el amor que yo te doy, (x3)"},
               {"text": "el mismo amor que el Señor me da."}
-            ],
-            "vegades": 3
+            ]
           },
           {
             "tipus": "tornada",
@@ -53059,10 +53210,9 @@ export default [
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Es la alegría que yo te doy,"},
+              {"text": "Es la alegría que yo te doy, (x3)"},
               {"text": "es la alegría que el Señor me da."}
-            ],
-            "vegades": 3
+            ]
           },
           {
             "tipus": "tornada",
@@ -53070,18 +53220,17 @@ export default [
             "paragraf": [
               {"text": "Shalom, shalom,"},
               {"text": "shalom, te doy la paz."},
-              {"text": "Shalom,   shalom,"},
-              {"text": "shalom,   te doy la paz."}
+              {"text": "Shalom, shalom,"},
+              {"text": "shalom, te doy la paz."}
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Y yo te doy mi corazón,"},
+              {"text": "Y yo te doy mi corazón, (x3)"},
               {"text": "el corazón que el Señor me da."}
-            ],
-            "vegades": 3
+            ]
           },
           {
             "tipus": "tornada",
@@ -63998,7 +64147,7 @@ export default [
             "tipus": "tornada",
             "paragraf": [
               {
-                "text": "Al.le, Al.le, Al·leluia",
+                "text": "Al.le, Al.le, Al·leluia (x2)",
                 "acordsASobre": [
                   { "nota": "DO", "pos": 0 },
                   { "nota": "la", "pos": 14 }
@@ -64064,12 +64213,11 @@ export default [
             "visibleAlsMusics": false,
             "tipus": "tornada",
             "paragraf": [
-              {"text": "Al.le, Al.le, Al·leluia"},
+              {"text": "Al.le, Al.le, Al·leluia (x2)"},
               {"text": "Cantem al Senyor."},
               {"text": "Cada dia lloem tot cantant:"},
               {"text": "Oh! Al.le, Al·leluia."}
-            ],
-            "vegades": 2
+            ]
           },
           {
             "visibleAlsMusics": true,
@@ -64085,12 +64233,11 @@ export default [
             "visibleAlsMusics": false,
             "tipus": "tornada",
             "paragraf": [
-              {"text": "Al.le, Al.le, Al·leluia"},
+              {"text": "Al.le, Al.le, Al·leluia (x2)"},
               {"text": "Cantem al Senyor."},
               {"text": "Cada dia lloem tot cantant:"},
               {"text": "Oh! Al.le, Al·leluia."}
-            ],
-            "vegades": 2
+            ]
           },
           {
             "visibleAlsMusics": true,
@@ -64106,12 +64253,11 @@ export default [
             "visibleAlsMusics": false,
             "tipus": "tornada",
             "paragraf": [
-              {"text": "Al.le, Al.le, Al·leluia"},
+              {"text": "Al.le, Al.le, Al·leluia (x2)"},
               {"text": "Cantem al Senyor."},
               {"text": "Cada dia lloem tot cantant:"},
               {"text": "Oh! Al.le, Al·leluia."}
-            ],
-            "vegades": 2
+            ]
           }
         ]
       }
@@ -68170,9 +68316,9 @@ export default [
                   { "nota": "7", "pos": 26 },
                   { "nota": "MI", "pos": 28 }
                 ]
-              },
-              {"text": "(2)"}
-            ]
+              }
+            ],
+            "vegades": 2
           },
           {
             "tipus": "estrofa",
@@ -68334,7 +68480,8 @@ export default [
               {"text": "Déu és aquí, cantem el seu Nom."},
               {"text": "Déu és aquí, Hosanna, Hosanna;"},
               {"text": "Déu és aquí, cantem el seu Nom."}
-            ]
+            ],
+            "vegades": 2
           }
         ]
       }
@@ -69503,23 +69650,31 @@ export default [
                 ]
               },
               {
-                "text": "Per la seva misericòrdia.  (2)",
+                "text": "Per la seva misericòrdia.",
                 "acordsASobre": [
                   { "nota": "SOL", "pos": 7 },
                   { "nota": "RE", "pos": 12 },
                   { "nota": "mi", "pos": 20 }
                 ]
-              },
+              }
+            ],
+            "vegades": 2
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
               {
-                "text": "Perquè  és per sempre. Amén.  (4)",
+                "text": "Perquè  és per sempre. Amén.",
                 "acordsASobre": [
                   { "nota": "SOL", "pos": 2 },
                   { "nota": "RE", "pos": 15 },
                   { "nota": "mi", "pos": 23 }
                 ]
               }
-            ]
-          }
+            ],
+            "vegades": 4
+          },
         ]
       }
     }
@@ -85244,12 +85399,12 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {
-                "text": "Aleluya, aleluya",
+                "text": "[Alelu, aleluya] (x3)",
                 "acordsASobre": [
-                  { "nota": "LA", "pos": 0 },
-                  { "nota": "LA", "pos": 16 },
-                  { "nota": "/", "pos": 15 },
-                  { "nota": "MI", "pos": 13 }
+                  { "nota": "LA", "pos": 1 },
+                  { "nota": "MI", "pos": 12 },
+                  { "nota": "/", "pos": 14 },
+                  { "nota": "LA", "pos": 15 },
                 ]
               },
               {
@@ -85260,7 +85415,7 @@ export default [
                 ]
               }
             ],
-            "vegades": 3
+            "vegades": 2
           },
           {
             "tipus": "estrofa",
@@ -85291,16 +85446,17 @@ export default [
                   { "nota": "LA", "pos": 6 }
                 ]
               }
-            ]
+            ],
+            "vegades": 2
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": false,
             "paragraf": [
-              {"text": "Aleluya, aleluya"},
+              {"text": "[Alelu, aleluya] (x3)"},
               {"text": "el Señor resucitó."}
             ],
-            "vegades": 3
+            "vegades": 2
           },
           {
             "tipus": "estrofa",
@@ -85311,16 +85467,17 @@ export default [
               {"text": "nos manda que le queramos"},
               {"text": "en todos nuestros hermanos."},
               {"text": "Aleluya."}
-            ]
+            ],
+            "vegades": 2
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": false,
             "paragraf": [
-              {"text": "Aleluya, aleluya"},
+              {"text": "[Alelu, aleluya] (x3)"},
               {"text": "el Señor resucitó."}
             ],
-            "vegades": 3
+            "vegades": 2
           },
           {
             "tipus": "estrofa",
@@ -85330,16 +85487,17 @@ export default [
               {"text": "de que Dios siempre perdona"},
               {"text": "que Cristo no me abandona."},
               {"text": "Aleluya."}
-            ]
+            ],
+            "vegades": 2
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": false,
             "paragraf": [
-              {"text": "Aleluya, aleluya"},
+              {"text": "[Alelu, aleluya] (x3)"},
               {"text": "el Señor resucitó."}
             ],
-            "vegades": 3
+            "vegades": 2
           }
         ]
       }
@@ -90100,13 +90258,13 @@ export default [
                 ]
               },
               {
-                "text": "En el capítulo cuarto, versículo ocho, primera de Juan (bis)",
+                "text": "[En el capítulo cuarto, versículo ocho, primera de Juan] (x2)",
                 "acordsASobre": [
-                  { "nota": "FA", "pos": 1 },
-                  { "nota": "DO", "pos": 17 },
-                  { "nota": "SOL", "pos": 33 },
-                  { "nota": "7", "pos": 36 },
-                  { "nota": "DO", "pos": 51 }
+                  { "nota": "FA", "pos": 2 },
+                  { "nota": "DO", "pos": 18 },
+                  { "nota": "SOL", "pos": 34 },
+                  { "nota": "7", "pos": 37 },
+                  { "nota": "DO", "pos": 52 }
                 ]
               }
             ]
@@ -90118,7 +90276,7 @@ export default [
               {"text": "Dios es la luz, la Biblia lo dice,"},
               {"text": "Dios es la luz, San Pablo lo repite,"},
               {"text": "Dios es la luz, búscalo y verás:"},
-              {"text": "En el capítulo uno versículo cinco, primera de Juan (bis)"}
+              {"text": "[En el capítulo uno versículo cinco, primera de Juan] (x2)"}
             ]
           },
           {
@@ -90128,7 +90286,7 @@ export default [
               {"text": "Cristo es perdón, la Biblia lo dice,"},
               {"text": "Cristo es perdón, San Pablo lo repite,"},
               {"text": "Cristo es perdón, búscalo y verás:"},
-              {"text": "En el capítulo dos, versículo doce, primera de Juan (bis)"}
+              {"text": "[En el capítulo dos, versículo doce, primera de Juan] (x2)"}
             ]
           }
         ]
@@ -99003,11 +99161,11 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {
-                "text": "TÚ ÉL ÚNICO REY,QUE TIENE QUE REINAR",
+                "text": "TÚ ÉL ÚNICO REY, QUE TIENE QUE REINAR",
                 "acordsASobre": [
                   { "nota": "DO", "pos": 0 },
                   { "nota": "la", "pos": 13 },
-                  { "nota": "FA", "pos": 33 }
+                  { "nota": "FA", "pos": 34 }
                 ]
               },
               {
@@ -99800,21 +99958,11 @@ export default [
             "tipus": "tornada",
             "visibleAlsMusics": true,
             "paragraf": [
-              {
-                "text": "Yo confío en ti, Señor, Jesús"
-              },
-              {
-                "text": "Te pertenezco a Ti, Jesús,"
-              },
-              {
-                "text": "La razón de mi vivir,"
-              },
-              {
-                "text": "Señor te canto a Ti"
-              },
-              {
-                "text": "Tal como soy"
-              }
+              {"text": "Yo confío en ti, Señor, Jesús"},
+              {"text": "Te pertenezco a Ti, Jesús,"},
+              {"text": "La razón de mi vivir,"},
+              {"text": "Señor te canto a Ti"},
+              {"text": "Tal como soy"}
             ]
           }
         ]
@@ -99999,15 +100147,9 @@ export default [
             "tipus": "tornada",
             "visibleAlsMusics": 1,
             "paragraf": [
-              {
-                "text": "Quiero ser, ser lavado"
-              },
-              {
-                "text": "Ser curado, y quiero"
-              },
-              {
-                "text": "Morir a mí mismo"
-              }
+              {"text": "Quiero ser, ser lavado"},
+              {"text": "Ser curado, y quiero"},
+              {"text": "Morir a mí mismo"}
             ]
           },
           {
@@ -100087,15 +100229,9 @@ export default [
             "tipus": "tornada",
             "visibleAlsMusics": 1,
             "paragraf": [
-              {
-                "text": "Quiero ser, ser lavado"
-              },
-              {
-                "text": "Ser curado, y quiero"
-              },
-              {
-                "text": "Morir a mí mismo"
-              }
+              {"text": "Quiero ser, ser lavado"},
+              {"text": "Ser curado, y quiero"},
+              {"text": "Morir a mí mismo"}
             ]
           },
           {
@@ -100141,15 +100277,9 @@ export default [
             "tipus": "tornada",
             "visibleAlsMusics": 1,
             "paragraf": [
-              {
-                "text": "Quiero ser, ser lavado"
-              },
-              {
-                "text": "Ser curado, y quiero"
-              },
-              {
-                "text": "Morir a mí mismo"
-              }
+              {"text": "Quiero ser, ser lavado"},
+              {"text": "Ser curado, y quiero"},
+              {"text": "Morir a mí mismo"}
             ]
           },
           {
@@ -100175,18 +100305,14 @@ export default [
                   { "nota": "SOL", "pos": 0 }
                 ]
               },
-              {
-                "text": "Resucitado"
-              }
+              {"text": "Resucitado"}
             ]
           },
           {
             "tipus": "anotacio",
             "visibleAlsMusics": true,
             "paragraf": [
-              {
-                "text": "la -Fa -Do-Sol- Do"
-              }
+              {"text": "la -Fa -Do-Sol- Do"}
             ]
           }
         ]
@@ -100239,15 +100365,9 @@ export default [
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {
-                "text": "Has sortit al nostre encontre"
-              },
-              {
-                "text": "T'has posat a caminar,"
-              },
-              {
-                "text": "I per la nostra conversa has preguntat"
-              }
+              {"text": "Has sortit al nostre encontre"},
+              {"text": "T'has posat a caminar,"},
+              {"text": "I per la nostra conversa has preguntat"}
             ]
           },
           {
@@ -100319,30 +100439,18 @@ export default [
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {
-                "text": "Quan arriba l'hora baixa"
-              },
-              {
-                "text": "Tu fas com el que se'n va,"
-              },
-              {
-                "text": "Però nosaltres t'insistim entusiasmats"
-              }
+              {"text": "Quan arriba l'hora baixa"},
+              {"text": "Tu fas com el que se'n va,"},
+              {"text": "Però nosaltres t'insistim entusiasmats"}
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {
-                "text": "Has entrat a casa nostra"
-              },
-              {
-                "text": "T'has deixat acomodar"
-              },
-              {
-                "text": "I et mirem als ulls amb el cor abrusat"
-              }
+              {"text": "Has entrat a casa nostra"},
+              {"text": "T'has deixat acomodar"},
+              {"text": "I et mirem als ulls amb el cor abrusat"}
             ]
           },
 
@@ -100350,96 +100458,56 @@ export default [
             "tipus": "tornada",
             "visibleAlsMusics": 1,
             "paragraf": [
-              {
-                "text": "Ens expliques l'Escriptura",
-              },
-              {
-                "text": "Com ningú ho ho ha fet mai,",
-              },
-              {
-                "text": "I et reveles en el gest de partir el pa!",
-              }
+              {"text": "Ens expliques l'Escriptura",},
+              {"text": "Com ningú ho ho ha fet mai,",},
+              {"text": "I et reveles en el gest de partir el pa!",}
             ]
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": 1,
             "paragraf": [
-              {
-                "text": "Queda't amb nosaltres",
-              },
-              {
-                "text": "Que el dia ja comença a declinar!",
-              },
-              {
-                "text": "Queda't amb nosaltres,",
-              },
-              {
-                "text": "Qui camina amb tu Jesús mai no es perdrà!",
-              }
+              {"text": "Queda't amb nosaltres",},
+              {"text": "Que el dia ja comença a declinar!",},
+              {"text": "Queda't amb nosaltres,",},
+              {"text": "Qui camina amb tu Jesús mai no es perdrà!",}
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {
-                "text": "Aixequem-nos de la taula"
-              },
-              {
-                "text": "Anema a trobar els germans,"
-              },
-              {
-                "text": "'Realment és ell, Déu l'ha ressuscitat'"
-              }
+              {"text": "Aixequem-nos de la taula"},
+              {"text": "Anema a trobar els germans,"},
+              {"text": "'Realment és ell, Déu l'ha ressuscitat'"}
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {
-                "text": "Aplegats en el teu nom"
-              },
-              {
-                "text": "Tornarem a caminar"
-              },
-              {
-                "text": "Fins que torni ple de glòria i  majestat"
-              }
+              {"text": "Aplegats en el teu nom"},
+              {"text": "Tornarem a caminar"},
+              {"text": "Fins que torni ple de glòria i  majestat"}
             ]
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": 1,
             "paragraf": [
-              {
-                "text": "Ens expliques l'Escriptura",
-              },
-              {
-                "text": "Com ningú ho ho ha fet mai,",
-              },
-              {
-                "text": "I et reveles en el gest de partir el pa!",
-              }
+              {"text": "Ens expliques l'Escriptura",},
+              {"text": "Com ningú ho ho ha fet mai,",},
+              {"text": "I et reveles en el gest de partir el pa!",}
             ]
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": 1,
             "paragraf": [
-              {
-                "text": "Queda't amb nosaltres",
-              },
-              {
-                "text": "Que el dia ja comença a declinar!",
-              },
-              {
-                "text": "Queda't amb nosaltres,",
-              },
-              {
-                "text": "Qui camina amb tu Jesús mai no es perdrà!",
-              }
+              {"text": "Queda't amb nosaltres",},
+              {"text": "Que el dia ja comença a declinar!",},
+              {"text": "Queda't amb nosaltres,",},
+              {"text": "Qui camina amb tu Jesús mai no es perdrà!",}
             ]
           },
         ]
