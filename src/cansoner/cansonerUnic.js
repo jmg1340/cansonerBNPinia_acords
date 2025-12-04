@@ -4,7 +4,7 @@ V23 - ES
 V500 - CAT
 V563 - ES
 
-Ids lliures: 571
+Ids lliures: 571, 485
 */
 
 export default [
@@ -8787,7 +8787,7 @@ export default [
             "paragraf": [
               {"text": "Hazme instrumento de tu paz,"},
               {"text": "que lleve tu esperanza por doquier;"},
-              {"text": "donde haya oscuridad, debe tu luz,"},
+              {"text": "donde haya oscuridad, lleve tu luz,"},
               {"text": "donde haya pena, tu gozo, Señor."}
             ]
           },
@@ -21259,11 +21259,11 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {
-                "text": "Jo   vull ser com tu, Jesús.",
+                "text": "[Jo   vull ser com tu, Jesús.] (x2)",
                 "acordsASobre": [
-                  { "nota": "DO", "pos": 0 },
-                  { "nota": "mi", "pos": 5 },
-                  { "nota": "FA", "pos": 30 }
+                  { "nota": "DO", "pos": 1 },
+                  { "nota": "mi", "pos": 6 },
+                  { "nota": "FA", "pos": 31 }
                 ]
               },
               {
@@ -21281,8 +21281,7 @@ export default [
                   { "nota": "DO", "pos": 23 }
                 ]
               }
-            ],
-            "vegades": 2
+            ]
           }
         ]
       }
@@ -36633,6 +36632,77 @@ export default [
               {"text": "Cristo vive en tí."},
               {"text": "Oh, qué maravilla es"},
               {"text": "que Cristo viva en tí.   "}
+            ],
+            "vegades": 2
+          }
+        ]
+      },
+      "CAT": {
+        "titol": "Crist es viu en mi, Al·leluia",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 38,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Crist és viu en mi, Al·leluia!",
+                "acordsASobre": [
+                  { "nota": "RE", "pos": 0 },
+                  { "nota": "LA", "pos": 16 }
+                ]
+              },
+              {
+                "text": "Crist és viu en mi.",
+                "acordsASobre": [
+                  { "nota": "si", "pos": 0 },
+                  { "nota": "la", "pos": 17 },
+                  { "nota": "RE", "pos": 20 },
+                  { "nota": "7", "pos": 22 }
+                ]
+              },
+              {
+                "text": "Quina meravella és",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "LA", "pos": 6 },
+                  { "nota": "fa#", "pos": 10 },
+                  { "nota": "si", "pos": 16 }
+                ]
+              },
+              {
+                "text": "que Ell sigui viu en mi.       ",
+                "acordsASobre": [
+                  { "nota": "mi", "pos": 8 },
+                  { "nota": "MI", "pos": 14 },
+                  { "nota": "LA", "pos": 21 }
+                ],
+                "acordsASota": [
+                  { "nota": "(", "pos": 7 },
+                  { "nota": "MI", "pos": 8 },
+                  { "nota": "LA", "pos": 14 },
+                  { "nota": "RE", "pos": 21 },
+                  { "nota": ")", "pos": 23 }
+                ]
+              }
+            ],
+            "vegades": 2
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Crist és viu en tu, Al·leluia!"},
+              {"text": "Crist és viu en tu."},
+              {"text": "Quina meravella és"},
+              {"text": "que Ell sigui viu en tu.       "}
             ],
             "vegades": 2
           }
@@ -52996,9 +53066,9 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {
-                "text": "Los cielos y la tierra están llenos",
+                "text": "El cielo y la tierra están llenos",
                 "acordsASobre": [
-                  { "nota": "SOL", "pos": 29 }
+                  { "nota": "SOL", "pos": 27 }
                 ]
               },
               {
@@ -67536,82 +67606,6 @@ export default [
     }
   },
   {
-    "id": 485,
-    "idiomes": {
-      "CAT": {
-        "titol": "Crist es viu en mi, Al·leluia",
-        "audio": null,
-        "cansoners": [
-          {
-            "nom": "Vermell",
-            "numero": 38,
-            "estat": null
-          }
-        ],
-        "lletra": [
-          {
-            "tipus": "estrofa",
-            "visibleAlsMusics": true,
-            "paragraf": [
-              {
-                "text": "Crist és viu en mi, Al·leluia!",
-                "acordsASobre": [
-                  { "nota": "RE", "pos": 0 },
-                  { "nota": "LA", "pos": 16 }
-                ]
-              },
-              {
-                "text": "Crist és viu en mi.",
-                "acordsASobre": [
-                  { "nota": "si", "pos": 0 },
-                  { "nota": "la", "pos": 17 },
-                  { "nota": "RE", "pos": 20 },
-                  { "nota": "7", "pos": 22 }
-                ]
-              },
-              {
-                "text": "Quina meravella és",
-                "acordsASobre": [
-                  { "nota": "SOL", "pos": 0 },
-                  { "nota": "LA", "pos": 6 },
-                  { "nota": "fa#", "pos": 10 },
-                  { "nota": "si", "pos": 16 }
-                ]
-              },
-              {
-                "text": "que Ell sigui viu en mi.       ",
-                "acordsASobre": [
-                  { "nota": "mi", "pos": 8 },
-                  { "nota": "MI", "pos": 14 },
-                  { "nota": "LA", "pos": 21 }
-                ],
-                "acordsASota": [
-                  { "nota": "(", "pos": 7 },
-                  { "nota": "MI", "pos": 8 },
-                  { "nota": "LA", "pos": 14 },
-                  { "nota": "RE", "pos": 21 },
-                  { "nota": ")", "pos": 23 }
-                ]
-              }
-            ],
-            "vegades": 2
-          },
-          {
-            "tipus": "estrofa",
-            "visibleAlsMusics": true,
-            "paragraf": [
-              {"text": "Crist és viu en tu, Al·leluia!"},
-              {"text": "Crist és viu en tu."},
-              {"text": "Quina meravella és"},
-              {"text": "que Ell sigui viu en tu.       "}
-            ],
-            "vegades": 2
-          }
-        ]
-      }
-    }
-  },
-  {
     "id": 486,
     "idiomes": {
       "CAT": {
@@ -71672,7 +71666,12 @@ export default [
     "idiomes": {
       "CAT": {
         "titol": "I si vivim, per a Ell vivim",
-        "audio": null,
+        "audio":[
+          {
+            "src": "https://cansonsbn.bonanova.cat/Vermell/V088.mp3",
+            "type": "audio/mp3"
+          }
+        ],
         "cansoners": [
           {
             "nom": "Vermell",
@@ -84461,6 +84460,13 @@ export default [
         ],
         "lletra": [
           {
+            "tipus": "anotacio",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Celleta 2"},
+            ]
+          },
+          {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
@@ -85698,8 +85704,7 @@ export default [
                   { "nota": "LA", "pos": 20 },
                   { "nota": "RE", "pos": 27 }
                 ]
-              },
-              {"text": "el teu Senyor."}
+              }
             ]
           },
           {
@@ -90368,7 +90373,7 @@ export default [
         ],
         "lletra": [
           {
-            "tipus": "estrofa",
+            "tipus": "anotacio",
             "visibleAlsMusics": true,
             "paragraf": [
               {"text": "(1º mujeres, contestan hombres)"}
@@ -90459,6 +90464,125 @@ export default [
             "paragraf": [
               {"text": "Vida nueva me has dado, mi Señor."},
               {"text": "Vida nueva me has dado, mi Salvador."}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Jesús…"}
+            ]
+          }
+        ]
+      },
+      "CAT": {
+        "titol": "LA TEVA FE T'HA SALVAT. Autor: Miguel y Cristina Íñiguez",
+        "audio": [
+          {
+            "src": "https://cansonsbn.bonanova.cat/Vermell/V542CAT.mp3",
+            "type": "audio/mp3"
+          }
+        ],
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 542,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "anotacio",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "(1º dones, contesten homes)"}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "   Jesús,     Jesús",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "SOL", "pos": 3 },
+                  { "nota": "lam", "pos": 7 },
+                  { "nota": "FA", "pos": 12 },
+                  { "nota": "SOL", "pos": 15 },
+                  { "nota": "DO", "pos": 19 }
+                ]
+              },
+              {
+                "text": "   Jesús,     Jesús",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "SOL", "pos": 3 },
+                  { "nota": "lam", "pos": 7 },
+                  { "nota": "FA", "pos": 12 },
+                  { "nota": "SOL", "pos": 15 },
+                  { "nota": "DO", "pos": 19 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Tu pots guarir-me, crec en tu.",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "SOL", "pos": 5 },
+                  { "nota": "lam", "pos": 13 },
+                  { "nota": "FA", "pos": 19 },
+                  { "nota": "SOL", "pos": 22 },
+                  { "nota": "DO", "pos": 27 }
+                ]
+              },
+              {
+                "text": "Cura'm les ferides, crec en tu.",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "SOL", "pos": 5 },
+                  { "nota": "lam", "pos": 12 },
+                  { "nota": "FA", "pos": 19 },
+                  { "nota": "SOL", "pos": 22 },
+                  { "nota": "DO", "pos": 27 },
+                  { "nota": "SOL", "pos": 30 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Jesús..."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "La teva fe t'ha salvat, vés en pau."},
+              {"text": "La teva fe t'ha salvat, vés en pau."}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Jesús..."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Vida nova m'has dat, Senyor meu."},
+              {"text": "Vida nova m'has dat, Salvador meu."}
             ]
           },
           {
