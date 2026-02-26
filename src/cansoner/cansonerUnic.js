@@ -4,7 +4,7 @@ V23 - ES
 V500 - CAT
 V563 - ES
 
-Ids lliures: 571, 485
+Ids lliures: 571, 574, 576, 485
 */
 
 export default [
@@ -17225,7 +17225,157 @@ export default [
             ]
           }
         ]
-      }
+      },
+      "CAT": {
+        "titol": "Obro el meu cor",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 630,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Obro el meu cor i alço les mans i",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 2 },
+                  { "nota": "mi", "pos": 18 }
+                ]
+              },
+              {
+                "text": "la meva veu cap a tu.",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 4 },
+                  { "nota": "RE", "pos": 18 }
+                ]
+              },
+              {
+                "text": "Jo vull rendir-me i lliurar-me a",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "sim", "pos": 16 }
+                ]
+              },
+              {
+                "text": "la teva voluntat.",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 4 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "anotacio",
+            "visibleAlsMusics": true,
+            "vegades": 0,
+            "paragraf": [
+              {
+                "text": "** 1er trast **"
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Tot el meu cor s'obre a la veu",
+                "acordsASobre": [
+                  { "nota": "lam", "pos": 1 },
+                  { "nota": "RE", "pos": 15 },
+                  { "nota": "7", "pos": 17 }
+                ]
+              },
+              {
+                "text": "del teu Esperit d'amor.",
+                "acordsASobre": [
+                  { "nota": "sim", "pos": 8 },
+                  { "nota": "MI", "pos": 19 },
+                  { "nota": "4", "pos": 21 },
+                  { "nota": "MI", "pos": 23 }
+                ]
+              },
+              {
+                "text": "La meva ànima et canta",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 1 },
+                  { "nota": "RE", "pos": 18 }
+                ]
+              },
+              {
+                "text": "La meva ànima et canta",
+                "acordsASobre": [
+                  { "nota": "SI", "pos": 1 },
+                  { "nota": "7", "pos": 3 },
+                  { "nota": "mi", "pos": 17 }
+                ]
+              },
+              {
+                "text": "et canta plena de joia",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 1 },
+                  { "nota": "la", "pos": 18 }
+                ]
+              },
+              {
+                "text": "en tu Senyor",
+                "acordsASobre": [
+                  { "nota": "RE", "pos": 3 },
+                  { "nota": "SOL", "pos": 9 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Vull escoltar la teva Paraula,"
+              },
+              {
+                "text": "que sadolli la set que tinc de tu."
+              },
+              {
+                "text": "No m'abandonis, mai no em deixis;"
+              },
+              {
+                "text": "jo confio en tu."
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {
+                "text": "Tot el meu cor s'obre a la veu"
+              },
+              {
+                "text": "del teu Esperit d'amor."
+              },
+              {
+                "text": "La meva ànima et canta"
+              },
+              {
+                "text": "La meva ànima et canta"
+              },
+              {
+                "text": "et canta plena de joia"
+              },
+              {
+                "text": "en tu Senyor"
+              }
+            ]
+          }
+        ]
+      } 
     }
   },
   {
@@ -21085,6 +21235,96 @@ export default [
                   { "nota": "FA", "pos": 5 },
                   { "nota": "MI", "pos": 10 },
                   { "nota": "lam", "pos": 13 }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "CAT": {
+        "titol": "Senyor, sou el meu Déu",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 631,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Senyor, sou el meu Déu",
+                "acordsASobre": [
+                  { "nota": "lam", "pos": 0 },
+                  { "nota": "rem", "pos": 19 }
+                ]
+              },
+              {
+                "text": "a l'alba us cerco,",
+                "acordsASobre": [
+                  { "nota": "MI", "pos": 12 }
+                ]
+              },
+              {
+                "text": "tot jo tinc set de Vós.",
+                "acordsASobre": [
+                  { "nota": "lam", "pos": 3 },
+                  { "nota": "MI", "pos": 19 }
+                ]
+              },
+              {
+                "text": "Per Vós, el meu cor, es desviu",
+                "acordsASobre": [
+                  { "nota": "lam", "pos": 4 },
+                  { "nota": "rem", "pos": 16 },
+                  { "nota": "MI", "pos": 28 }
+                ]
+              },
+              {
+                "text": "en terra eixuta i assedegada.",
+                "acordsASobre": [
+                  { "nota": "lam", "pos": 10 },
+                  { "nota": "MI", "pos": 24 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Tota la vida us beneiré",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "SOL", "pos": 8 },
+                  { "nota": "7", "pos": 11 }
+                ]
+              },
+              {
+                "text": "i alçaré les mans innvocant-vos.",
+                "acordsASobre": [
+                  { "nota": "rem", "pos": 0 },
+                  { "nota": "MI", "pos": 13 }
+                ]
+              },
+              {
+                "text": "Senyor, heu estat la meva ajuda",
+                "acordsASobre": [
+                  { "nota": "lam", "pos": 2 },
+                  { "nota": "rem", "pos": 13 }
+                ]
+              },
+              {
+                "text": "em sosté la vostra mà.",
+                "acordsASobre": [
+                  { "nota": "FA", "pos": 6 },
+                  { "nota": "MI", "pos": 12 },
+                  { "nota": "lam", "pos": 18 }
                 ]
               }
             ]
@@ -42072,7 +42312,7 @@ export default [
                 ]
               },
               {
-                "text": "yo vengo a tu presencia a adorar,",
+                "text": "hoy vengo a tu presencia a adorar,",
                 "acordsASobre": [
                   { "nota": "DO", "pos": 5 },
                   { "nota": "RE", "pos": 18 },
@@ -42096,7 +42336,7 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {"text": "Dios, el más grande y digno de alabar"},
-              {"text": "te ayuda al enemigo a derrotar."},
+              {"text": "me ayudas al enemigo a derrotar."},
               {"text": "El gozo de mi vida eres tú."}
             ]
           },
@@ -42146,7 +42386,74 @@ export default [
             ]
           }
         ]
-      }
+      },
+      "CAT": {
+        "titol": "Senyor el més gran i digne",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 629,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Senyor, el més gran i digne de ser lloat,"
+              },
+              {
+                "text": "davant vostre m’agenollo per adorar"
+              },
+              {
+                "text": "Exalçaré per sempre el vostre nom."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Senyor, sou la victòria en el combat."
+              },
+              {
+                "text": "sempre m’ajudeu en l’adversitat."
+              },
+              {
+                "text": "En Vós trobo refugi i protecció."
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Senyor jo vull alçar la meva veu"
+              },
+              {
+                "text": "vull donar-vos gràcies"
+              },
+              {
+                "text": "pel que feu en ma vida."
+              },
+              {
+                "text": "Senyor confio en el vostre amor"
+              },
+              {
+                "text": "Vós sou l’únic Déu etern,"
+              },
+              {
+                "text": "La vostra paraula és fidel."
+              }
+            ]
+          }
+        ]
+      }    
     }
   },
   {
@@ -61297,7 +61604,12 @@ export default [
       },
       "CAT": {
         "titol": "Tot es pel meu Crist",
-        "audio": null,
+        "audio": [
+          {
+            "src": "https://cansonsbn.bonanova.cat/Vermell/V175.mp3",
+            "type": "audio/mp3"
+          }
+        ],
         "cansoners": [
           {
             "nom": "Vermell",
@@ -70894,6 +71206,16 @@ export default [
         ],
         "lletra": [
           {
+            "tipus": "anotacio",
+            "visibleAlsMusics": true,
+            "vegades": 0,
+            "paragraf": [
+              {
+                "text": "Celleta 3r trast"
+              }
+            ]
+          },        
+          {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
@@ -74670,6 +74992,97 @@ export default [
             ]
           }
         ]
+      },
+      "ES": {
+        "titol": "Te alabamos, te ensalzamos",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 123,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "De alegría y de vida"},
+              {"text": "llenas nuestro corazón,"},
+              {"text": "por tu entrega sin medida"},
+              {"text": "te aclamamos hoy, Señor."}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {"text": "Te alabamos, te ensalzamos,"},
+              {"text": "oye nuestra bendición"},
+              {"text": "te alabamos, te ensalzamos,"},
+              {"text": "Rey de reyes, el Señor."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Tu luz vence las tinieblas"},
+              {"text": "y nos salvas con tu amor,"},
+              {"text": "ese amor trae esperanza"},
+              {"text": "para nuestro corazón."}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {"text": "Te alabamos, te ensalzamos,"},
+              {"text": "oye nuestra bendición"},
+              {"text": "te alabamos, te ensalzamos,"},
+              {"text": "Rey de reyes, el Señor."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Aleluya Aleluya Aleluya Aleluya"},
+              {"text": "Aleluya Aleluya Aleluya Aleluya"},
+              {"text": "Aleluya Aleluya Aleluya Aleluya"}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {"text": "Te alabamos, te ensalzamos,"},
+              {"text": "oye nuestra bendición"},
+              {"text": "te alabamos, te ensalzamos,"},
+              {"text": "Rey de reyes, el Señor."}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Aleluya Aleluya Aleluya Aleluya"},
+              {"text": "Aleluya Aleluya Aleluya Aleluya"},
+              {"text": "Aleluya Aleluya Aleluya Aleluya"}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              {"text": "Te alabamos, te ensalzamos,"},
+              {"text": "oye nuestra bendición"},
+              {"text": "te alabamos, te ensalzamos,"},
+              {"text": "Rey de reyes, el Señor."}
+            ]
+          }
+        ]
       }
     }
   },
@@ -74927,7 +75340,80 @@ export default [
   },
   {
     "id": 574,
-    "idiomes": {}
+    "idiomes": {
+      "ES": {
+        "titol": "Tuya es la gloria",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 632,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "vegades": 2,
+            "paragraf": [
+              {"text": "Tuya es la gloria  y la honra,"},
+              {"text": "levantamos nuestras manos"},
+              {"text": "proclamando tu poder"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Grande es tu amor,"},
+              {"text": "grandes tus milagros son,"},
+              {"text": "y no hay nadie como Tú,"},
+              {"text": "y no hay nadie como Tú,"},
+              {"text": "porque grande es tu amor,"},
+              {"text": "grandes tus milagros son,"},
+              {"text": "y no hay nadie como Tú."}
+            ]
+          }
+        ]
+      },
+      "CAT": {
+        "titol": "Teva és la glòria",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 632,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "vegades": 2,
+            "paragraf": [
+              {"text": "Teva és la glòria i l'honra"},
+              {"text": "aixequem les nostres mans"},
+              {"text": "Proclamant el teu poder"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Gran és l'amor"},
+              {"text": "Grans els teus miracles són,"},
+              {"text": "i no hi ha ningú com Tu"},
+              {"text": "i no hi ha ningú com Tu."},
+              {"text": "Perquè és Gran el teu amor"},
+              {"text": "Grans els teus miracles són"},
+              {"text": "I no hi ha ningú com Tu"}
+            ]
+          }
+        ]
+      }        
+    }
   },
   {
     "id": 576,
@@ -85117,7 +85603,74 @@ export default [
             ]
           }
         ]
-      }
+      },
+      "ES": {
+        "titol": "Y todo el pueblo dice amén",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 243,
+            "estat": null
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Y todo el pueblo dice amén, oh oh oh"},
+              {"text": "Y todo el pueblo dice amén,"},
+              {"text": "Dad gracias a Dios"},
+              {"text": "por su amor siempre fiel"},
+              {"text": "Y todo el pueblo dice amén"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Pobre o rico, eso no importa;"},
+              {"text": "débil o fuerte, eso da igual."},
+              {"text": "Y si caemos o tropezamos"},
+              {"text": "Él ya lo sabe y nos amó,"},
+              {"text": "y así envió a su Hijo para nuestra salvación."}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {"text": "Y todo el pueblo dice amén, oh oh oh"},
+              {"text": "Y todo el pueblo dice amén,"},
+              {"text": "Dad gracias a Dios"},
+              {"text": "por su amor siempre fiel"},
+              {"text": "Y todo el pueblo dice amén"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Es feliz el que acoge  da el amor de Dios;"},
+              {"text": "es feliz el que confía sin temor de Dios;"},
+              {"text": "es feliz el que lucha por un mundo de paz,"},
+              {"text": "porque ése es el Reino, el Reino de Dios."}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {"text": "Y todo el pueblo dice amén, oh oh oh"},
+              {"text": "Y todo el pueblo dice amén,"},
+              {"text": "Dad gracias a Dios"},
+              {"text": "por su amor siempre fiel"},
+              {"text": "Y todo el pueblo dice amén"}
+            ]
+          }
+        ]
+      }  
     }
   },
   {
@@ -94309,11 +94862,11 @@ export default [
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Cuan hermosas son tus moradas (G)"},
               {"text": "Cuan hermosas son tus moradas"},
               {"text": "mi alma clama a ti oh Señor"},
               {"text": "todo mi ser canta alegre"},
-              {"text": " al eterno Dios."}
+              {"text": "al eterno Dios."},
+              {"text": "Tu eres mi Dios y mi Rey"}
             ]
           },
           {
