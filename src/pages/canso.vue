@@ -246,7 +246,7 @@
 
 
 <script>
-import objNadales from "../cansoner/nadales.js"
+import objNadales from "../../public/nadales.js"
 
 import { defineComponent, ref, onMounted, onUnmounted, computed, watch, watchEffect } from 'vue';
 import { useCansoStore } from '../stores/example-store'

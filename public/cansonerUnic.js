@@ -4,7 +4,7 @@ V23 - ES
 V500 - CAT
 V563 - ES
 
-Ids lliures: 571, 574, 576, 485
+Ids lliures: 571, 574, 576
 */
 
 export default [
@@ -31337,7 +31337,7 @@ export default [
                 ]
               },
               {
-                "text": "deixar-ho tot als seus peus",
+                "text": "deixar-ho tot als teus peus",
                 "acordsASobre": [
                   { "nota": "RE", "pos": 11 },
                   { "nota": "la", "pos": 24 },
@@ -50981,6 +50981,78 @@ export default [
                 ]
               }
             ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Oh, Adonai, oh, Adonai,",
+                "acordsASobre": [
+                  { "nota": "rem", "pos": 0 },
+                  { "nota": "rem", "pos": 19 },
+                  { "nota": "LA", "pos": 12 },
+                  { "nota": "7", "pos": 14 }
+                ]
+              },
+              {
+                "text": "Dios del universo,",
+                "acordsASobre": [
+                  { "nota": "SIb", "pos": 0 },
+                  { "nota": "DO", "pos": 5 },
+                  { "nota": "FA", "pos": 12 }
+                ]
+              },
+              {
+                "text": "Señor de la creación.    ",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 2 },
+                  { "nota": "LA", "pos": 8 },
+                  { "nota": "7", "pos": 10 },
+                  { "nota": "rem", "pos": 17 }
+                ]
+              }
+            ],
+            "vegades": 2
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Los cielos cantan tu gloria,",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 4 },
+                  { "nota": "7", "pos": 6 },
+                  { "nota": "FA", "pos": 22 }
+                ]
+              },
+              {
+                "text": "tus hijos hoy te adoran",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 6 },
+                  { "nota": "7", "pos": 8 },
+                  { "nota": "FA", "pos": 18 }
+                ]
+              },
+              {
+                "text": "por todas tus maravillas,",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 5 },
+                  { "nota": "7", "pos": 7 },
+                  { "nota": "rem", "pos": 19 }
+                ]
+              },
+              {
+                "text": "Adonai.    ",
+                "acordsASobre": [
+                  { "nota": "sol", "pos": 0 },
+                  { "nota": "m", "pos": 3 },
+                  { "nota": "LA", "pos": 5 }
+                ]
+              }
+            ],
+            "vegades": 2
           }
         ]
       }
@@ -67918,6 +67990,180 @@ export default [
     }
   },
   {
+    "id": 485,
+    "idiomes": {
+      "ES": {
+        "titol": "Canta y danza, pueblo de Dios",
+        "audio": [
+          {
+            "src": "https://cansonsbn.bonanova.cat/Vermell/V633.mp3",
+            "type": "audio/mp3"
+          }
+        ],
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 633,
+            "estat": 'nova'
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Canta y danza, pueblo de Dios,",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0},
+                  {"nota": "LA", "pos": 17},
+                  {"nota": "sim", "pos": 27}
+                ]
+              },
+              {
+                "text": "levanta tus manos a Él.",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 0},
+                  {"nota": "LA", "pos": 12},
+                  {"nota": "LA", "pos": 27},
+                  {"nota": "sim", "pos": 20}
+                ]
+              },
+              {
+                "text": " Grande es el amor de Dios.",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0},
+                  {"nota": "LA", "pos": 15},
+                  {"nota": "sim", "pos": 25}
+                ]
+              },
+              {
+                "text": "¡Canta Jerusalén!",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 0},
+                  {"nota": "LA", "pos": 8},
+                  {"nota": "sim", "pos": 16}
+                ]
+              },
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "¡Ábrele hoy tu casa, que el Señor cerca està!",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 15},
+                  {"nota": "mi", "pos": 28},
+                  {"nota": "sim", "pos": 43}
+                ]
+              },
+              {
+                "text": "¡Vístete de alegría, en su pueblo vivirà!",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0},
+                  {"nota": "LA", "pos": 14},
+                  {"nota": "SOL", "pos": 28},
+                  {"nota": "FA#", "pos": 38}
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {"text": "Canta y danza, pueblo de Dios,"},
+              {"text": "levanta tus manos a Él."},
+              {"text": "Grande es el amor de Dios."},
+              {"text": "¡Canta Jerusalén!"},
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "No mires atràs, la tristeza pasó.",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 10},
+                  {"nota": "mi", "pos": 23},
+                  {"nota": "sim", "pos": 33}
+                ]
+              },
+              {
+                "text": "Está entrando en su pueblo y nos trae la salvación.",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0},
+                  {"nota": "LA", "pos": 14},
+                  {"nota": "SOL", "pos": 32},
+                  {"nota": "FA#", "pos": 46}
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {"text": "Canta y danza, pueblo de Dios,"},
+              {"text": "levanta tus manos a Él."},
+              {"text": "Grande es el amor de Dios."},
+              {"text": "¡Canta Jerusalén!"},
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Cantadle alabanzas, el Señor nos escuchó."},
+              {"text": "No abandona a su pueblo,"},
+              {"text": "¡a Jesús gloria y honor!"}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {"text": "Canta y danza, pueblo de Dios,"},
+              {"text": "levanta tus manos a Él."},
+              {"text": "Grande es el amor de Dios."},
+              {"text": "¡Canta Jerusalén!"},
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Por siempre cantad alabanzas al Rey."},
+              {"text": "El Señor trae la vida, ¡dadle gloria solo a Él!"}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "vegades": 2,
+            "paragraf": [
+              {"text": "Canta y danza, pueblo de Dios,"},
+              {"text": "levanta tus manos a Él."},
+              {"text": "Grande es el amor de Dios."},
+              {"text": "¡Canta Jerusalén!"},
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "vegades": 3,
+            "paragraf": [
+              {"text": "¡Canta Jerusalén!"}
+            ]
+          }
+        ]
+      }    
+    }
+  },
+  {
     "id": 486,
     "idiomes": {
       "CAT": {
@@ -74874,13 +75120,13 @@ export default [
                 ]
               },
               {
-                "text": "La nostra   ho omple tot.",
+                "text": "La nostra cançó ho omple tot.",
                 "acordsASobre": [
                   { "nota": "fa#", "pos": 7 },
-                  { "nota": "do#", "pos": 15 },
-                  { "nota": "RE", "pos": 27 },
-                  { "nota": "MI", "pos": 31 },
-                  { "nota": "LA", "pos": 34 }
+                  { "nota": "do#", "pos": 20 },
+                  { "nota": "RE", "pos": 32 },
+                  { "nota": "MI", "pos": 36 },
+                  { "nota": "LA", "pos": 39 }
                 ]
               }
             ]
@@ -75357,24 +75603,155 @@ export default [
             "visibleAlsMusics": true,
             "vegades": 2,
             "paragraf": [
-              {"text": "Tuya es la gloria  y la honra,"},
-              {"text": "levantamos nuestras manos"},
-              {"text": "proclamando tu poder"}
+              {
+                "text": "Tuya es la gloria y la honra,",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 0},
+                  {"nota": "sim", "pos": 24}
+                ]
+              },
+              {
+                "text": "levantamos nuestras manos",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 0},
+                  {"nota": "la", "pos": 21}
+                ]
+              },
+              {
+                "text": "proclamando tu poder",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 2}
+                ]
+              }
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Grande es tu amor,"},
-              {"text": "grandes tus milagros son,"},
-              {"text": "y no hay nadie como Tú,"},
-              {"text": "y no hay nadie como Tú,"},
-              {"text": "porque grande es tu amor,"},
-              {"text": "grandes tus milagros son,"},
-              {"text": "y no hay nadie como Tú."}
+              {
+                "text": "Grande es tu amor,",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 10}
+                ]
+              },
+              {
+                "text": "grandes tus milagros son,",
+                "acordsASobre": [
+                  {"nota": "mi", "pos": 23}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú,",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 20}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú,.",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 9},
+                  {"nota": "SOL", "pos": 20}
+                ]
+              },
+              {
+                "text": "porque grande es tu amor,",
+                "acordsASobre": [
+                  {"nota": "mi", "pos": 22}
+                ]
+              },
+              {
+                "text": "grandes tus milagros son,",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 21}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú.",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 10},
+                  {"nota": "SOL", "pos": 19},
+                  {"nota": "MI", "pos": 22},
+                ]
+              }
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "vegades": 2,
+            "paragraf": [
+              {
+                "text": "Tuya es la gloria y la honra,",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 0},
+                  {"nota": "do#", "pos": 24}
+                ]
+              },
+              {
+                "text": "levantamos nuestras manos",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0}
+                ]
+              },
+              {
+                "text": "proclamando tu poder",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 2}
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Grande es tu amor,",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 10}
+                ]
+              },
+              {
+                "text": "grandes tus milagros son,",
+                "acordsASobre": [
+                  {"nota": "fa#", "pos": 24}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 19}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú.",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 8},
+                  {"nota": "LA", "pos": 20}
+                ]
+              },
+              {
+                "text": "porque grande es tu amor,",
+                "acordsASobre": [
+                  {"nota": "fa#", "pos": 21}
+                ]
+              },
+              {
+                "text": "grandes tus milagros son,",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 21}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 9},
+                  {"nota": "MI", "pos": 25},
+                ]
+              }
+            ]
+          }        
         ]
       },
       "CAT": {
@@ -75393,26 +75770,157 @@ export default [
             "visibleAlsMusics": true,
             "vegades": 2,
             "paragraf": [
-              {"text": "Teva és la glòria i l'honra"},
-              {"text": "aixequem les nostres mans"},
-              {"text": "Proclamant el teu poder"}
+              {
+                "text": "Teva és la glòria i l'honra",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 0},
+                  {"nota": "sim", "pos": 24}
+                ]
+              },
+              {
+                "text": "aixequem les nostres mans",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 0},
+                  {"nota": "la", "pos": 21}
+                ]
+              },
+              {
+                "text": "Proclamant el teu poder",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 2}
+                ]
+              }
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Gran és l'amor"},
-              {"text": "Grans els teus miracles són,"},
-              {"text": "i no hi ha ningú com Tu"},
-              {"text": "i no hi ha ningú com Tu."},
-              {"text": "Perquè és Gran el teu amor"},
-              {"text": "Grans els teus miracles són"},
-              {"text": "I no hi ha ningú com Tu"}
+              {
+                "text": "Gran és l'amor",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 10}
+                ]
+              },
+              {
+                "text": "Grans els teus miracles són,",
+                "acordsASobre": [
+                  {"nota": "mi", "pos": 23}
+                ]
+              },
+              {
+                "text": "i no hi ha ningú com Tu",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 20}
+                ]
+              },
+              {
+                "text": "i no hi ha ningú com Tu.",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 9},
+                  {"nota": "SOL", "pos": 20}
+                ]
+              },
+              {
+                "text": "Perquè és Gran el teu amor",
+                "acordsASobre": [
+                  {"nota": "mi", "pos": 22}
+                ]
+              },
+              {
+                "text": "Grans els teus miracles són",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 21}
+                ]
+              },
+              {
+                "text": "I no hi ha ningú com Tu",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 10},
+                  {"nota": "SOL", "pos": 19},
+                  {"nota": "MI", "pos": 22},
+                ]
+              }
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "vegades": 2,
+            "paragraf": [
+              {
+                "text": "Teva és la glòria i l'honra",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 0},
+                  {"nota": "do#", "pos": 24}
+                ]
+              },
+              {
+                "text": "aixequem les nostres mans",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0}
+                ]
+              },
+              {
+                "text": "Proclamant el teu poder",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 2}
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Gran és l'amor",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 10}
+                ]
+              },
+              {
+                "text": "Grans els teus miracles són,",
+                "acordsASobre": [
+                  {"nota": "fa#", "pos": 24}
+                ]
+              },
+              {
+                "text": "i no hi ha ningú com Tu",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 19}
+                ]
+              },
+              {
+                "text": "i no hi ha ningú com Tu.",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 8},
+                  {"nota": "LA", "pos": 20}
+                ]
+              },
+              {
+                "text": "Perquè és Gran el teu amor",
+                "acordsASobre": [
+                  {"nota": "fa#", "pos": 21}
+                ]
+              },
+              {
+                "text": "Grans els teus miracles són",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 21}
+                ]
+              },
+              {
+                "text": "I no hi ha ningú com Tu",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 9},
+                  {"nota": "MI", "pos": 25},
+                ]
+              }
+            ]
+          }        
         ]
-      }        
+      }
     }
   },
   {
