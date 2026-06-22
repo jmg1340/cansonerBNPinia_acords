@@ -352,7 +352,7 @@
 
 <script>
 // import VueAplayer from 'vue-aplayer'
-import objNadales from "../../public/nadales.js"
+import objNadales from "../cansoner/nadales.js"
 
 import { defineComponent, ref, onMounted, onUnmounted, computed } from 'vue';
 import { useCansoStore } from '../stores/example-store'

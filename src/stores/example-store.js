@@ -1,6 +1,6 @@
 import { defineStore } from 'pinia';
-import cansonerunic from "../../public/cansonerUnic"
-import nadales from "../../public/nadales"
+import cansonerunic from "../cansoner/cansonerUnic"
+import nadales from "../cansoner/nadales"
 
 export const useCansoStore = defineStore('canso', {
   state: () => ({

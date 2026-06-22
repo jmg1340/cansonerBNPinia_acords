@@ -58,7 +58,7 @@
 import { ref, computed, defineComponent } from 'vue';
 import { useRouter, useRoute } from 'vue-router'
 
-import arrNadales from "../../public/nadales.js"
+import arrNadales from "../cansoner/nadales.js"
 
 export default defineComponent({
   name: "componentBusacarPerText",

@@ -1,13 +1,3 @@
-EXEMPLE DADES AUDIO
-
-        "audio": [
-          {
-            "src": "https://cansonsbn.bonanova.cat/Vermell/V633.mp3",
-            "type": "audio/mp3"
-          }
-        ],
-
-
 
 
 LLIBRE VERMELL
