@@ -4,7 +4,7 @@ V23 - ES
 V500 - CAT
 V563 - ES
 
-Ids lliures: 571, 574, 576, 485
+Ids lliures: 576
 */
 
 export default [
@@ -10077,7 +10077,7 @@ export default [
               {"text": "Si Jesús te dice: Amigo,"},
               {"text": "deja todo y ven conmigo"},
               {"text": "donde todo es más hermoso y más feliz"}
-            ],
+            ]
           },
           {
             "tipus": "tornada",
@@ -31337,7 +31337,7 @@ export default [
                 ]
               },
               {
-                "text": "deixar-ho tot als seus peus",
+                "text": "deixar-ho tot als teus peus",
                 "acordsASobre": [
                   { "nota": "RE", "pos": 11 },
                   { "nota": "la", "pos": 24 },
@@ -32651,7 +32651,7 @@ export default [
                   { "nota": "LA", "pos": 14 }
                 ]
               }
-            ],
+            ]
 
           },
           {
@@ -32691,8 +32691,7 @@ export default [
                   { "nota": "RE", "pos": 35 }
                 ]
               }
-            ],
-
+            ]
           },
           {
             "tipus": "tornada",
@@ -32730,8 +32729,7 @@ export default [
                   { "nota": "RE", "pos": 50 }
                 ]
               }
-            ],
-
+            ]
           },
           {
             "tipus": "tornada",
@@ -33453,7 +33451,7 @@ export default [
               }
             ],
             "vegades": 2
-          },
+          }
         ]
       }
     }
@@ -40329,12 +40327,7 @@ export default [
       },
       "CAT": {
         "titol": "Jo celebrare",
-        "audio": [
-          {
-            "src": "https://cansonsbn.bonanova.cat/Vermell/V530.mp3",
-            "type": "audio/mp3"
-          }
-        ],
+        "audio": null,
         "cansoners": [
           {
             "nom": "Vermell",
@@ -41611,7 +41604,7 @@ export default [
           {
             "nom": "Blau",
             "numero": 296,
-            "estat": 'nova'
+            "estat": "nova"
           }
         ],
         "lletra": [
@@ -42778,7 +42771,7 @@ export default [
               {"text": "fixa els teus ulls en Déu,"},
               {"text": "és Ell qui et sostindrà"},
               {"text": "Ell vindrà i et salvarà."}
-            ],
+            ]
           },
           {
             "tipus": "estrofa",
@@ -42796,7 +42789,7 @@ export default [
                 "text": "  No perdis la fe.",
                 "acordsASobre": [
                   { "nota": "RE", "pos": 0 },
-                  { "nota": "LA", "pos": 8, },
+                  { "nota": "LA", "pos": 8 },
                   { "nota": "SOL", "pos": 15 }
                 ]
               },
@@ -42841,7 +42834,7 @@ export default [
               {"text": "fixa els teus ulls en Déu,"},
               {"text": "és Ell qui et sostindrà"},
               {"text": "Ell vindrà i et salvarà."}
-            ],
+            ]
           },
           {
             "tipus": "estrofa",
@@ -42940,7 +42933,7 @@ export default [
               {"text": "fixa els teus ulls en Déu,"},
               {"text": "és Ell qui et sostindrà"},
               {"text": "Ell vindrà i et salvarà."}
-            ],
+            ]
           }
         ]
       }
@@ -48525,12 +48518,7 @@ export default [
     "idiomes": {
       "ES": {
         "titol": "Qué hermoso en los montes. Nuestro Dios reina",
-        "audio": [
-          {
-            "src": "https://cansonsbn.bonanova.cat/Blau/B340.mp3",
-            "type": "audio/mp3"
-          }
-        ],
+        "audio": null,
         "cansoners": [
           {
             "nom": "Blau",
@@ -48634,12 +48622,7 @@ export default [
     "idiomes": {
       "ES": {
         "titol": "Tocaré el borde de tu manto",
-        "audio": [
-          {
-            "src": "https://cansonsbn.bonanova.cat/Blau/B341.mp3",
-            "type": "audio/mp3"
-          }
-        ],
+        "audio": null,
         "cansoners": [
           {
             "nom": "Blau",
@@ -50981,6 +50964,78 @@ export default [
                 ]
               }
             ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Oh, Adonai, oh, Adonai,",
+                "acordsASobre": [
+                  { "nota": "rem", "pos": 0 },
+                  { "nota": "rem", "pos": 19 },
+                  { "nota": "LA", "pos": 12 },
+                  { "nota": "7", "pos": 14 }
+                ]
+              },
+              {
+                "text": "Dios del universo,",
+                "acordsASobre": [
+                  { "nota": "SIb", "pos": 0 },
+                  { "nota": "DO", "pos": 5 },
+                  { "nota": "FA", "pos": 12 }
+                ]
+              },
+              {
+                "text": "Señor de la creación.    ",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 2 },
+                  { "nota": "LA", "pos": 8 },
+                  { "nota": "7", "pos": 10 },
+                  { "nota": "rem", "pos": 17 }
+                ]
+              }
+            ],
+            "vegades": 2
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Los cielos cantan tu gloria,",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 4 },
+                  { "nota": "7", "pos": 6 },
+                  { "nota": "FA", "pos": 22 }
+                ]
+              },
+              {
+                "text": "tus hijos hoy te adoran",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 6 },
+                  { "nota": "7", "pos": 8 },
+                  { "nota": "FA", "pos": 18 }
+                ]
+              },
+              {
+                "text": "por todas tus maravillas,",
+                "acordsASobre": [
+                  { "nota": "LA", "pos": 5 },
+                  { "nota": "7", "pos": 7 },
+                  { "nota": "rem", "pos": 19 }
+                ]
+              },
+              {
+                "text": "Adonai.    ",
+                "acordsASobre": [
+                  { "nota": "sol", "pos": 0 },
+                  { "nota": "m", "pos": 3 },
+                  { "nota": "LA", "pos": 5 }
+                ]
+              }
+            ],
+            "vegades": 2
           }
         ]
       }
@@ -51141,12 +51196,7 @@ export default [
       },
       "CAT": {
         "titol": "Se sent una pau tan gran",
-        "audio": [
-          {
-            "src": "https://cansonsbn.bonanova.cat/Vermell/V246.mp3",
-            "type": "audio/mp3"
-          }
-        ],
+        "audio": null,
         "cansoners": [
           {
             "nom": "Vermell",
@@ -51683,7 +51733,7 @@ export default [
                   { "nota": "DO", "pos": 25 }
                 ]
               }
-            ],
+            ]
           }
         ]
       }
@@ -55285,12 +55335,7 @@ export default [
       },
       "CAT": {
         "titol": "Lloat sigui el Senyor Totpoderós",
-        "audio": [
-          {
-            "src": "https://cansonsbn.bonanova.cat/Vermell/V058.mp3",
-            "type": "audio/mp3"
-          }
-        ],
+        "audio": null,
         "cansoners": [
           {
             "nom": "Vermell",
@@ -56067,7 +56112,7 @@ export default [
                   { "nota": "DO", "pos": 21 }
                 ]
               }
-            ],
+            ]
           },
           {
             "tipus": "estrofa",
@@ -56101,7 +56146,7 @@ export default [
                   { "nota": "DO", "pos": 5 }
                 ]
               }
-            ],
+            ]
           }
         ]
       }
@@ -67918,6 +67963,180 @@ export default [
     }
   },
   {
+    "id": 485,
+    "idiomes": {
+      "ES": {
+        "titol": "Canta y danza, pueblo de Dios",
+        "audio": [
+          {
+            "src": "https://cansonsbn.bonanova.cat/Vermell/V633.mp3",
+            "type": "audio/mp3"
+          }
+        ],
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 633,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Canta y danza, pueblo de Dios,",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0},
+                  {"nota": "LA", "pos": 17},
+                  {"nota": "sim", "pos": 27}
+                ]
+              },
+              {
+                "text": "levanta tus manos a Él.",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 0},
+                  {"nota": "LA", "pos": 12},
+                  {"nota": "LA", "pos": 27},
+                  {"nota": "sim", "pos": 20}
+                ]
+              },
+              {
+                "text": " Grande es el amor de Dios.",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0},
+                  {"nota": "LA", "pos": 15},
+                  {"nota": "sim", "pos": 25}
+                ]
+              },
+              {
+                "text": "¡Canta Jerusalén!",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 0},
+                  {"nota": "LA", "pos": 8},
+                  {"nota": "sim", "pos": 16}
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "¡Ábrele hoy tu casa, que el Señor cerca està!",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 15},
+                  {"nota": "mi", "pos": 28},
+                  {"nota": "sim", "pos": 43}
+                ]
+              },
+              {
+                "text": "¡Vístete de alegría, en su pueblo vivirà!",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0},
+                  {"nota": "LA", "pos": 14},
+                  {"nota": "SOL", "pos": 28},
+                  {"nota": "FA#", "pos": 38}
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {"text": "Canta y danza, pueblo de Dios,"},
+              {"text": "levanta tus manos a Él."},
+              {"text": "Grande es el amor de Dios."},
+              {"text": "¡Canta Jerusalén!"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "No mires atràs, la tristeza pasó.",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 10},
+                  {"nota": "mi", "pos": 23},
+                  {"nota": "sim", "pos": 33}
+                ]
+              },
+              {
+                "text": "Está entrando en su pueblo y nos trae la salvación.",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0},
+                  {"nota": "LA", "pos": 14},
+                  {"nota": "SOL", "pos": 32},
+                  {"nota": "FA#", "pos": 46}
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {"text": "Canta y danza, pueblo de Dios,"},
+              {"text": "levanta tus manos a Él."},
+              {"text": "Grande es el amor de Dios."},
+              {"text": "¡Canta Jerusalén!"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Cantadle alabanzas, el Señor nos escuchó."},
+              {"text": "No abandona a su pueblo,"},
+              {"text": "¡a Jesús gloria y honor!"}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {"text": "Canta y danza, pueblo de Dios,"},
+              {"text": "levanta tus manos a Él."},
+              {"text": "Grande es el amor de Dios."},
+              {"text": "¡Canta Jerusalén!"}
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Por siempre cantad alabanzas al Rey."},
+              {"text": "El Señor trae la vida, ¡dadle gloria solo a Él!"}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "vegades": 2,
+            "paragraf": [
+              {"text": "Canta y danza, pueblo de Dios,"},
+              {"text": "levanta tus manos a Él."},
+              {"text": "Grande es el amor de Dios."},
+              {"text": "¡Canta Jerusalén!"}
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "vegades": 3,
+            "paragraf": [
+              {"text": "¡Canta Jerusalén!"}
+            ]
+          }
+        ]
+      }    
+    }
+  },
+  {
     "id": 486,
     "idiomes": {
       "CAT": {
@@ -69231,7 +69450,7 @@ export default [
                   { "nota": "mi", "pos": 22 }
                 ]
               }
-            ],
+            ]
           },
           {
             "tipus": "estrofa",
@@ -69980,7 +70199,7 @@ export default [
               }
             ],
             "vegades": 4
-          },
+          }
         ]
       }
     }
@@ -74874,13 +75093,13 @@ export default [
                 ]
               },
               {
-                "text": "La nostra   ho omple tot.",
+                "text": "La nostra cançó ho omple tot.",
                 "acordsASobre": [
                   { "nota": "fa#", "pos": 7 },
-                  { "nota": "do#", "pos": 15 },
-                  { "nota": "RE", "pos": 27 },
-                  { "nota": "MI", "pos": 31 },
-                  { "nota": "LA", "pos": 34 }
+                  { "nota": "do#", "pos": 20 },
+                  { "nota": "RE", "pos": 32 },
+                  { "nota": "MI", "pos": 36 },
+                  { "nota": "LA", "pos": 39 }
                 ]
               }
             ]
@@ -75081,6 +75300,119 @@ export default [
               {"text": "te alabamos, te ensalzamos,"},
               {"text": "Rey de reyes, el Señor."}
             ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 571,
+    "idiomes": {
+      "ES": {
+        "titol": "Jesús, mi esperanza",
+        "audio": null,
+        "cansoners": [
+          { 
+            "nom": "Vermell", 
+            "numero": 635,
+            "estat": "nova" 
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "anotacio",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "CEJILLA 1" }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "CUANDO TODO SE HACE GRIS,", "acordsASobre": [{ "nota": "RE", "pos": 0 }, { "nota": "(MI)", "pos": 3 }] },
+              { "text": "LA TINIEBLA ESTÁ EN MI.", "acordsASobre": [{ "nota": "fa#m", "pos": 0 }, { "nota": "(solm)", "pos": 6 }] },
+              { "text": "YO TE LLAMO, SEÑOR,", "acordsASobre": [{ "nota": "(SOL)", "pos": 0 }, { "nota": "LA", "pos": 6 }] },
+              { "text": "Y TÚ SIEMPRE ESTÁS AHÍ.", "acordsASobre": [{ "nota": "LA7", "pos": 0 }, { "nota": "(SI7)", "pos": 5 }] }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "ME ILUMINAS CON TU LUZ" },
+              { "text": "Y CON TU GRAN RESPLANDOR" },
+              { "text": "NO ME DEJAS NUNCA SOLO," },
+              { "text": "SIEMPRE ACUDES A MI VOZ." }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "JESÚS, TÚ MI SEÑOR,", "acordsASobre": [{ "nota": "RE", "pos": 0 }, { "nota": "(MI)", "pos": 3 }, { "nota": "SOL", "pos": 15 }, { "nota": "(LA)", "pos": 19 }] },
+              { "text": "MI ESPERANZA,      MI SALVACIÓN.", "acordsASobre": [{ "nota": "mim", "pos": 6 }, { "nota": "(fa#m)", "pos": 10 }, { "nota": "LA", "pos": 28 }, { "nota": "(SI7)", "pos": 31 }] },
+              { "text": "EN TI ESPERO.    EN TI, SEÑOR.", "acordsASobre": [{ "nota": "RE", "pos": 6 }, { "nota": "(MI)", "pos": 8 }, { "nota": "SOL", "pos": 24 }, { "nota": "(LA)", "pos": 27 }] },
+              { "text": "EN TU PROMESA,      EN TU AMOR.", "acordsASobre": [{ "nota": "mim", "pos": 6 }, { "nota": "(fa#m)", "pos": 10 }, { "nota": "LA", "pos": 27 }, { "nota": "(SI7)", "pos": 30 }] }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "A TI TE ALABO, DOY GRACIAS HOY." },
+              { "text": "TÚ LO ERES TODO, MI REDENTOR." },
+              { "text": "A TI TE ALABO, DOY GRACIAS HOY." },
+              { "text": "TÚ MI ESCUDO, MI PROTECTOR." }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "Mi esperanza está en ti, mi camino eres Tú.", "acordsASobre": [{ "nota": "RE", "pos": 0 }, { "nota": "(MI)", "pos": 3 }, { "nota": "fa#m", "pos": 28 }, { "nota": "(solm)", "pos": 35 }] },
+              { "text": "Nunca falla tu presencia, en ti está mi porvenir.", "acordsASobre": [{ "nota": "(SOL)", "pos": 6 }, { "nota": "LA", "pos": 12 }, { "nota": "LA7", "pos": 32 }, { "nota": "(SI7)", "pos": 37 }] },
+              { "text": "La alegría en el vivir, esperanza e ilusión.", "acordsASobre": [{ "nota": "RE", "pos": 6 }, { "nota": "(MI)", "pos": 9 }, { "nota": "fa#m", "pos": 28 }, { "nota": "(solm)", "pos": 35 }] },
+              { "text": "Todo basta si Tú estás, eres Tú mi gran amor", "acordsASobre": [{ "nota": "(SOL)", "pos": 5 }, { "nota": "LA", "pos": 11 }, { "nota": "LA7", "pos": 27 }, { "nota": "(SI7)", "pos": 32 }] }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "JESÚS, TÚ MI SEÑOR,", "acordsASobre": [{ "nota": "RE", "pos": 0 }, { "nota": "(MI)", "pos": 3 }, { "nota": "SOL", "pos": 15 }, { "nota": "(LA)", "pos": 19 }] },
+              { "text": "MI ESPERANZA,      MI SALVACIÓN.", "acordsASobre": [{ "nota": "mim", "pos": 6 }, { "nota": "(fa#m)", "pos": 10 }, { "nota": "LA", "pos": 28 }, { "nota": "(SI7)", "pos": 31 }] },
+              { "text": "EN TI ESPERO.    EN TI, SEÑOR.", "acordsASobre": [{ "nota": "RE", "pos": 6 }, { "nota": "(MI)", "pos": 9 }, { "nota": "SOL", "pos": 24 }, { "nota": "(LA)", "pos": 28 }] },
+              { "text": "EN TU PROMESA,      EN TU AMOR.", "acordsASobre": [{ "nota": "mim", "pos": 6 }, { "nota": "(fa#m)", "pos": 10 }, { "nota": "LA", "pos": 27 }, { "nota": "(SI7)", "pos": 30 }] },
+              { "text": "A TI TE ALABO, DOY GRACIAS HOY." },
+              { "text": "TÚ LO ERES TODO, MI REDENTOR." },
+              { "text": "A TI TE ALABO, DOY GRACIAS HOY." },
+              { "text": "TÚ MI ESCUDO, MI PROTECTOR.", "acordsASobre": [{ "nota": "mim", "pos": 6 }, { "nota": "(fa#m)", "pos": 10 }, { "nota": "LA", "pos": 24 }, { "nota": "(SI7)", "pos": 27 }] }
+            ],
+            "vegades": 2
+          },
+          {
+            "tipus": "anotacio",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "(FINAL)" }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "MI PROTECTOR      MI PROTECTOR", "acordsASobre": [{ "nota": "do#m", "pos": 0 }, { "nota": "LA", "pos": 13 }, { "nota": "do#m", "pos": 23 }, { "nota": "LA", "pos": 33 }] },
+              { "text": "MI PROTECTOR.", "acordsASobre": [{ "nota": "MI", "pos": 10 }] }
+            ],
+            "vegades": 0
           }
         ]
       }
@@ -75357,24 +75689,155 @@ export default [
             "visibleAlsMusics": true,
             "vegades": 2,
             "paragraf": [
-              {"text": "Tuya es la gloria  y la honra,"},
-              {"text": "levantamos nuestras manos"},
-              {"text": "proclamando tu poder"}
+              {
+                "text": "Tuya es la gloria y la honra,",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 0},
+                  {"nota": "sim", "pos": 24}
+                ]
+              },
+              {
+                "text": "levantamos nuestras manos",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 0},
+                  {"nota": "la", "pos": 21}
+                ]
+              },
+              {
+                "text": "proclamando tu poder",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 2}
+                ]
+              }
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Grande es tu amor,"},
-              {"text": "grandes tus milagros son,"},
-              {"text": "y no hay nadie como Tú,"},
-              {"text": "y no hay nadie como Tú,"},
-              {"text": "porque grande es tu amor,"},
-              {"text": "grandes tus milagros son,"},
-              {"text": "y no hay nadie como Tú."}
+              {
+                "text": "Grande es tu amor,",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 10}
+                ]
+              },
+              {
+                "text": "grandes tus milagros son,",
+                "acordsASobre": [
+                  {"nota": "mi", "pos": 23}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú,",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 20}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú,.",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 9},
+                  {"nota": "SOL", "pos": 20}
+                ]
+              },
+              {
+                "text": "porque grande es tu amor,",
+                "acordsASobre": [
+                  {"nota": "mi", "pos": 22}
+                ]
+              },
+              {
+                "text": "grandes tus milagros son,",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 21}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú.",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 10},
+                  {"nota": "SOL", "pos": 19},
+                  {"nota": "MI", "pos": 22}
+                ]
+              }
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "vegades": 2,
+            "paragraf": [
+              {
+                "text": "Tuya es la gloria y la honra,",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 0},
+                  {"nota": "do#", "pos": 24}
+                ]
+              },
+              {
+                "text": "levantamos nuestras manos",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0}
+                ]
+              },
+              {
+                "text": "proclamando tu poder",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 2}
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Grande es tu amor,",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 10}
+                ]
+              },
+              {
+                "text": "grandes tus milagros son,",
+                "acordsASobre": [
+                  {"nota": "fa#", "pos": 24}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 19}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú.",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 8},
+                  {"nota": "LA", "pos": 20}
+                ]
+              },
+              {
+                "text": "porque grande es tu amor,",
+                "acordsASobre": [
+                  {"nota": "fa#", "pos": 21}
+                ]
+              },
+              {
+                "text": "grandes tus milagros son,",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 21}
+                ]
+              },
+              {
+                "text": "y no hay nadie como Tú",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 9},
+                  {"nota": "MI", "pos": 25}
+                ]
+              }
+            ]
+          }        
         ]
       },
       "CAT": {
@@ -75393,31 +75856,421 @@ export default [
             "visibleAlsMusics": true,
             "vegades": 2,
             "paragraf": [
-              {"text": "Teva és la glòria i l'honra"},
-              {"text": "aixequem les nostres mans"},
-              {"text": "Proclamant el teu poder"}
+              {
+                "text": "Teva és la glòria i l'honra",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 0},
+                  {"nota": "sim", "pos": 24}
+                ]
+              },
+              {
+                "text": "aixequem les nostres mans",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 0},
+                  {"nota": "la", "pos": 21}
+                ]
+              },
+              {
+                "text": "Proclamant el teu poder",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 2}
+                ]
+              }
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Gran és l'amor"},
-              {"text": "Grans els teus miracles són,"},
-              {"text": "i no hi ha ningú com Tu"},
-              {"text": "i no hi ha ningú com Tu."},
-              {"text": "Perquè és Gran el teu amor"},
-              {"text": "Grans els teus miracles són"},
-              {"text": "I no hi ha ningú com Tu"}
+              {
+                "text": "Gran és l'amor",
+                "acordsASobre": [
+                  {"nota": "SOL", "pos": 10}
+                ]
+              },
+              {
+                "text": "Grans els teus miracles són,",
+                "acordsASobre": [
+                  {"nota": "mi", "pos": 23}
+                ]
+              },
+              {
+                "text": "i no hi ha ningú com Tu",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 20}
+                ]
+              },
+              {
+                "text": "i no hi ha ningú com Tu.",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 9},
+                  {"nota": "SOL", "pos": 20}
+                ]
+              },
+              {
+                "text": "Perquè és Gran el teu amor",
+                "acordsASobre": [
+                  {"nota": "mi", "pos": 22}
+                ]
+              },
+              {
+                "text": "Grans els teus miracles són",
+                "acordsASobre": [
+                  {"nota": "DO", "pos": 21}
+                ]
+              },
+              {
+                "text": "I no hi ha ningú com Tu",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 10},
+                  {"nota": "SOL", "pos": 19},
+                  {"nota": "MI", "pos": 22}
+                ]
+              }
             ]
-          }
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "vegades": 2,
+            "paragraf": [
+              {
+                "text": "Teva és la glòria i l'honra",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 0},
+                  {"nota": "do#", "pos": 24}
+                ]
+              },
+              {
+                "text": "aixequem les nostres mans",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 0}
+                ]
+              },
+              {
+                "text": "Proclamant el teu poder",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 2}
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Gran és l'amor",
+                "acordsASobre": [
+                  {"nota": "LA", "pos": 10}
+                ]
+              },
+              {
+                "text": "Grans els teus miracles són,",
+                "acordsASobre": [
+                  {"nota": "fa#", "pos": 24}
+                ]
+              },
+              {
+                "text": "i no hi ha ningú com Tu",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 19}
+                ]
+              },
+              {
+                "text": "i no hi ha ningú com Tu.",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 8},
+                  {"nota": "LA", "pos": 20}
+                ]
+              },
+              {
+                "text": "Perquè és Gran el teu amor",
+                "acordsASobre": [
+                  {"nota": "fa#", "pos": 21}
+                ]
+              },
+              {
+                "text": "Grans els teus miracles són",
+                "acordsASobre": [
+                  {"nota": "RE", "pos": 21}
+                ]
+              },
+              {
+                "text": "I no hi ha ningú com Tu",
+                "acordsASobre": [
+                  {"nota": "MI", "pos": 9},
+                  {"nota": "MI", "pos": 25}
+                ]
+              }
+            ]
+          }        
         ]
-      }        
+      }
     }
   },
   {
     "id": 576,
-    "idiomes": {}
+    "idiomes": {
+      "ES": {
+        "titol": "Vive en mí",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 634,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "anotacio",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "(Acapella)" }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Vive en mí, ¡ALELUYA!, Vi-i-ve en mí",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "lam", "pos": 8 },
+                  { "nota": "RE7", "pos": 24 },
+                  { "nota": "SOL", "pos": 32 }
+                ]
+              },
+              {
+                "text": "Vive en mí, ¡ALELUYA!, Cristo vive en mí",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "lam", "pos": 8 },
+                  { "nota": "RE7", "pos": 24 },
+                  { "nota": "SOL", "pos": 36 }
+                ]
+              }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Vivo en ti, ¡ALELUYA!, Vi-i-vo en ti",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "lam", "pos": 8 },
+                  { "nota": "RE7", "pos": 24 },
+                  { "nota": "SOL", "pos": 31 }
+                ]
+              },
+              {
+                "text": "Vivo en ti, ¡ALELUYA!, Cristo: ¡VIVO EN TI!",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "lam", "pos": 8 },
+                  { "nota": "RE7", "pos": 24 },
+                  { "nota": "SOL", "pos": 38 },
+                  { "nota": "Gsus4", "pos": 49 }
+                ]
+              }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "anotacio",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "(Guitarras)" }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Haz morada entre nosotros,",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "DO", "pos": 19 }
+                ]
+              },
+              {
+                "text": "somos tu pueblo,   tu heredad.",
+                "acordsASobre": [
+                  { "nota": "RE7", "pos": 9 },
+                  { "nota": "SOL", "pos": 26 }
+                ]
+              },
+              {
+                "text": "Si bebemos de tu vino",
+                "acordsASobre": [
+                  { "nota": "mim", "pos": 0 },
+                  { "nota": "lam7", "pos": 17 }
+                ]
+              },
+              {
+                "text": "y comemos de tu pan",
+                "acordsASobre": [
+                  { "nota": "RE", "pos": 5 },
+                  { "nota": "SOL", "pos": 16 }
+                ]
+              },
+              {
+                "text": "habrá vida en nosotros,",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 3 },
+                  { "nota": "RE", "pos": 18 }
+                ]
+              },
+              {
+                "text": "      para la Eternidad.",
+                "acordsASobre": [
+                  { "nota": "lam", "pos": 0 },
+                  { "nota": "RE7", "pos": 15 },
+                  { "nota": "SOL", "pos": 21 },
+                  { "nota": "Gsus4", "pos": 28 }
+                ]
+              }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              { "text": "Vive en mí, ¡ALELUYA!, Vi-i-ve en mí" },
+              { "text": "Vive en mí, ¡ALELUYA!, Cristo vive en mí" }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              { "text": "Vivo en ti, ¡ALELUYA!, Vi-i-vo en ti" },
+              { "text": "Vivo en ti, ¡ALELUYA!, Cristo: ¡VIVO EN TI!" }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Camino, verdad y Vida",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "DO", "pos": 17 }
+                ]
+              },
+              {
+                "text": "en Jesús encontrarás",
+                "acordsASobre": [
+                  { "nota": "RE7", "pos": 6 },
+                  { "nota": "SOL", "pos": 14 }
+                ]
+              },
+              {
+                "text": "con su cuerpo y con su sangre",
+                "acordsASobre": [
+                  { "nota": "mim", "pos": 0 },
+                  { "nota": "lam7", "pos": 20 }
+                ]
+              },
+              {
+                "text": "fortalecidos y sin hambre",
+                "acordsASobre": [
+                  { "nota": "RE7", "pos": 7 },
+                  { "nota": "SOL", "pos": 16 }
+                ]
+              },
+              {
+                "text": "ya podemos avanzar.",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 5 },
+                  { "nota": "RE7", "pos": 8 },
+                  { "nota": "SOL", "pos": 15 },
+                  { "nota": "Gsus4", "pos": 24 }
+                ]
+              }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              { "text": "Vive en mí, ¡ALELUYA!, Vi-i-ve en mí" },
+              { "text": "Vive en mí, ¡ALELUYA!, Cristo vive en mí" }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": 1,
+            "paragraf": [
+              { "text": "Vivo en ti, ¡ALELUYA!, Vi-i-vo en ti" },
+              { "text": "Vivo en ti, ¡ALELUYA!, Cristo: ¡VIVO EN TI!" }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "anotacio",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "Final:" }
+            ],
+            "vegades": 0
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Vive en mí, ¡ALELUYA!, Vive en mí",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "lam", "pos": 8 },
+                  { "nota": "RE7", "pos": 23 },
+                  { "nota": "SOL", "pos": 31 }
+                ]
+              },
+              {
+                "text": "Vive en mí, ¡ALELUYA!, Cristo vive en mí",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "lam", "pos": 8 },
+                  { "nota": "RE7", "pos": 24 },
+                  { "nota": "SOL", "pos": 36 }
+                ]
+              },
+              {
+                "text": "Cristo vive en mí",
+                "acordsASobre": [
+                  { "nota": "RE7", "pos": 1 },
+                  { "nota": "SOL", "pos": 12 }
+                ]
+              },
+              {
+                "text": "Cristo vive  //  en - mí",
+                "acordsASobre": [
+                  { "nota": "RE7", "pos": 1 },
+                  { "nota": "SOL", "pos": 20 }
+                ]
+              }
+            ],
+            "vegades": 0
+          }
+        ]
+      }
+    }
   },
   {
     "id": 577,
@@ -76847,7 +77700,7 @@ export default [
                   { "nota": "LA", "pos": 31 }
                 ]
               }
-            ],
+            ]
           },
           {
             "tipus": "estrofa",
@@ -78832,7 +79685,7 @@ export default [
                 ]
               },
               {"text": "[ Us esperem, Senyor! ] (x2)"}
-            ],
+            ]
           },
           {
             "tipus": "tornada",
@@ -78866,7 +79719,7 @@ export default [
               {"text": "en Vós hem de trobar"},
               {"text": "perdó per la nostra flaquesa."},
               {"text": "[ Mostreu-nos el camí! ] (x2)"}
-            ],
+            ]
           },
           {
             "tipus": "tornada",
@@ -78885,7 +79738,7 @@ export default [
               {"text": "i units en vostre amor"},
               {"text": "segueixin del cel la drecera."},
               {"text": "[ Hem de fer un món millor! ] (x2)"}
-            ],
+            ]
           },
           {
             "tipus": "tornada",
@@ -78904,7 +79757,7 @@ export default [
               {"text": "allò que per a ell fem,"},
               {"text": "serà pel servei i amor vostres."},
               {"text": "[ Amb joia us esperem! ] (x2)"}
-            ],
+            ]
           },
           {
             "tipus": "tornada",
@@ -80157,12 +81010,7 @@ export default [
     "idiomes": {
       "CAT": {
         "titol": "Glòria, Al•leluia, Glòria",
-        "audio": [
-          {
-            "src": "https://cansonsbn.bonanova.cat/Vermell/V200.mp3",
-            "type": "audio/mp3"
-          }
-        ],
+        "audio": null,
         "cansoners": [
           {
             "nom": "Vermell",
@@ -80559,7 +81407,7 @@ export default [
                   { "nota": "RE", "pos": 7 },
                   { "nota": "mi", "pos": 23 }
                 ]
-              },
+              }
             ],
             "vegades": 2            
           },
@@ -80585,7 +81433,7 @@ export default [
                   { "nota": "SOL", "pos": 25 }
                 ]
               }
-            ],
+            ]
           }
         ]
       }
@@ -81148,7 +81996,7 @@ export default [
             ]
           },
           {
-            "tipus": "estrofa",
+            "tipus": "tornada",
             "visibleAlsMusics": true,
             "paragraf": [
               {
@@ -81238,6 +82086,18 @@ export default [
               {"text": "I no sé com començar"},
               {"text": "Però amb el teu amor"},
               {"text": "Transformes el meu cor."}
+            ]
+          },
+          {
+           "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {"text": "Cantaré, lloaré"},
+              {"text": "En la nit i en la foscor"},
+              {"text": "En el plor i en el dolor"},
+              {"text": "Cantaré, lloaré"},
+              {"text": "Alçaré les meves mans"},
+              {"text": "Perquè m’estimes tant, cantaré"}
             ]
           }
         ]
@@ -83003,12 +83863,7 @@ export default [
     "idiomes": {
       "CAT": {
         "titol": "PER UN MOMENT  (Jesús Adrián Romero)",
-        "audio": [
-          {
-            "src": "https://cansonsbn.bonanova.cat/Vermell/V224.mp3",
-            "type": "audio/mp3"
-          }
-        ],
+        "audio": null,
         "cansoners": [
           {
             "nom": "Vermell",
@@ -84949,7 +85804,7 @@ export default [
             "tipus": "anotacio",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Celleta 2"},
+              {"text": "Celleta 2"}
             ]
           },
           {
@@ -85364,7 +86219,7 @@ export default [
               {"text": "[Tu Senyor ens dónes un nou cant] (x2)"},
               {"text": "És un cant de joia que ningú ens prendrà."},
               {"text": "Tu Senyor ens dónes un nou cant."}
-            ],
+            ]
           },
           {
             "tipus": "estrofa",
@@ -85375,7 +86230,7 @@ export default [
               {"text": "'Estimeu-vos uns als altres' ens has dit."},
               {"text": "Tu ens manes estimar-nos"},
               {"text": "com a germans."}
-            ],
+            ]
           }
         ]
       }
@@ -85869,13 +86724,13 @@ export default [
         ]
       },
       "CAT": {
-        "titol": "Digues quan els estimo",
+        "titol": "Digue'ls quan els estimo",
         "audio": null,
         "cansoners": [
           {
             "nom": "Vermell",
             "numero": 500,
-            "estat": 'nova'
+            "estat": "nova"
           }
         ],
         "lletra": [
@@ -85895,8 +86750,8 @@ export default [
             "tipus": "tornada",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Digues com els estimo, digues quant que els estimo"},
-              {"text": "si estan allunyats de mi, digues que soc aquí."}
+              {"text": "Digue'ls com els estimo, digue'ls quant que els estimo"},
+              {"text": "si estan allunyats de mi, digue'ls que soc aquí."}
             ]
           },
           {
@@ -85913,8 +86768,8 @@ export default [
             "tipus": "tornada",
             "visibleAlsMusics": false,
             "paragraf": [
-              {"text": "Digues com els estimo, digues quant que els estimo"},
-              {"text": "si estan allunyats de mi, digues que soc aquí."}
+              {"text": "Digue'ls com els estimo, digue'ls quant que els estimo"},
+              {"text": "si estan allunyats de mi, digue'ls que soc aquí."}
             ]
           },
           {
@@ -85931,8 +86786,8 @@ export default [
             "tipus": "tornada",
             "visibleAlsMusics": false,
             "paragraf": [
-              {"text": "Digues com els estimo, digues quant que els estimo"},
-              {"text": "si estan allunyats de mi, digues que soc aquí."}
+              {"text": "Digue'ls com els estimo, digue'ls quant que els estimo"},
+              {"text": "si estan allunyats de mi, digue'ls que soc aquí."}
             ]
           }
         ]
@@ -85963,7 +86818,7 @@ export default [
                   { "nota": "LA", "pos": 1 },
                   { "nota": "MI", "pos": 12 },
                   { "nota": "/", "pos": 14 },
-                  { "nota": "LA", "pos": 15 },
+                  { "nota": "LA", "pos": 15 }
                 ]
               },
               {
@@ -89417,7 +90272,7 @@ export default [
               {"text": "Que no sea sanado totalmente por ti."},
               {"text": "Cristifícame."}
             ]
-          },
+          }
         ]
       }
     }
@@ -90449,7 +91304,7 @@ export default [
             "tipus": "anotacio",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "SOL-LA sim-LA SOL-LA sim (x2) RE",},
+              {"text": "SOL-LA sim-LA SOL-LA sim (x2) RE"}
             ]
           },
           {
@@ -90769,7 +91624,7 @@ export default [
                   { "nota": "RE", "pos": 32 }
                 ]
               }
-            ],          
+            ]
           }
         ]
       }
@@ -91562,9 +92417,9 @@ export default [
                   { "nota": "SOL", "pos": 29 }
                 ]
               },
-              {"text": "Tú eres mi apoyo y refugio, Señor. ** Que mi boca..."},
+              {"text": "Tú eres mi apoyo y refugio, Señor. ** Que mi boca cante tu alabanza"},
               {
-                "text": "En ti se alegra y canta mi ser. ** Que mi boca...",
+                "text": "En ti se alegra y canta mi ser. ** Que mi boca cante tu alabanza",
                 "acordsASobre": [
                   { "nota": "SOL", "pos": 0 },
                   { "nota": "DO", "pos": 9 },
@@ -91575,7 +92430,7 @@ export default [
                 ]
               },
               {
-                "text": "Mi confianza está en tu bondad. ** Que mi boca...",
+                "text": "Mi confianza está en tu bondad. ** Que mi boca cante tu alabanza",
                 "acordsASobre": [
                   { "nota": "DO", "pos": 6 },
                   { "nota": "9", "pos": 8 },
@@ -91624,7 +92479,7 @@ export default [
                 ]
               },
               {
-                "text": "Que me inunde tu gran amor. ** Que mi boca...",
+                "text": "Que me inunde tu gran amor. ** Que mi boca cante tu alabanza",
                 "acordsASobre": [
                   { "nota": "DO", "pos": 7 },
                   { "nota": "9", "pos": 9 },
@@ -91639,10 +92494,10 @@ export default [
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "En nuestras noches Tú eres la luz. ** Que mi boca..."},
-              {"text": "En nuestro andar brillas con claridad. ** Que mi boca..."},
-              {"text": "En nuestras pruebas la fuerza nos das. ** Que mi boca..."},
-              {"text": "Tú, en el combate, la roca y la paz. ** Que mi boca..."}
+              {"text": "En nuestras noches Tú eres la luz. ** Que mi boca cante tu alabanza"},
+              {"text": "En nuestro andar brillas con claridad. ** Que mi boca cante tu alabanza"},
+              {"text": "En nuestras pruebas la fuerza nos das. ** Que mi boca cante tu alabanza"},
+              {"text": "Tú, en el combate, la roca y la paz. ** Que mi boca cante tu alabanza"}
             ]
           },
           {
@@ -91651,17 +92506,17 @@ export default [
             "paragraf": [
               {"text": "Te alabamos hoy, por tu poder. Te alabamos por tu"},
               {"text": "bondad. Gloria a Ti, Señor, Tú, vencedor."},
-              {"text": "Que me inunde tu gran amor. ** Que mi boca..."}
+              {"text": "Que me inunde tu gran amor. ** Que mi boca cante tu alabanza"}
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "A los perdidos viniste a salvar. ** Que mi boca..."},
-              {"text": "Su corazón quieres Tú transformar. ** Que mi boca..."},
-              {"text": "En sus angustias clamaron a Ti. ** Que mi boca..."},
-              {"text": "Has escuchado su voz, oh Señor. ** Que mi boca..."}
+              {"text": "A los perdidos viniste a salvar. ** Que mi boca cante tu alabanza"},
+              {"text": "Su corazón quieres Tú transformar. ** Que mi boca cante tu alabanza"},
+              {"text": "En sus angustias clamaron a Ti. ** Que mi boca cante tu alabanza"},
+              {"text": "Has escuchado su voz, oh Señor. ** Que mi boca cante tu alabanza"}
             ]
           },
           {
@@ -91670,17 +92525,17 @@ export default [
             "paragraf": [
               {"text": "Te alabamos hoy, por tu poder. Te alabamos por tu"},
               {"text": "bondad. Gloria a Ti, Señor, Tú, vencedor."},
-              {"text": "Que me inunde tu gran amor. ** Que mi boca..."}
+              {"text": "Que me inunde tu gran amor. ** Que mi boca cante tu alabanza"}
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Del enemigo me has hecho vencer. ** Que mi boca..."},
-              {"text": "Del agresor Tú me has hecho triunfar. ** Que mi boca..."},
-              {"text": "Gracias Señor, esta es mi oración. ** Que mi boca..."},
-              {"text": "Siempre tu Nombre yo bendeciré. ** Que mi boca..."}
+              {"text": "Del enemigo me has hecho vencer. ** Que mi boca cante tu alabanza"},
+              {"text": "Del agresor Tú me has hecho triunfar. ** Que mi boca cante tu alabanza"},
+              {"text": "Gracias Señor, esta es mi oración. ** Que mi boca cante tu alabanza"},
+              {"text": "Siempre tu Nombre yo bendeciré. ** Que mi boca cante tu alabanza"}
             ]
           },
           {
@@ -91689,11 +92544,193 @@ export default [
             "paragraf": [
               {"text": "Te alabamos hoy, por tu poder. Te alabamos por tu"},
               {"text": "bondad. Gloria a Ti, Señor, Tú, vencedor."},
-              {"text": "Que me inunde tu gran amor. ** Que mi boca..."}
+              {"text": "Que me inunde tu gran amor. ** Que mi boca cante tu alabanza"}
             ]
           }
         ]
-      }
+      },
+      "CAT": {
+        "titol": "Fes del meu cant la teva lloança",
+        "audio": null,
+        "cansoners": [
+          {
+            "nom": "Vermell",
+            "numero": 546,
+            "estat": "nova"
+          }
+        ],
+        "lletra": [
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { 
+                "text": "De Tu, Senyor, hem rebut l'existir.",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "DO", "pos": 23 },
+                  { "nota": "9", "pos": 25 },
+                  { "nota": "SOL", "pos": 28 }
+                ]
+              
+              },
+              {
+                "text": "**  Fes del meu cant la teva lloança.", 
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 17 },
+                  { "nota": "9", "pos": 19 },
+                  { "nota": "RE", "pos": 26 },
+                  { "nota": "SOL", "pos": 29 }
+                ]
+              },
+              { "text": "Ets per nosaltres muralla i escut. Fes del meu cant la teva lloança." },
+              { 
+                "text": "El goig del cor ve de Tu, oh Senyor. ** Fes del meu cant la teva lloança.",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 0 },
+                  { "nota": "DO", "pos": 9 },
+                  { "nota": "9", "pos": 11 },
+                  { "nota": "RE", "pos": 19 },
+                  { "nota": "mim", "pos": 24 },
+                  { "nota": "SOL", "pos": 42 }
+                ]
+              },
+              { 
+                "text": "En el teu nom confiem, Déu fidel!. ** Fes del meu cant la teva lloança.",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 6 },
+                  { "nota": "9", "pos": 8 },
+                  { "nota": "RE", "pos": 14 },
+                  { "nota": "mim", "pos": 27 },
+                  { "nota": "(", "pos": 34 },
+                  { "nota": "SOL", "pos": 35 },
+                  { "nota": "-", "pos": 38 },
+                  { "nota": "DO", "pos": 39 },
+                  { "nota": "9", "pos": 41 },
+                  { "nota": "-", "pos": 42 },
+                  { "nota": "RE", "pos": 43 },
+                  { "nota": "-", "pos": 45 },
+                  { "nota": "mim", "pos": 46 },
+                  { "nota": ")", "pos": 49 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              {
+                "text": "Et lloem senyor, pel teu poder,",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "9", "pos": 2 },
+                  { "nota": "SOL", "pos": 6 },
+                  { "nota": "RE", "pos": 12 },
+                  { "nota": "mim", "pos": 17 }
+                ]
+              },
+              {
+                "text": "et lloem per tot el que has fet.",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 0 },
+                  { "nota": "9", "pos": 2 },
+                  { "nota": "SOL", "pos": 7 },
+                  { "nota": "RE", "pos": 29 }
+                ]
+              },
+              {
+                "text": "Glòria a Tu, Senyor, Rei vencedor,",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 7 },
+                  { "nota": "9", "pos": 9 },
+                  { "nota": "SOL", "pos": 15 },
+                  { "nota": "RE", "pos": 21 },
+                  { "nota": "mim", "pos": 27 }
+                ]
+              },
+              {
+                "text": "tu ens omples del teu amor.",
+                "acordsASobre": [
+                  { "nota": "DO", "pos": 5 },
+                  { "nota": "9", "pos": 7 },
+                  { "nota": "SOL", "pos": 14 },
+                  { "nota": "RE", "pos": 24 }
+                ]
+              },
+              {
+                "text": "Fes del meu cant la teva lloança.",
+                "acordsASobre": [
+                  { "nota": "SOL", "pos": 5 }
+                ]
+              }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "Tu has omplert de llum la nostra nit. Fes del meu cant la teva lloança." },
+              { "text": "Ets la claror en el nostre camí. Fes del meu cant la teva lloança." },
+              { "text": "Tu ens has fet vèncer tots els combats. Fes del meu cant la teva lloança." },
+              { "text": "En el teu Nom confiem, Déu fidel!. Fes del meu cant la teva lloança." }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              { "text": "Et lloem senyor, pel teu poder," },
+              { "text": "et lloem per tot el que has fet." },
+              { "text": "Glòria a Tu, Senyor, Rei vencedor," },
+              { "text": "tu ens omples del teu amor." },
+              { "text": "Fes del meu cant la teva lloança." }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "Tu has vingut per salvar els teus fills. Fes del meu cant la teva lloança." },
+              { "text": "Als qui esperen en el teu amor. Fes del meu cant la teva lloança." },
+              { "text": "En el perill t'han cridat, oh Senyor. Fes del meu cant la teva lloança." },
+              { "text": "Has escoltat el seu clam al teu cor. Fes del meu cant la teva lloança." }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              { "text": "Et lloem senyor, pel teu poder," },
+              { "text": "et lloem per tot el que has fet." },
+              { "text": "Glòria a Tu, Senyor, Rei vencedor," },
+              { "text": "tu ens omples del teu amor." },
+              { "text": "Fes del meu cant la teva lloança." }
+            ]
+          },
+          {
+            "tipus": "estrofa",
+            "visibleAlsMusics": true,
+            "paragraf": [
+              { "text": "Dels enemics tu m'has alliberat. Fes del meu cant la teva lloança." },
+              { "text": "Pel teu poder he sortit triomfant. Fes del meu cant la teva lloança." },
+              { "text": "Et lloaré entre les nacions. Fes del meu cant la teva lloança." },
+              { "text": "Per sempre jo cantaré al teu Nom. Fes del meu cant la teva lloança." }
+            ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              { "text": "Et lloem senyor, pel teu poder," },
+              { "text": "et lloem per tot el que has fet." },
+              { "text": "Glòria a Tu, Senyor, Rei vencedor," },
+              { "text": "tu ens omples del teu amor." },
+              { "text": "Fes del meu cant la teva lloança." }
+            ]
+          }
+        ]
+      }    
     }
   },
   {
@@ -94497,12 +95534,7 @@ export default [
     "idiomes": {
       "ES": {
         "titol": "Pupurri 1",
-        "audio": [
-          {
-            "src": "https://cansonsbn.bonanova.cat/Vermell/V572.mp3",
-            "type": "audio/mp3"
-          }
-        ],
+        "audio": null,
         "cansoners": [
           {
             "nom": "Vermell",
@@ -95001,7 +96033,7 @@ export default [
           {
             "nom": "Vermell",
             "numero": 575,
-            "estat": 'nova'
+            "estat": "nova"
           }
         ],
         "lletra": [
@@ -95573,6 +96605,17 @@ export default [
               {"text": "tan solo ves mi pobreza"},
               {"text": "y así me amas, mi Dios."}
             ]
+          },
+          {
+            "tipus": "tornada",
+            "visibleAlsMusics": false,
+            "paragraf": [
+              {"text": "Quiero amarte Señor, alabarte mi Dios,"},
+              {"text": "darte gracias por tu misericordia."},
+              {"text": "A Ti sea la Gloria, el poder y la honra,"},
+              {"text": "tu Palabra, Señor, es eterna"}
+            ],
+            "vegades": 2
           }
         ]
       }
@@ -96022,7 +97065,7 @@ export default [
         "titol": "Vine, Esperit de Déu, vine (Lili Zaidin)",
         "audio": [
           {
-            "src": "https://cansonsbn.bonanova.cat/Vermell/V587.mp3",
+            "src": "https://cansonsbn.bonanova.cat/Vermell/V587CAT.mp3",
             "type": "audio/mp3"
           }
         ],
@@ -96107,7 +97150,7 @@ export default [
         "titol": "Sopla (Lili Zaidin)",
         "audio": [
           {
-            "src": "https://cansonsbn.bonanova.cat/Vermell/V587.mp3",
+            "src": "https://cansonsbn.bonanova.cat/Vermell/V587ES.mp3",
             "type": "audio/mp3"
           }
         ],
@@ -96260,7 +97303,7 @@ export default [
             "paragraf": [
               {"text": "Que puguem cantar la teva glòria,"},
               {"text": "que puguem obrir els nostres cors,"},
-              {"text": "vine Esperit Sant, vine Esperit Sant !!"},
+              {"text": "vine Esperit Sant, vine Esperit Sant !!"}
             ]
           },
           {
@@ -96514,12 +97557,7 @@ export default [
     "idiomes": {
       "ES": {
         "titol": "Llévame contigo",
-        "audio": [
-          {
-            "src": "https://cansonsbn.bonanova.cat/Vermell/V593.mp3",
-            "type": "audio/mp3"
-          }
-        ],
+        "audio": null,
         "cansoners": [
           {
             "nom": "Vermell",
@@ -97078,12 +98116,7 @@ export default [
       },
       "ES": {
         "titol": "CANTAD Y BAILAD - Cor Nou",
-        "audio": [
-          {
-            "src": "https://cansonsbn.bonanova.cat/Vermell/V599.mp3",
-            "type": "audio/mp3"
-          }
-        ],
+        "audio": null,
         "cansoners": [
           {
             "nom": "Vermell",
@@ -98993,7 +100026,7 @@ export default [
               {"text": "Transforma la meva pobresa"},
               {"text": "perquè no marxin buits."},
               {"text": "Mostraré amb signes i prodigis"},
-              {"text": "que tu estàs viu."},
+              {"text": "que tu estàs viu."}
             ]
           },
           {
@@ -99154,7 +100187,7 @@ export default [
           {
             "nom": "Vermell",
             "numero": 613,
-            "estat": 'nova'
+            "estat": "nova"
           }
         ],
         "lletra": [
@@ -99276,7 +100309,7 @@ export default [
           {
             "nom": "Vermell",
             "numero": 614,
-            "estat": 'nova'
+            "estat": "nova"
           }
         ],
         "lletra": [
@@ -99382,7 +100415,7 @@ export default [
           {
             "nom": "Vermell",
             "numero": 615,
-            "estat": 'nova'
+            "estat": "nova"
           }
         ],
         "lletra": [
@@ -99572,7 +100605,7 @@ export default [
           {
             "nom": "Vermell",
             "numero": 616,
-            "estat": 'nova'
+            "estat": "nova"
           }
         ],
         "lletra": [
@@ -99829,7 +100862,7 @@ export default [
           {
             "nom": "Vermell",
             "numero": 618,
-            "estat": 'nova'
+            "estat": "nova"
           }
         ],
         "lletra": [
@@ -100113,7 +101146,7 @@ export default [
           {
             "nom": "Vermell",
             "numero": 620,
-            "estat": 'nova'
+            "estat": "nova"
           }
         ],
         "lletra": [
@@ -100236,7 +101269,7 @@ export default [
           {
             "nom": "Vermell",
             "numero": 621,
-            "estat": 'nova'
+            "estat": "nova"
           }
         ],
         "lletra": [
@@ -100401,7 +101434,7 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {"text": "Si quieres llegar al cielo, tienes que ser un niño." },
-              {"text": "Si quieres seguir a Cristo, niégate a ti mismo."},
+              {"text": "Si quieres seguir a Cristo, niégate a ti mismo."}
             ]
           },
           {
@@ -100409,7 +101442,7 @@ export default [
             "visibleAlsMusics": true,
             "paragraf": [
               {"text": "Si en el Reino de los Cielos quieres ser el mayor," },
-              {"text": "[como dice la Palabra, sé de todos el servidor] (x2)"},
+              {"text": "[como dice la Palabra, sé de todos el servidor] (x2)"}
             ]
           },
           {
@@ -100417,14 +101450,14 @@ export default [
             "visibleAlsMusics": true,
             "vegades": 3,
             "paragraf": [
-              {"text": "Es la vida de quien da la vida"},
+              {"text": "Es la vida de quien da la vida"}
             ]
           },
           {
             "tipus": "estrofa",
             "visibleAlsMusics": true,
             "paragraf": [
-              {"text": "Quien da la Vida es Jesús."},
+              {"text": "Quien da la Vida es Jesús."}
             ]
           }
         ]
@@ -101135,19 +102168,19 @@ export default [
             "tipus": "tornada",
             "visibleAlsMusics": 1,
             "paragraf": [
-              {"text": "Ens expliques l'Escriptura",},
-              {"text": "Com ningú ho ho ha fet mai,",},
-              {"text": "I et reveles en el gest de partir el pa!",}
+              {"text": "Ens expliques l'Escriptura"},
+              {"text": "Com ningú ho ho ha fet mai,"},
+              {"text": "I et reveles en el gest de partir el pa!"}
             ]
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": 1,
             "paragraf": [
-              {"text": "Queda't amb nosaltres",},
-              {"text": "Que el dia ja comença a declinar!",},
-              {"text": "Queda't amb nosaltres,",},
-              {"text": "Qui camina amb tu Jesús mai no es perdrà!",}
+              {"text": "Queda't amb nosaltres"},
+              {"text": "Que el dia ja comença a declinar!"},
+              {"text": "Queda't amb nosaltres,"},
+              {"text": "Qui camina amb tu Jesús mai no es perdrà!"}
             ]
           },
           {
@@ -101172,24 +102205,24 @@ export default [
             "tipus": "tornada",
             "visibleAlsMusics": 1,
             "paragraf": [
-              {"text": "Ens expliques l'Escriptura",},
-              {"text": "Com ningú ho ho ha fet mai,",},
-              {"text": "I et reveles en el gest de partir el pa!",}
+              {"text": "Ens expliques l'Escriptura"},
+              {"text": "Com ningú ho ho ha fet mai,"},
+              {"text": "I et reveles en el gest de partir el pa!"}
             ]
           },
           {
             "tipus": "tornada",
             "visibleAlsMusics": 1,
             "paragraf": [
-              {"text": "Queda't amb nosaltres",},
-              {"text": "Que el dia ja comença a declinar!",},
-              {"text": "Queda't amb nosaltres,",},
-              {"text": "Qui camina amb tu Jesús mai no es perdrà!",}
+              {"text": "Queda't amb nosaltres"},
+              {"text": "Que el dia ja comença a declinar!"},
+              {"text": "Queda't amb nosaltres,"},
+              {"text": "Qui camina amb tu Jesús mai no es perdrà!"}
             ]
-          },
+          }
         ]
       }
     }
-  },
+  }
 
 ];
